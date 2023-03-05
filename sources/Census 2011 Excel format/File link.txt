@@ -1,0 +1,5 @@
+Original:
+https://www.data.gov.cy/dataset/%CF%80%CE%BB%CE%B7%CE%B8%CF%85%CF%83%CE%BC%CF%8C%CF%82-%CE%BA%CE%B1%CF%84%CE%AC-%CF%84%CF%8C%CF%80%CE%BF-%CE%B4%CE%B9%CE%B1%CE%BC%CE%BF%CE%BD%CE%AE%CF%82-%CE%B1%CF%80%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AE-%CF%80%CE%BB%CE%B7%CE%B8%CF%85%CF%83%CE%BC%CE%BF%CF%8D-2011
+
+Web Archive:
+https://web.archive.org/web/20180102032808/http://www.cystat.gov.cy/mof/cystat/statistics.nsf/All/59681B67FE82FD39C2257AD90053F3FA/$file/POP_CEN_11-POP_PLACE_RESID-EL-171115.xls?OpenElement
