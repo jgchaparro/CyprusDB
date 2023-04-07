@@ -1,41 +1,27 @@
 town,population,male_population,female_population,population_2006,male_population_2006,female_population_2006,district,subdistrict,municipality
-ABDİ ÇAVUŞ,568,315,253,975,591,384,Lefkoşa,Lefkoşa,Lefkoşa
-AKKAVUK,793,458,335,898,498,400,Lefkoşa,Lefkoşa,Lefkoşa
-ARABAHMET,561,297,264,761,425,336,Lefkoşa,Lefkoşa,Lefkoşa
-AYDEMET,2314,1147,1167,1550,765,785,Lefkoşa,Lefkoşa,Lefkoşa
-AYYILDIZ,489,271,218,559,316,243,Lefkoşa,Lefkoşa,Lefkoşa
-ÇAĞLAYAN,1307,667,640,1413,744,669,Lefkoşa,Lefkoşa,Lefkoşa
-GÖÇMENKÖY,3003,1551,1452,2946,1526,1420,Lefkoşa,Lefkoşa,Lefkoşa
+DİPKARPAZ,2016,1007,1009,1935,968,967,İskele,Yeni,Dipkarpaz
+GEMİKONAĞI,2075,1318,757,1498,854,644,Güzelyurt,Lefke,Lefke
+GÜZELYURT,7251,3619,3632,7627,3885,3742,Güzelyurt,Güzelyurt,Güzelyurt
+LAPTA,5748,2959,2789,5658,3151,2507,Girne,Girne,Lapta
+DİKMEN,3969,2131,1838,2605,1464,1141,Girne,Girne,Dikmen
+ALSANCAK,5595,2948,2647,4638,2577,2061,Girne,Girne,Alsancak
+GİRNE,21319,11403,9916,18744,10594,8150,Girne,Girne,Girne
+TATLISU,1120,579,541,903,461,442,Gazimağusa,Geçitkale,Tatlısu
+GAZİMAĞUSA,37642,20301,17341,33001,17897,15104,Gazimağusa,Gazimağusa,Gazimağusa
+DEĞİRMENLİK,3284,1778,1506,3128,1685,1443,Lefkoşa,Değirmenlik,Değimenlik
+GÖNYELİ,5374,2725,2649,3478,1808,1670,Lefkoşa,Lefkoşa,Gönyeli
+LEFKOŞA,51836,27102,24734,49868,26848,23020,Lefkoşa,Lefkoşa,Lefkoşa
+İSKELE,3058,1537,1521,2610,1405,1205,İskele,İskele,İskele
 HAMİTKÖY,5338,2773,2565,2898,1567,1331,Lefkoşa,Lefkoşa,Lefkoşa
 HASPOLAT,4204,2385,1819,3380,2168,1212,Lefkoşa,Lefkoşa,Lefkoşa
-HAYDARPAŞA,155,80,75,320,186,134,Lefkoşa,Lefkoşa,Lefkoşa
-İBRAHİMPAŞA,566,327,239,675,388,287,Lefkoşa,Lefkoşa,Lefkoşa
-İPLİKPAZARI,229,163,66,335,201,134,Lefkoşa,Lefkoşa,Lefkoşa
-KAFESLİ,233,145,88,439,281,158,Lefkoşa,Lefkoşa,Lefkoşa
-KARAMANZADE,351,168,183,429,227,202,Lefkoşa,Lefkoşa,Lefkoşa
-KIZILAY,3535,1754,1781,2700,1382,1318,Lefkoşa,Lefkoşa,Lefkoşa
-KÖŞKLÜÇİFTLİK,2939,1465,1474,3391,1732,1659,Lefkoşa,Lefkoşa,Lefkoşa
-KUMSAL,1855,992,863,1770,910,860,Lefkoşa,Lefkoşa,Lefkoşa
-KÜÇÜK KAYMAKLI,10572,5490,5082,8054,4243,3811,Lefkoşa,Lefkoşa,Lefkoşa
-MAHMUTPAŞA,314,172,142,537,317,220,Lefkoşa,Lefkoşa,Lefkoşa
-MARMARA,3081,1570,1511,2672,1373,1299,Lefkoşa,Lefkoşa,Lefkoşa
-ORTAKÖY,8868,4611,4257,6277,3322,2955,Lefkoşa,Lefkoşa,Lefkoşa
-SELİMİYE,878,510,368,987,597,390,Lefkoşa,Lefkoşa,Lefkoşa
-TAŞKINKÖY,3847,2180,1667,6338,3753,2585,Lefkoşa,Lefkoşa,Lefkoşa
-YENİCAMİ,1663,905,758,1686,936,750,Lefkoşa,Lefkoşa,Lefkoşa
-YENİŞEHİR,3715,1864,1851,4156,2135,2021,Lefkoşa,Lefkoşa,Lefkoşa
 AKINCILAR,390,199,191,462,231,231,Lefkoşa,Lefkoşa,Akıncılar
 ALAYKÖY,2777,1445,1332,2539,1348,1191,Lefkoşa,Lefkoşa,Alayköy
 TÜRKELİ,154,96,58,154,98,56,Lefkoşa,Lefkoşa,Alayköy
 YILMAZKÖY,953,533,420,785,435,350,Lefkoşa,Lefkoşa,Alayköy
 GÖNYELİ,11671,6241,5430,8708,4711,3997,Lefkoşa,Lefkoşa,Gönyeli
 KANLIKÖY,232,129,103,207,123,84,Lefkoşa,Lefkoşa,Gönyeli
-YENİKENT,5374,2725,2649,3478,1808,1670,Lefkoşa,Lefkoşa,Gönyeli
-BAHÇELİEVLER,256,126,130,222,104,118,Lefkoşa,Değirmenlik,Değimenlik
 BALIKESİR,860,429,431,1074,625,449,Lefkoşa,Değirmenlik,Değimenlik
-BAŞPINAR,321,167,154,254,131,123,Lefkoşa,Değirmenlik,Değimenlik
 BEYKÖY,105,42,63,88,35,53,Lefkoşa,Değirmenlik,Değimenlik
-CAMİALTI,327,181,146,310,195,115,Lefkoşa,Değirmenlik,Değimenlik
 CİHANGİR,961,475,486,929,495,434,Lefkoşa,Değirmenlik,Değimenlik
 ÇUKUROVA,208,100,108,187,94,93,Lefkoşa,Değirmenlik,Değimenlik
 DEMİRHAN,530,267,263,454,220,234,Lefkoşa,Değirmenlik,Değimenlik
@@ -47,31 +33,14 @@ GÖKHAN,202,117,85,229,128,101,Lefkoşa,Değirmenlik,Değimenlik
 KALAVAÇ,255,122,133,248,119,129,Lefkoşa,Değirmenlik,Değimenlik
 KIRIKKALE,390,184,206,398,189,209,Lefkoşa,Değirmenlik,Değimenlik
 KIRKLAR,384,246,138,335,200,135,Lefkoşa,Değirmenlik,Değimenlik
-MEHMETÇİK,497,264,233,599,305,294,Lefkoşa,Değirmenlik,Değimenlik
 MERİÇ,494,246,248,522,271,251,Lefkoşa,Değirmenlik,Değimenlik
 MİNARELİKÖY,1334,755,579,1766,1255,511,Lefkoşa,Değirmenlik,Değimenlik
-SARAY,1393,763,630,1519,839,680,Lefkoşa,Değirmenlik,Değimenlik
 TAŞOCAKLARI,0,0,0,128,91,37,Lefkoşa,Değirmenlik,Değimenlik
-TEPEBAŞI,490,277,213,224,111,113,Lefkoşa,Değirmenlik,Değimenlik
 YENİCEKÖY,399,201,198,401,208,193,Lefkoşa,Değirmenlik,Değimenlik
 YİĞİTLER,327,168,159,310,164,146,Lefkoşa,Değirmenlik,Değimenlik
-ANADOLU,1508,790,718,1340,687,653,Gazimağusa,Gazimağusa,Gazimağusa
-BAYKAL,2574,1285,1289,3136,1684,1452,Gazimağusa,Gazimağusa,Gazimağusa
-CANBOLAT,2460,1193,1267,2151,1086,1065,Gazimağusa,Gazimağusa,Gazimağusa
-ÇANAKKALE,4114,2260,1854,2309,1227,1082,Gazimağusa,Gazimağusa,Gazimağusa
-DUMLUPINAR,2940,1563,1377,2702,1416,1286,Gazimağusa,Gazimağusa,Gazimağusa
-HARİKA,651,340,311,393,201,192,Gazimağusa,Gazimağusa,Gazimağusa
 MARAŞ,226,125,101,503,317,186,Gazimağusa,Gazimağusa,Gazimağusa
-KARAKOL,7046,4207,2839,5585,3298,2287,Gazimağusa,Gazimağusa,Gazimağusa
-LALA MUSTAFA PAŞA,1836,915,921,2482,1245,1237,Gazimağusa,Gazimağusa,Gazimağusa
 MUTLUYAKA,407,205,202,404,218,186,Gazimağusa,Gazimağusa,Gazimağusa
-NAMIK KEMAL,1117,526,591,1083,569,514,Gazimağusa,Gazimağusa,Gazimağusa
-PERTEV PAŞA,1026,526,500,710,355,355,Gazimağusa,Gazimağusa,Gazimağusa
-PİYALE PAŞA,1220,610,610,1657,861,796,Gazimağusa,Gazimağusa,Gazimağusa
-SAKARYA,7647,4348,3299,5362,3102,2260,Gazimağusa,Gazimağusa,Gazimağusa
-SURİÇİ,1476,725,751,2026,1111,915,Gazimağusa,Gazimağusa,Gazimağusa
 TUZLA,2645,1394,1251,1877,1012,865,Gazimağusa,Gazimağusa,Gazimağusa
-ZAFER,2027,1013,1014,2065,1055,1010,Gazimağusa,Gazimağusa,Gazimağusa
 YENİ BOĞAZİÇİ,3347,1712,1635,2802,1524,1278,Gazimağusa,Gazimağusa,Yeni
 AKOVA,704,353,351,662,319,343,Gazimağusa,Gazimağusa,Yeni
 ALANİÇİ,860,436,424,863,461,402,Gazimağusa,Gazimağusa,Yeni
@@ -111,11 +80,7 @@ GÖNENDERE,389,187,202,394,193,201,Gazimağusa,Geçitkale,Serdarlı
 GÖRNEÇ,507,234,273,515,243,272,Gazimağusa,Geçitkale,Serdarlı
 PINARLI,167,86,81,202,101,101,Gazimağusa,Geçitkale,Serdarlı
 TİRMEN,197,106,91,184,106,78,Gazimağusa,Geçitkale,Serdarlı
-AKTUNÇ,671,346,325,733,369,364,Gazimağusa,Geçitkale,Tatlısu
 KÜÇÜKERENKÖY,339,168,171,257,187,70,Gazimağusa,Geçitkale,Tatlısu
-YALI,449,233,216,170,92,78,Gazimağusa,Geçitkale,Tatlısu
-AŞAĞI GİRNE,4471,2474,1997,4530,2697,1833,Girne,Girne,Girne
-YUKARI GİRNE,16380,8765,7615,13931,7738,6193,Girne,Girne,Girne
 AŞAĞI KARAMAN,675,346,329,565,312,253,Girne,Girne,Girne
 BEYLERBEYİ,918,476,442,934,503,431,Girne,Girne,Girne
 DOĞANKÖY,868,429,439,457,245,212,Girne,Girne,Girne
@@ -123,18 +88,12 @@ EDREMİT,1268,794,474,651,362,289,Girne,Girne,Girne
 KARAKUM,722,390,332,299,184,115,Girne,Girne,Girne
 KARAOĞLANOĞLU,3745,1963,1782,2610,1551,1059,Girne,Girne,Girne
 OZANKÖY,3070,1615,1455,2584,1441,1143,Girne,Girne,Girne
-ZEYTİNLİK KESİM,468,164,304,283,159,124,Girne,Girne,Girne
 ZEYTİNLİK KÖY,622,296,326,513,265,248,Girne,Girne,Girne
-ÇAĞLAYAN,611,355,256,656,351,305,Girne,Girne,Alsancak
 ILGAZ,72,36,36,75,48,27,Girne,Girne,Alsancak
 İNCESU,180,103,77,150,86,64,Girne,Girne,Alsancak
-YAYLA,4325,2277,2048,3410,1943,1467,Girne,Girne,Alsancak
-YEŞİLOVA,659,316,343,572,283,289,Girne,Girne,Alsancak
 YEŞİLTEPE,750,454,296,290,147,143,Girne,Girne,Alsancak
 ARAPKÖY,542,302,240,380,228,152,Girne,Girne,Çatalköy
 ÇATALKÖY,5110,2756,2354,3803,2147,1656,Girne,Girne,Çatalköy
-AŞAĞI DİKMEN,3553,1919,1634,1866,1041,825,Girne,Girne,Dikmen
-YUKARI DİKMEN,416,212,204,739,423,316,Girne,Girne,Dikmen
 AĞIRDAĞ,745,376,369,454,250,204,Girne,Girne,Dikmen
 AKÇİÇEK,79,45,34,87,45,42,Girne,Girne,Dikmen
 AŞAĞI TAŞKENT,290,148,142,264,134,130,Girne,Girne,Dikmen
@@ -151,14 +110,7 @@ BAHÇELİ,388,193,195,393,204,189,Girne,Girne,Esentepe
 BEŞPARMAK,30,16,14,42,23,19,Girne,Girne,Esentepe
 KARAAĞAÇ,242,116,126,264,133,131,Girne,Girne,Esentepe
 KARAMAN,55,29,26,85,43,42,Girne,Girne,Esentepe
-ADATEPE,378,186,192,566,334,232,Girne,Girne,Lapta
-BAŞPINAR,422,215,207,512,277,235,Girne,Girne,Lapta
 KARŞIYAKA,2091,1057,1034,2110,1185,925,Girne,Girne,Lapta
-KOCATEPE,1700,858,842,1410,749,661,Girne,Girne,Lapta
-SAKARYA,104,54,50,152,84,68,Girne,Girne,Lapta
-TINAZTEPE,2119,1100,1019,1832,1050,782,Girne,Girne,Lapta
-TÜRK,531,294,237,662,396,266,Girne,Girne,Lapta
-YAVUZ,494,252,242,524,261,263,Girne,Girne,Lapta
 AKDENİZ,522,276,246,597,317,280,Girne,Çamlıbel,Lapta
 ALEMDAĞ,86,45,41,87,45,42,Girne,Çamlıbel,Lapta
 ÇAMLIBEL,872,466,406,1037,561,476,Girne,Çamlıbel,Lapta
@@ -177,11 +129,8 @@ AŞAĞI BOSTANCI,1822,872,950,2024,1010,1014,Güzelyurt,Güzelyurt,Güzelyurt
 AYDINKÖY,1164,563,601,1154,577,577,Güzelyurt,Güzelyurt,Güzelyurt
 GAYRETKÖY,367,179,188,367,188,179,Güzelyurt,Güzelyurt,Güzelyurt
 GÜNEŞKÖY,505,252,253,546,277,269,Güzelyurt,Güzelyurt,Güzelyurt
-İSMET PAŞA,2541,1265,1276,2642,1348,1294,Güzelyurt,Güzelyurt,Güzelyurt
 KALKANLI,2305,1423,882,1338,811,527,Güzelyurt,Güzelyurt,Güzelyurt
-LALA MUSTAFA PAŞA,999,500,499,1342,717,625,Güzelyurt,Güzelyurt,Güzelyurt
 MEVLEVİ,386,207,179,370,217,153,Güzelyurt,Güzelyurt,Güzelyurt
-PİYALE PAŞA,3711,1854,1857,3643,1820,1823,Güzelyurt,Güzelyurt,Güzelyurt
 SERHATKÖY,573,280,293,595,300,295,Güzelyurt,Güzelyurt,Güzelyurt
 ŞAHİNLER,189,89,100,179,82,97,Güzelyurt,Güzelyurt,Güzelyurt
 YAYLA,850,424,426,775,390,385,Güzelyurt,Güzelyurt,Güzelyurt
@@ -196,12 +145,10 @@ CENGİZKÖY,217,106,111,180,97,83,Güzelyurt,Lefke,Lefke
 DENİZLİ,460,238,222,573,313,260,Güzelyurt,Lefke,Lefke
 DOĞANCI,1299,662,637,1291,654,637,Güzelyurt,Lefke,Lefke
 GAZİVEREN,1042,518,524,1002,508,494,Güzelyurt,Lefke,Lefke
-GEMİKONAĞI,2075,1318,757,1498,854,644,Güzelyurt,Lefke,Lefke
 TAŞPINAR,181,92,89,212,115,97,Güzelyurt,Lefke,Lefke
 YEDİDALGA,669,329,340,767,397,370,Güzelyurt,Lefke,Lefke
 YEŞİLIRMAK,458,227,231,410,210,200,Güzelyurt,Lefke,Lefke
 YEŞİLYURT,1218,637,581,1278,701,577,Güzelyurt,Lefke,Lefke
-İSKELE,1948,973,975,1824,948,876,İskele,İskele,İskele
 AĞILLAR,188,91,97,176,87,89,İskele,İskele,İskele
 ALTINOVA,229,115,114,250,115,135,İskele,İskele,İskele
 ARDAHAN,330,170,160,350,178,172,İskele,İskele,İskele
@@ -209,7 +156,6 @@ AYGÜN,414,209,205,380,187,193,İskele,İskele,İskele
 BOĞAZ,157,86,71,295,186,109,İskele,İskele,İskele
 BOĞAZİÇİ,514,252,262,475,234,241,İskele,İskele,İskele
 BOĞAZTEPE,312,151,161,444,280,164,İskele,İskele,İskele
-CEVİZLİ,1110,564,546,786,457,329,İskele,İskele,İskele
 ERGAZİ,202,94,108,207,92,115,İskele,İskele,İskele
 KALECİK,435,225,210,308,171,137,İskele,İskele,İskele
 KURTULUŞ,106,55,51,86,44,42,İskele,İskele,İskele
@@ -234,10 +180,7 @@ BALALAN,89,43,46,97,47,50,İskele,Mehmetçik,Mehmetçik
 KUMYALI,686,342,344,666,344,322,İskele,Mehmetçik,Mehmetçik
 PAMUKLU,280,141,139,256,129,127,İskele,Mehmetçik,Mehmetçik
 KANTARA,21,19,2,3,2,1,İskele,Mehmetçik,Mehmetçik
-ERSİN PAŞA,861,433,428,749,369,380,İskele,Yeni,Dipkarpaz
 KALEBURNU,333,158,175,351,157,194,İskele,Yeni,Dipkarpaz
-POLAT PAŞA,503,252,251,589,304,285,İskele,Yeni,Dipkarpaz
-SANCAR PAŞA,652,322,330,597,295,302,İskele,Yeni,Dipkarpaz
 YENİ ERENKÖY,1774,874,900,1640,816,824,İskele,Yeni,Yeni
 ADAÇAY,100,51,49,88,44,44,İskele,Yeni,Yeni
 AVTEPE,119,56,63,151,67,84,İskele,Yeni,Yeni
