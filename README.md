@@ -15,7 +15,7 @@ The CyprusDB database is a dataset compiling publicly available information on C
 * Coordinates - Συντεταγμένες
 * Google IDs for each settlement - Google IDs για κάθε κοινότητα
 * Extra information for areas not controlled by the Republic of Cyprus - Επιπλέον πληροφορίες για περιοχές που δεν ελέγχονται από την Κυπριακή Δημοκρατία:
-  * Total, male and female population in 2006 - Συνολικός, άνδρες και γυναίκες πληθυσμός το 2006
+  * Total, male and female population in 2006 - Συνολικός, άνδρες και γυναίκες πληθυσμός στο 2006
   * Subdistricts and municipalities - Υποδήματα και δήμοι
 
 
