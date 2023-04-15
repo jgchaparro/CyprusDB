@@ -1,6 +1,7 @@
 # CyprusDB database 
 
-<center> <img src= https://raw.githubusercontent.com/jgchaparro/CyprusDB/main/imgs/CyprusDB%20logo.jpeg></img></center>
+<center> <img src= https://raw.githubusercontent.com/jgchaparro/CyprusDB/main/imgs/CyprusDB%20logo.jpeg width = 500></img></center>
+
 
 The CyprusDB database is a dataset compiling publicly available information on Cyprus. It is designed to be updated periodically and to be used for research purposes. The database is available in CSV and XLSX formats and can be downloaded directly from the repository root.
 
@@ -14,6 +15,14 @@ The CyprusDB database is a dataset compiling publicly available information on C
 * Extra information for areas not controlled by the Republic of Cyprus:
   * Total, male and female population in 2006
   * Subdistricts and municipalities
+
+
+## Downloads
+
+There are two versions of the database available for download:
+
+* [CSV](https://github.com/jgchaparro/CyprusDB/blob/main/CyprusDB.csv)
+* [Excel](https://github.com/jgchaparro/CyprusDB/blob/main/CyprusDB.xlsx)
 
 
 ## Data sources
