@@ -1,10 +1,8 @@
-# Cyprus Database 
-<center> <img src= > </img></center>
+# CyprusDB database 
 
+<center> <img src= https://raw.githubusercontent.com/jgchaparro/CyprusDB/main/imgs/CyprusDB%20logo.jpeg></img></center>
 
-# CyprusDB generation
-
-This notebook contains all the steps followed to generate the CyprusDB dataset. This ensures its reproducibility.
+The CyprusDB database is a dataset compiling publicly available information on Cyprus. It is designed to be updated periodically and to be used for research purposes. The database is available in CSV and XLSX formats and can be downloaded directly from the repository root.
 
 ## Contents
 
