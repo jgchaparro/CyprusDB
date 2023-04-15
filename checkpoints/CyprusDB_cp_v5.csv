@@ -1,0 +1,595 @@
+town,greek_name,turkish_name,population,male_population,female_population,district,roc_control,lat,lon,gm_id,is_dimos,population_2006,male_population_2006,female_population_2006,subdistrict,municipality,lat_g,lon_g
+Lefkosia,Λευκωσία,Lefkoşa,55014,26520,28494,Λευκωσίας,True,35.1855659,33.38227639999999,ChIJVU1JymcX3hQRpcARA5ykXls,True,,,,,,,
+Agios Dometios,Άγιος Δομέτιος,Aydemet,12456,5861,6595,Λευκωσίας,True,35.1727869,33.3290916,ChIJqzUpSaEQ3hQRgmUX_emhREA,True,,,,,,,
+Egkomi,Έγκωμη,İncirli,18010,8547,9463,Λευκωσίας,True,35.1538229,33.3169542,ChIJtcdnJb8Q3hQR80ccwpjkIPk,True,,,,,,,
+Strovolos,Στροβόλος,Strovolos,67904,32248,35656,Λευκωσίας,True,35.1436629,33.3437909,ChIJ90x2dika3hQRq7-H2HRHAJo,True,,,,,,,
+Aglantzia,Αγλαντζιά,Atalassa,20783,9803,10980,Λευκωσίας,True,35.1498034,33.394086,ChIJb0vkuNMZ3hQR_4oSWBdFjX0,True,,,,,,,
+Lakatameia,Λακατάμεια,Lakadamya,38345,18674,19671,Λευκωσίας,True,35.1185656,33.3145382,ChIJvfpe0pgb3hQRzVO7VGoRPls,True,,,,,,,
+Synoikismos Anthoupolis,Συνοικισμός Ανθούπολης,Anthoupolis,1756,767,989,Λευκωσίας,True,35.1139513,33.2896786,ChIJB3reYWMb3hQRdCFNyi8yBbM,False,,,,,,,
+Latsia,Λατσιά,Uluyurt,16774,8132,8642,Λευκωσίας,True,35.1063639,33.3782668,ChIJbbBNlTcZ3hQRO3tmqqvDS3E,True,,,,,,,
+Geri,Γέρι,Yeri,8235,4065,4170,Λευκωσίας,True,35.1075703,33.422429,ChIJea8LrGAY3hQRBtiaqfqbnPM,False,,,,,,,
+Sia,Σιά,Sha,754,368,386,Λευκωσίας,True,34.9552892,33.3894743,ChIJyaqxJB2h4BQR4xR_8HkompQ,False,,,,,,,
+Mathiatis,Μαθιάτης,Matyat,646,326,320,Λευκωσίας,True,34.9630255,33.3366467,ChIJW3plc8Wm4BQRY6HRtjDfXkY,False,,,,,,,
+Alampra,Αλάμπρα,Alampra,1585,788,797,Λευκωσίας,True,34.9884546,33.3988433,ChIJvd1cIXmg4BQRSKeaCzuaokk,False,,,,,,,
+Agia Varvara ,Αγία Βαρβάρα ,Agia Varvara,2204,1102,1102,Λευκωσίας,True,34.9968356,33.3694007,ChIJHytKHKOg4BQRJEAahLexqTg,False,,,,,,,
+Kotsiatis,Κοτσιάτης,Koçyatağı,160,80,80,Λευκωσίας,True,35.0128665,33.3499895,ChIJXfhakAAe3hQRWV-sgS8mq-Y,False,,,,,,,
+Nisou,Νήσου,Dizdarköy,2179,1086,1093,Λευκωσίας,True,35.022874,33.3947933,ChIJf408cUse3hQR5sC4kmutaRI,False,,,,,,,
+Pera Chorio,Πέρα Χωριό,Pera Chorio,2637,1321,1316,Λευκωσίας,True,35.0145628,33.3941585,ChIJbVqEZNIf3hQRkuPAwfMYpT8,False,,,,,,,
+Dali,Δάλι,Dali,10466,5246,5220,Λευκωσίας,True,35.0195632,33.4192946,ChIJR1-vP5kf3hQRXYhk8d37OYU,True,,,,,,,
+Lympia,Λύμπια,Limya,2694,1384,1310,Λευκωσίας,True,34.9936909,33.4593569,ChIJk0dHKUQg3hQR3p4XYnTbcfs,False,,,,,,,
+Lythrodontas,Λυθροδόντας,Lythrodontas,3043,1564,1479,Λευκωσίας,True,34.9506716,33.2950563,ChIJeUSttX6m4BQRPabXkaXuzYo,False,,,,,,,
+Louroukina,Λουρουκίνα,Akıncılar,11,6,5,Λευκωσίας,True,35.0175999,33.466379,ChIJ2yNfV0sg3hQR4PG_cIx5amI,False,,,,,,,
+Potamia,Ποταμιά,Potamia,505,257,248,Λευκωσίας,True,35.042813,33.4456716,ChIJXYFX2-Yh3hQR1C6c6CBC-Uw,False,,,,,,,
+Agios Sozomenos,Άγιος Σωζόμενος,Arpalık,11,10,1,Λευκωσίας,True,35.0646628,33.4398281,ChIJfX30_akY3hQRy4cPwVmnOIA,False,,,,,,,
+Kampi,Καμπί,Kampi,97,47,50,Λευκωσίας,True,34.9080634,33.1288812,ChIJzVZYgWOy4BQRwoUE4ku9AW8,False,,,,,,,
+Farmakas,Φαρμακάς,Farmakas,480,239,241,Λευκωσίας,True,34.9112924,33.1343514,ChIJ-bk_kXCy4BQRGQXzl7Au-vc,False,,,,,,,
+Apliki,Απλίκι,Apliki,87,43,44,Λευκωσίας,True,34.9318078,33.1186243,ChIJZxUDz3ut4BQRWeR3hCyfR4A,False,,,,,,,
+Lazanias,Λαζανιάς,Lazanias,39,33,6,Λευκωσίας,True,34.9487288,33.1742979,ChIJbRUs1Yau4BQRfI911c-N-mM,False,,,,,,,
+Gourri,Γούρρη,Gourri,196,94,102,Λευκωσίας,True,34.9575257,33.1584404,ChIJ56t8bTKs4BQR3yEzdC9030U,False,,,,,,,
+Fikardou,Φικάρδου,Phicardou,15,7,8,Λευκωσίας,True,34.9591986,33.1712295,ChIJyT25BZ2u4BQRNNKmSlgdxw0,False,,,,,,,
+Agios Epifanios Oreinis,Άγιος Επιφάνιος Ορεινής,Agios Epifanios,412,203,209,Λευκωσίας,True,34.9961577,33.1203351,ChIJ77Xn7Yas4BQR2hnPjL-M-sM,False,,,,,,,
+Kalo Chorio Oreinis,Καλό Χωριό Ορεινής,Kalo Chorio,734,359,375,Λευκωσίας,True,35.0057783,33.1622181,ChIJ84ahLdyr4BQRZpTIu6SjFt0,False,,,,,,,
+Malounta,Μαλούντα,Malounta,490,251,239,Λευκωσίας,True,35.0363735,33.1827657,ChIJ1a-zTJCp4BQRxQkH4DF5wu8,False,,,,,,,
+Klirou,Κλήρου,Klirou,1847,942,905,Λευκωσίας,True,35.0213564,33.1777225,ChIJW709aJ6p4BQRXykhBvjz07w,False,,,,,,,
+Arediou,Αρεδιού,Arediou,1225,615,610,Λευκωσίας,True,35.0484051,33.1960743,ChIJwVMxKN2p4BQR6OGBddW5Ai8,False,,,,,,,
+Agios Ioannis Malountas,Άγιος Ιωάννης Μαλούντας,Agios Ioannis,472,229,243,Λευκωσίας,True,35.0658877,33.1834671,ChIJi0zWBgwC3hQRw6kYmUlXy94,False,,,,,,,
+Agrokipia,Αγροκηπιά,Agrokipia,509,251,258,Λευκωσίας,True,35.0445032,33.1551245,ChIJfZipdzuq4BQR4GUtXt_I3Yc,False,,,,,,,
+Mitsero,Μιτσερό,Mitsero,860,409,451,Λευκωσίας,True,35.041331,33.1284236,ChIJ18WXTVSq4BQRl-UYm3WF8wg,False,,,,,,,
+Kapedes,Καπέδες,Kapedes,572,309,263,Λευκωσίας,True,34.9773458,33.2551542,ChIJD9NVTaGo4BQRoZJoJgGmZIQ,False,,,,,,,
+Kataliontas,Καταλιόντας,Kataliontas,24,15,9,Λευκωσίας,True,34.9947436,33.3080301,ChIJoY48wgin4BQRDXmYY3oYQ88,False,,,,,,,
+Analiontas,Αναλιόντας,Analiontas,443,215,228,Λευκωσίας,True,35.0077483,33.2900824,ChIJP_6PB72n4BQRvazQ3VNaRxg,False,,,,,,,
+Kampia,Καμπιά,Kampia,475,221,254,Λευκωσίας,True,35.007253,33.25644279999999,ChIJi_bATnio4BQRC0HyIJNlrss,False,,,,,,,
+Margi,Μαργί,Küçükköy,146,83,63,Λευκωσίας,True,35.0239031,33.3258557,ChIJRe8074wd3hQRrutvPQCHvEs,False,,,,,,,
+Tseri,Τσέρι,Tseri,7035,3474,3561,Λευκωσίας,True,35.0707866,33.3247626,ChIJVTdztE8c3hQRVbBmDYvcbPg,False,,,,,,,
+Politiko,Πολιτικό,Politiko,419,199,220,Λευκωσίας,True,35.0281829,33.24271170000001,ChIJJbfXRBGo4BQRkmJFsuKRiWQ,False,,,,,,,
+Pera,Πέρα,Pera,1372,671,701,Λευκωσίας,True,35.0328461,33.2554262,ChIJS7JcUAKo4BQRCQ7BHpXcI2A,False,,,,,,,
+Episkopeio,Επισκοπειό,Episkopeio,524,272,252,Λευκωσίας,True,35.0406022,33.2443993,ChIJPyeIfB2o4BQRFz80m27pI0E,False,,,,,,,
+Psimolofou,Ψιμολόφου,Psimolofou,1626,831,795,Λευκωσίας,True,35.0608691,33.2597062,ChIJlUz3wDQd3hQRWORQJtLLxug,False,,,,,,,
+Ergates,Εργάτες,Ergates,1792,938,854,Λευκωσίας,True,35.0541055,33.2436859,ChIJ2an6QrsC3hQR3G-X_ix_7fE,False,,,,,,,
+Anageia,Ανάγεια,Anageia,1514,733,781,Λευκωσίας,True,35.074869,33.2516708,ChIJJU0Ha9EC3hQRegdjVvVwkvA,False,,,,,,,
+Pano Deftera,Πάνω Δευτερά,Pano Deftera,2789,1405,1384,Λευκωσίας,True,35.0817107,33.2672173,ChIJ4TmoKNEc3hQRDdjqzWhlFpY,False,,,,,,,
+Kato Deftera,Κάτω Δευτερά,Kato Deftera,2054,966,1088,Λευκωσίας,True,35.08804,33.2784486,ChIJ8-B-78Ec3hQRJT0ooikq-tg,False,,,,,,,
+Agioi Trimithias,Άγιοι Τριμιθιάς,Ayioi Trimithias,1529,758,771,Λευκωσίας,True,35.1144181,33.2112256,ChIJi0Zg_3YD3hQRXrtXAUWCGkc,False,,,,,,,
+Palaiometocho,Παλαιομέτοχο,Palaiometocho,4145,2113,2032,Λευκωσίας,True,35.1268061,33.1921206,ChIJ59ZxPo0D3hQRHZNAZO7j0XA,False,,,,,,,
+Deneia,Δένεια,Deneia,373,181,192,Λευκωσίας,True,35.166721,33.1442206,ChIJxbOgtsAG3hQRtAkZT4jfeg8,False,,,,,,,
+Kokkinotrimithia,Κοκκινοτριμιθιά,Kokkinotrimithia,4077,2030,2047,Λευκωσίας,True,35.1527991,33.1999632,ChIJkzVn_WgE3hQRNYojATSGI00,False,,,,,,,
+Mammari,Μάμμαρη,Mammari,1592,797,795,Λευκωσίας,True,35.1756676,33.2048502,ChIJaYf2na0F3hQRf1U2pI05jSA,False,,,,,,,
+Palaichori Morfou,Παλαιχώρι Μόρφου,Palaichori,686,330,356,Λευκωσίας,True,34.922316,33.0920661,ChIJ_6Zdr6Sy4BQRcro8W-YqC2Y,False,,,,,,,
+Askas,Ασκάς,Askas,170,84,86,Λευκωσίας,True,34.9294664,33.0777752,ChIJedb9JlNN5xQRsBqPnd6Bm_o,False,,,,,,,
+Alona,Άλωνα,Alona,67,28,39,Λευκωσίας,True,34.9343103,33.0396346,ChIJWwSFrHZN5xQRnB8us6NXQqc,False,,,,,,,
+Fterikoudi,Φτερικούδι,Fterikoudi,90,41,49,Λευκωσίας,True,34.94257,33.069487,ChIJ9Sfv7KhS5xQRk_lALpxTEWk,False,,,,,,,
+Polystypos,Πολύστυπος,Polistipos,128,60,68,Λευκωσίας,True,34.9396288,33.0177915,ChIJmevGTJFN5xQR9HeNf9owX8w,False,,,,,,,
+Lagoudera,Λαγουδερά,Lagoudera,84,34,50,Λευκωσίας,True,34.9621334,33.0103115,ChIJ-eYLkAxS5xQRW7tkNV2B4QM,False,,,,,,,
+Saranti,Σαράντι,Saranti,44,20,24,Λευκωσίας,True,34.96905050000001,32.9997237,ChIJ1-INkw9S5xQRj5cgAx8pdzs,False,,,,,,,
+Livadia ,Λιβάδια ,Livadia,18,9,9,Λευκωσίας,True,34.9461332,33.0230728,ChIJHRVsnI9N5xQRvJ5a15pDgGw,False,,,,,,,
+Alithinou,Αληθινού,Alithinou,9,3,6,Λευκωσίας,True,34.9476497,33.0286702,ChIJpc9mE4FN5xQRpJh5sIHp_EY,False,,,,,,,
+Platanistasa,Πλατανιστάσα,Platanistasa,117,49,68,Λευκωσίας,True,34.9472628,33.0454434,ChIJYblQqoJS5xQRXZX9wXDzMWg,False,,,,,,,
+Palaichori Oreinis,Παλαιχώρι Ορεινής,Kalo Chorio,333,165,168,Λευκωσίας,True,35.0057783,33.1622181,ChIJ84ahLdyr4BQRZpTIu6SjFt0,False,,,,,,,
+Xyliatos,Ξυλιάτος,Xyliatos,138,72,66,Λευκωσίας,True,35.0295134,33.0435849,ChIJZ7IRsYNU5xQRMP9Wlp0O2G4,False,,,,,,,
+Agios Georgios ,Άγιος Γεώργιος ,Agios Georgios,26,11,15,Λευκωσίας,True,35.037046,33.0124773,ChIJk5nuRnVU5xQRnMSYlgeBoQo,False,,,,,,,
+Nikitari,Νικητάρι,Nikitari,447,209,238,Λευκωσίας,True,35.0693398,32.9917153,ChIJpXkziilU5xQR6MA264uh0jk,False,,,,,,,
+Vyzakia,Βυζακιά,Vyzakia,347,171,176,Λευκωσίας,True,35.0770303,33.0148195,ChIJWw0LNLRV5xQRyVfPY114Plk,False,,,,,,,
+Agia Marina Xyliatou,Αγία Μαρίνα Ξυλιάτου,Agia Marina,568,270,298,Λευκωσίας,True,35.04922380000001,33.0566598,ChIJhZFJ0elU5xQRv7gzaJnOUWk,False,,,,,,,
+Agioi Iliofotoi,Άγιοι Ηλιόφωτοι,Zeytinlik,60,55,5,Λευκωσίας,True,35.059456,33.104036,ChIJAdrrw-uq4BQRxkbDup-1J2o,False,,,,,,,
+Kato Moni,Κάτω Μονή,Kato Moni,339,168,171,Λευκωσίας,True,35.0612836,33.0932799,ChIJf-Eh4sSq4BQRBs-gVK2Mgwk,False,,,,,,,
+Orounta,Ορούντα,Orounda,604,310,294,Λευκωσίας,True,35.1028182,33.0941709,ChIJo2E8QhEA3hQRNMhOYniI5gg,False,,,,,,,
+Pano Koutrafas,Πάνω Κουτραφάς,Pano Koutraphas,4,3,1,Λευκωσίας,True,35.0854271,32.9828841,ChIJacNi031W5xQR3y_6dtmIF34,False,,,,,,,
+Kato Koutrafas,Κάτω Κουτραφάς,Aşağı Kurtboğan,17,8,9,Λευκωσίας,True,35.1016736,32.9779895,ChIJr28khG1W5xQRAkzAltKTd3E,False,,,,,,,
+Potami,Ποτάμι,Potami,558,283,275,Λευκωσίας,True,35.1046562,33.028789,ChIJZysPEIdV5xQRPkTEx2yKsbo,False,,,,,,,
+Pano Zodeia,Πάνω Ζώδεια,Yukarı Bostancı,15,12,3,Λευκωσίας,True,35.1386371,32.9860159,ChIJMyeRpuj-3RQRDNZiowoWvBo,False,,,,,,,
+Akaki,Ακάκι,Akaki,3003,1494,1509,Λευκωσίας,True,35.1337357,33.1288417,ChIJW0sKzh4B3hQRVyWuYgO1WSw,False,,,,,,,
+Peristerona ,Περιστερώνα ,Peristerona,2226,1117,1109,Λευκωσίας,True,35.1305014,33.0798116,ChIJjzGq73sA3hQRbrdEi8WlTqQ,False,,,,,,,
+Astromeritis,Αστρομερίτης,Astromeritis,2307,1158,1149,Λευκωσίας,True,35.139698,33.0369494,ChIJuUOG2gn_3RQRn-GxowHTJbo,False,,,,,,,
+Meniko,Μένικο,Meniko,1023,511,512,Λευκωσίας,True,35.1112587,33.146156,ChIJ4w3urQoB3hQRA_E8SzZXQIY,False,,,,,,,
+Spilia,Σπήλια,Spilia,123,56,67,Λευκωσίας,True,34.9666909,32.9549718,ChIJUWHqgy9O5xQRZswvIfG3kc4,False,,,,,,,
+Agia Eirini ,Αγία Ειρήνη ,Agia Eirini,27,14,13,Λευκωσίας,True,34.9814562,32.9698159,ChIJ2b7_I-lR5xQR6wxdrjkwDoc,False,,,,,,,
+Kannavia,Καννάβια,Kannavia,129,59,70,Λευκωσίας,True,34.9830613,32.9771541,ChIJjTnO3-1R5xQRz9Zj7wdvyuE,False,,,,,,,
+Kakopetria,Κακοπετριά,Kakopetria,1274,603,671,Λευκωσίας,True,34.9899859,32.9036838,ChIJuQaiK1ZF5xQRkMfHz2omxLY,False,,,,,,,
+Agios Theodoros Soleas,Άγιος Θεόδωρος Σολέας,Ayios Theodoros Soleas,49,25,24,Λευκωσίας,True,35.042596,32.9284861,ChIJUX2KOcJQ5xQRb_-OHaE903Y,False,,,,,,,
+Galata,Γαλάτα,Galata,581,277,304,Λευκωσίας,True,34.997626,32.8986815,ChIJyWFmeQdQ5xQRo4JLfRSKhXM,False,,,,,,,
+Sinaoros,Σιναόρος,Sina Oros,228,119,109,Λευκωσίας,True,35.0099216,32.8981879,ChIJE_CLmwpQ5xQR773OpdQVmKs,False,,,,,,,
+Kaliana,Καλιάνα,Kaliana,200,92,108,Λευκωσίας,True,35.012206,32.8826138,ChIJRfyc47xa5xQRU8XmSMzP55E,False,,,,,,,
+Temvria,Τεμβριά,Temvria,498,230,268,Λευκωσίας,True,35.0280035,32.89178,ChIJWWRVJIRa5xQRIjUSkLucz7Y,False,,,,,,,
+Korakou,Κοράκου,Korakou,521,248,273,Λευκωσίας,True,35.0403045,32.8857482,ChIJ1Vx7xGRa5xQRaj9Dvt56CJ8,False,,,,,,,
+Eyrychou,Ευρύχου,Evrychou,827,385,442,Λευκωσίας,True,35.0427354,32.9012972,ChIJZXElz39a5xQRRreA3NlWhMs,False,,,,,,,
+Flasou,Φλάσου,Flasou,240,109,131,Λευκωσίας,True,35.060795,32.8874946,ChIJCVIeKxBa5xQRuDLz2UP16gs,False,,,,,,,
+Linou,Ληνού,Linou,161,67,94,Λευκωσίας,True,35.0729964,32.8919527,ChIJXQbXTwJa5xQRxwAM0eVZxmY,False,,,,,,,
+Katydata,Κατύδατα,Katydata,114,49,65,Λευκωσίας,True,35.0817895,32.8874154,ChIJ8_CKdPBZ5xQRQzAttTt1wD0,False,,,,,,,
+Skouriotissa ,Σκουριώτισσα ,Skouriotissa,11,4,7,Λευκωσίας,True,35.0916578,32.885038,ChIJlzIuT-hZ5xQRjlE67ME0T40,False,,,,,,,
+Pedoulas,Πεδουλάς,Pedoulas,132,67,65,Λευκωσίας,True,34.9686392,32.827564,ChIJRVsXN2dE5xQRf9DkiYNWhVg,False,,,,,,,
+Mylikouri,Μυλικούρι,Mylikouri,17,8,9,Λευκωσίας,True,34.9611506,32.7519984,ChIJq8Yw3yVC5xQRlv84elNpq1M,False,,,,,,,
+Moutoullas,Μουτουλλάς,Moutoullas,174,79,95,Λευκωσίας,True,34.983339,32.8245664,ChIJx3u4AZJE5xQRgZWMeLLl2C4,False,,,,,,,
+Oikos,Οίκος,Oikos,158,78,80,Λευκωσίας,True,35.0002913,32.8299929,ChIJoWP5gLhE5xQR2OhyINq3j5A,False,,,,,,,
+Kalopanagiotis,Καλοπαναγιώτης,Kalopanayiotis,263,123,140,Λευκωσίας,True,34.9916085,32.8282406,ChIJH5IitbRE5xQRx_EQ88Pb4yc,False,,,,,,,
+Gerakies,Γερακιές,Gerakies,75,27,48,Λευκωσίας,True,35.0003791,32.8051677,ChIJIeZSKV5D5xQR2Pt-N2n4wGc,False,,,,,,,
+Tsakistra,Τσακίστρα,Tsakistra,79,42,37,Λευκωσίας,True,35.0246263,32.7225721,ChIJ-Zqg8KFC5xQR7q6fHv0_2MI,False,,,,,,,
+Kampos,Κάμπος,Kampos,271,114,157,Λευκωσίας,True,35.0392022,32.7324144,ChIJ_fxPGbNC5xQRbzhxDfpTAY8,False,,,,,,,
+Pano Pyrgos,Πάνω Πύργος,Pano Pyrgos,22,11,11,Λευκωσίας,True,35.1556574,32.6829413,ChIJ--EZiedg5xQRiTqvxtHVpoA,False,,,,,,,
+Kato Pyrgos,Κάτω Πύργος,Kato Pyrgos,1036,516,520,Λευκωσίας,True,35.1813827,32.6856272,ChIJ-3ELgVpg5xQRkwqhdn7ExR4,False,,,,,,,
+Pigenia,Πηγένια,Pigenia,107,52,55,Λευκωσίας,True,35.1710158,32.656798,ChIJs7J6ZRFh5xQRZCniW2vxMyo,False,,,,,,,
+Pachyammos,Παχύαμμος,Pachyammos,70,35,35,Λευκωσίας,True,35.1707749,32.584818,ChIJJ8yTb4Jj5xQRmAr-KsUsIkk,False,,,,,,,
+Mansoura,Μανσούρα,Mansoura,9,4,5,Λευκωσίας,True,35.1869582,32.6360673,ChIJl8UxD3hh5xQR1dx_ol1VE0Q,False,,,,,,,
+Mosfili,Μοσφίλι,Mosfili,20,6,14,Λευκωσίας,True,35.1810885,32.6311244,ChIJQctit3xh5xQR1YeeAwdTagk,False,,,,,,,
+Agia Napa,Αγία Νάπα,Ayia Napa,3212,1611,1601,Αμμοχώστου,True,34.9887366,34.0002782,ChIJWYKRp2jF3xQRQKqvnhksWJY,False,,,,,,,
+Paralimni,Παραλίμνι,Paralimni,14963,7412,7551,Αμμοχώστου,True,35.0375882,33.9814728,ChIJN6Wo-2vE3xQR3F9Dv19dyqc,False,,,,,,,
+Deryneia,Δερύνεια,Derinköy,5844,2914,2930,Αμμοχώστου,True,35.062854,33.960628,ChIJiejhhbDI3xQRlH6-0Zix_vw,False,,,,,,,
+Sotira ,Σωτήρα ,Sotira,5474,2761,2713,Αμμοχώστου,True,35.0284699,33.9513191,ChIJ6-3Wew3P3xQR2ZIpR6oQHH0,False,,,,,,,
+Liopetri,Λιοπέτρι,Liopetri,4591,2276,2315,Αμμοχώστου,True,35.0096685,33.8929049,ChIJxwJgg__N3xQRZAHKR0V5Cp4,False,,,,,,,
+Frenaros,Φρέναρος,Frenaros,4298,2119,2179,Αμμοχώστου,True,35.0432562,33.924892,ChIJJ1dAX-_O3xQRa4h_7SjjH8g,False,,,,,,,
+Aygorou,Αυγόρου,Avgorou,4604,2300,2304,Αμμοχώστου,True,35.0370977,33.8401219,ChIJayulWQrN3xQRdL-fqV0siVo,False,,,,,,,
+Achna,Άχνα,Dasaki Achnas,2087,1051,1036,Αμμοχώστου,True,35.0728291,33.825531,ChIJEfGqsrEy3hQR9S8OV6Sf2X0,False,,,,,,,
+Acheritou,Αχερίτου,Vrysoules,1556,744,812,Αμμοχώστου,True,35.0732134,33.871748,ChIJ-3bvKvzL3xQRZiFfvsvFLTM,False,,,,,,,
+Larnaka,Λάρνακα,Larnaka,51468,24613,26855,Λάρνακας,True,34.9182222,33.6200625,ChIJE8tAbKGC4BQRpdBxEyLwy08,True,,,,,,,
+Aradippou,Αραδίππου,Aradip,19228,9554,9674,Λάρνακας,True,34.9521888,33.5908529,ChIJ3Qh9XZIn3hQRXyQfEHpuVVQ,True,,,,,,,
+Livadia,Λιβάδια,Livadia,7206,3521,3685,Λάρνακας,True,34.9490765,33.6275272,ChIJc16ZWGUo3hQRhM9yVc4utl0,False,,,,,,,
+Dromolaxia,Δρομολαξιά,Mormenekşe,5064,2462,2602,Λάρνακας,True,34.8761451,33.5857563,ChIJ-SwF-PGc4BQR-b33EcjjzIE,False,,,,,,,
+Meneou,Μενεού,Menevi,1625,801,824,Λάρνακας,True,34.8618571,33.5954577,ChIJzRsWkZmc4BQRI6XabNUSikw,False,,,,,,,
+Kellia,Κελλιά,Yıldırım,387,187,200,Λάρνακας,True,34.9769024,33.6233665,ChIJTYIVkZwo3hQRZYA93QHzGLQ,False,,,,,,,
+Troulloi,Τρούλλοι,Troulloi,1175,606,569,Λάρνακας,True,35.0150309,33.6216611,ChIJZyCu0Xgv3hQRatZghn44NnA,False,,,,,,,
+Oroklini  ,Ορόκληνη  ,Oroklini,6134,3052,3082,Λάρνακας,True,34.9828802,33.6558907,ChIJ_2PZZNoo3hQRKxiKfJKtI8g,False,,,,,,,
+Avdellero,Αβδελλερό,Avdeler,218,102,116,Λάρνακας,True,35.0101559,33.5693912,ChIJc-hzgYgm3hQRn1vw1UZ9uFA,False,,,,,,,
+Pyla,Πύλα,Pile,2771,1402,1369,Λάρνακας,True,35.0134077,33.6922186,ChIJPZiA7ZEu3hQRWvpMYkNkR4o,False,,,,,,,
+Xylotymvou,Ξυλοτύμβου,Xylotymvou,3655,1840,1815,Λάρνακας,True,35.0153362,33.7407024,ChIJtb5OMact3hQRKT5hFPpoz6Y,False,,,,,,,
+Ormideia,Ορμίδεια,Ormideia,4189,2026,2163,Λάρνακας,True,34.9923198,33.7791944,ChIJv107r9gs3hQRae-NlJanL0o,False,,,,,,,
+Xylofagou,Ξυλοφάγου,Xylofagou,6231,3057,3174,Λάρνακας,True,34.9761878,33.8487527,ChIJVz9cA1LS3xQRmEie9TECWYU,False,,,,,,,
+Pergamos,Πέργαμος,Beyarmudu,193,99,94,Λάρνακας,True,35.0486587,33.6958809,ChIJg1TRneIt3hQR8NVvavMgv4s,False,,,,,,,
+Kiti,Κίτι,Çite,4252,2054,2198,Λάρνακας,True,34.8464781,33.5727305,ChIJT8WFAgWb4BQRO4617z6zi3o,False,,,,,,,
+Perivolia ,Περιβόλια ,Bahçalar,3009,1531,1478,Λάρνακας,True,34.828698,33.5798536,ChIJ65hmAAab4BQR1ZJffakT_Jc,False,,,,,,,
+Tersefanou,Τερσεφάνου,Tersefanou,1299,663,636,Λάρνακας,True,34.8548144,33.5468888,ChIJ71No6-ub4BQR4wnlFQKLSng,False,,,,,,,
+Softades,Σοφτάδες,Softalar,62,29,33,Λάρνακας,True,34.8336242,33.5481414,ChIJ7ajrJbab4BQRjnfOt9HO5Dc,False,,,,,,,
+Mazotos,Μαζωτός,Mazotos,832,388,444,Λάρνακας,True,34.8038652,33.4872724,ChIJbdCzy3uX4BQR1Ubwz8yA4Mc,False,,,,,,,
+Alaminos,Αλαμινός,Alaminyo,345,174,171,Λάρνακας,True,34.8070417,33.4335814,ChIJC_P7EF694BQRhaf9anYsMFo,False,,,,,,,
+Anafotida,Αναφωτίδα,Akkor,790,390,400,Λάρνακας,True,34.8246869,33.4633383,ChIJ86nPtCOY4BQRoyEMxzPe9ns,False,,,,,,,
+Aplanta,Απλάντα,Aplanta Çiftlik,6,6,0,Λάρνακας,True,34.8290869,33.4743605,ChIJQfzAQTGY4BQRkQ4BdCuXQt4,False,,,,,,,
+Kivisili,Κιβισίλι,Cevizli,233,117,116,Λάρνακας,True,34.8397473,33.5058046,ChIJGy9F_aGZ4BQRnNlwKZv3jnM,False,,,,,,,
+Alethriko,Αλεθρικό,Alethriko,1101,538,563,Λάρνακας,True,34.8581994,33.4948446,ChIJF1jkgBqZ4BQR43ImyeQcMrg,False,,,,,,,
+Klavdia,Κλαυδιά,Alaniçi,427,205,222,Λάρνακας,True,34.8933791,33.51483,ChIJ0Qss47qe4BQRwQgxteCeyfM,False,,,,,,,
+Agglisides,Αγγλισίδες,Aksu,1146,588,558,Λάρνακας,True,34.8534791,33.4565974,ChIJdQLslmaY4BQRS1IjTpTS5Gs,False,,,,,,,
+Menogeia,Μενόγεια,Ötüken,50,22,28,Λάρνακας,True,34.8438208,33.4407763,ChIJPSI24QqY4BQRSHSRfPPi8tQ,False,,,,,,,
+Athienou,Αθιένου,Kiracıköy,5017,2462,2555,Λάρνακας,True,35.0617995,33.5399098,ChIJ0_D8YLsj3hQR5X0O5-iYOf4,False,,,,,,,
+Kalo Chorio ,Καλό Χωριό ,Vuda,1518,752,766,Λάρνακας,True,34.9274852,33.5370018,ChIJdXChWNyd4BQRC1QpE75sJ7c,False,,,,,,,
+Agia Anna,Αγία Άννα,Akhisar,339,170,169,Λάρνακας,True,34.9431755,33.4815517,ChIJH7l61bKf4BQRwUfZJ2eoH4A,False,,,,,,,
+Mosfiloti,Μοσφιλωτή,Mosfiloti,1365,674,691,Λάρνακας,True,34.9506826,33.4287225,ChIJKZtnKTKg4BQRt_8G2KyJKXY,False,,,,,,,
+Psevdas,Ψευδάς,Psevdas,1261,622,639,Λάρνακας,True,34.9512771,33.4631238,ChIJrUi_Y76f4BQRE_d3VJ-Tunc,False,,,,,,,
+Pyrga  ,Πυργά  ,Çamlıbel,812,422,390,Λάρνακας,True,34.9260101,33.4313872,ChIJZ656Ad6h4BQR22S-oL-2Z8c,False,,,,,,,
+Kornos,Κόρνος,Kornos,2083,1060,1023,Λάρνακας,True,34.9225644,33.3964523,ChIJO812fXyh4BQR1021AIz_ZXg,False,,,,,,,
+Delikipos,Δελίκηπος,Delikipos,23,12,11,Λάρνακας,True,34.9159428,33.3620252,ChIJ8bU0kO-j4BQRgWifmidfcng,False,,,,,,,
+Zygi,Ζύγι,Terazi,589,311,278,Λάρνακας,True,34.7276131,33.3349628,ChIJwd7x5Cq54BQRGVuCeaCbB4w,False,,,,,,,
+Mari,Μαρί,Tatlısu,158,83,75,Λάρνακας,True,34.7414054,33.2989795,ChIJ-xCz6Fy44BQRIRYbnbHr57o,False,,,,,,,
+Kalavasos,Καλαβασός,Kalavasos,737,371,366,Λάρνακας,True,34.7724293,33.2959772,ChIJLzhUjpi54BQR8E2k0IK2zt8,False,,,,,,,
+Tochni,Τόχνη,Taşkent,424,208,216,Λάρνακας,True,34.7819948,33.3231306,ChIJTQuxsmG54BQRg9eC_1ufnfk,False,,,,,,,
+Choirokoitia,Χοιροκoιτία,Choirokoitia,632,310,322,Λάρνακας,True,34.7966222,33.33558,ChIJlxi7bu274BQRGH-WXPSjt0A,False,,,,,,,
+Psematismenos,Ψεματισμένος,Yalancıköy,271,130,141,Λάρνακας,True,34.7676625,33.3461719,ChIJAUk_cFK54BQRlvyG5SQ_B2w,False,,,,,,,
+Maroni,Μαρώνι,Maroni,710,354,356,Λάρνακας,True,34.7572546,33.3573334,ChIJLaRzyba-4BQRCxyPX3rVA0A,False,,,,,,,
+Agios Theodoros ,Άγιος Θεόδωρος ,Aytotoro,663,332,331,Λάρνακας,True,34.7987765,33.3836411,ChIJNbatE1e84BQR5N8OMs3CdyQ,False,,,,,,,
+Skarinou,Σκαρίνου,Skarinou,393,192,201,Λάρνακας,True,34.8214575,33.3590151,ChIJtYl7yYS84BQR7nmLOUd4IzE,False,,,,,,,
+Kofinou,Κοφίνου,Geçitkale,1312,721,591,Λάρνακας,True,34.8256084,33.3893174,ChIJ7cYTz9i84BQRubn919vI_vE,False,,,,,,,
+Kato Levkara,Κάτω Λεύκαρα,Aşağı Lefkara,128,60,68,Λάρνακας,True,34.8633533,33.3146816,ChIJSzfsujK74BQRF0j1oYNHrHE,False,,,,,,,
+Pano Levkara,Πάνω Λεύκαρα,Yukarı Lefkara,762,363,399,Λάρνακας,True,34.8673535,33.3053345,ChIJ8396qdWk4BQR0xj9CQFxJoY,False,,,,,,,
+Kato Drys,Κάτω Δρυς,Kato Drys,129,60,69,Λάρνακας,True,34.8516158,33.3045466,ChIJZcWZmCC74BQRCPQ_XNGZzgU,False,,,,,,,
+Vavla,Βάβλα,Vavla,52,17,35,Λάρνακας,True,34.8414268,33.2688594,ChIJ56EZrYe64BQRJXnPWokae7U,False,,,,,,,
+Lageia,Λάγεια,Lageia,28,13,15,Λάρνακας,True,34.8434883,33.2475593,ChIJRaoScPWw4BQR29YZDdKPXbo,False,,,,,,,
+Ora,Ορά,Ora,206,113,93,Λάρνακας,True,34.8617787,33.19513,ChIJI9U8pKCx4BQR7IOVVvKVQQ8,False,,,,,,,
+Melini,Μελίνη,Melini,59,34,25,Λάρνακας,True,34.867097,33.1571512,ChIJ34G4E86z4BQR8cpHph3z8Pk,False,,,,,,,
+Odou,Οδού,Odou,213,130,83,Λάρνακας,True,34.8855322,33.1507464,ChIJX0wwXzey4BQRWh3kpMom-yY,False,,,,,,,
+Agioi Vavatsinias,Άγιοι Βαβατσινιάς,Agioi Vavatsinias,131,71,60,Λάρνακας,True,34.8798262,33.190932,ChIJPZudK76x4BQRWQzd01gOToQ,False,,,,,,,
+Vavatsinia,Βαβατσινιά,Vavatsinia,81,42,39,Λάρνακας,True,34.8933235,33.2293042,ChIJ6clA5Niv4BQRARzjOXM8mZ8,False,,,,,,,
+Lemesos,Λεμεσός,Limasol,101000,48421,52579,Λεμεσού,True,34.6786322,33.0413055,ChIJnfQCrBYz5xQRErAlcJV_qdo,True,,,,,,,
+Mesa Geitonia,Μέσα Γειτονιά,Mesa Geitonia,14477,6943,7534,Λεμεσού,True,34.6982601,33.0455093,ChIJ5bZwl28z5xQRdNC5jaL0wxE,True,,,,,,,
+Agios Athanasios,Άγιος Αθανάσιος,Agios Athanasios,14347,6760,7587,Λεμεσού,True,34.7109373,33.0597452,ChIJ2SQ5I5Y05xQRX_c0Fpz8_XM,True,,,,,,,
+Germasogeia,Γερμασόγεια,Germasogeia,13421,6494,6927,Λεμεσού,True,34.7227518,33.0845277,ChIJAxPg8DPL4BQR0eD3XJ7Ycx8,True,,,,,,,
+Pano Polemidia,Πάνω Πολεμίδια,Yukarı Binatlı,3470,1699,1771,Λεμεσού,True,34.7098925,32.99206040000001,ChIJH7C_MGAx5xQR925eH1R9PKI,False,,,,,,,
+Ypsonas,Ύψωνας,Ypsonas,11117,5529,5588,Λεμεσού,True,34.6882836,32.9612103,ChIJK8qTmbYx5xQRNSuzg1f4OzU,False,,,,,,,
+Kato Polemidia,Κάτω Πολεμίδια,Binatlı,22369,10903,11466,Λεμεσού,True,34.689381,33.0087394,ChIJz2jGDdIz5xQRNAOO8jJCkYY,True,,,,,,,
+Palodeia,Παλόδεια,Palodia,1568,775,793,Λεμεσού,True,34.7448585,33.0057813,ChIJtX6MZD405xQRjr60iwnnPng,False,,,,,,,
+Paramytha,Παραμύθα,Paramytha,569,279,290,Λεμεσού,True,34.7612191,32.9950889,ChIJ799FYSk05xQRXk_aukixDTQ,False,,,,,,,
+Spitali,Σπιτάλι,Spitali,316,148,168,Λεμεσού,True,34.7634165,33.0035795,ChIJsb3gVSw05xQRX9kOcapX_JY,False,,,,,,,
+Fasoula ,Φασούλα ,Fasoula,560,261,299,Λεμεσού,True,34.763803,33.0267096,ChIJsWpcwq415xQRCL2ZFG6XB0o,False,,,,,,,
+Mathikoloni,Μαθικολώνη,Mathikoloni,174,85,89,Λεμεσού,True,34.7747644,33.0477977,ChIJUQyTXG815xQR25Y7hK5WoNA,False,,,,,,,
+Gerasa,Γεράσα,Gerasa,69,31,38,Λεμεσού,True,34.8026925,32.9958715,ChIJlbzujPg15xQRElHZGZN4TPE,False,,,,,,,
+Apsiou,Αψιού,Apsiou,208,97,111,Λεμεσού,True,34.7975112,33.0167299,ChIJpdYHAIo15xQR-DkXOL0hzKI,False,,,,,,,
+Apesia,Απεσιά,Apesia,474,218,256,Λεμεσού,True,34.7888153,32.9791008,ChIJ21A9sHI25xQRTtQgq4s6xSM,False,,,,,,,
+Korfi,Κορφή,Korfi,199,102,97,Λεμεσού,True,34.7943298,32.9657546,ChIJTR7YuD825xQRFzr7p5RbF8o,False,,,,,,,
+Limnatis,Λιμνάτης,Limnatis,314,144,170,Λεμεσού,True,34.813109,32.9476114,ChIJcU2jqi425xQRwHJUpqdDkzU,False,,,,,,,
+Kapileio,Καπηλειό,Kapilio,34,16,18,Λεμεσού,True,34.8322135,32.9579111,ChIJ5Y2X_cZJ5xQRgouXAc0V-nE,False,,,,,,,
+Mouttagiaka,Μουτταγιάκα,Mutluyaka,2939,1464,1475,Λεμεσού,True,34.7207324,33.1007555,ChIJDzwj8hfL4BQRudKN74NCn5Q,False,,,,,,,
+Armenochori,Αρμενοχώρι,Esenköy,218,104,114,Λεμεσού,True,34.7447112,33.1295812,ChIJbyBfsWDK4BQRJFRcsopF_VQ,False,,,,,,,
+Foinikaria,Φοινικάρια,Foinikaria,339,160,179,Λεμεσού,True,34.7530522,33.0983787,ChIJb6TMksDK4BQRt1Chmg1UaD8,False,,,,,,,
+Akrounta,Ακρούντα,Akrounta,455,206,249,Λεμεσού,True,34.7656682,33.0812791,ChIJ_dHSbLPK4BQRuIvKZ4oAmPs,False,,,,,,,
+Agios Tychon,Άγιος Τύχων,Agios Tychon,3455,1724,1731,Λεμεσού,True,34.7258619,33.1404129,ChIJjSlst1LK4BQRN939hbnOL3Q,False,,,,,,,
+Parekklisia,Παρεκκλησιά,Pareklisia,2738,1333,1405,Λεμεσού,True,34.7435844,33.1600766,ChIJM4_WJhvK4BQRb68sNoBrpSs,False,,,,,,,
+Pentakomo,Πεντάκωμο,Beşevler,644,318,326,Λεμεσού,True,34.7389726,33.2411553,ChIJm-O0Bua34BQR_7XSdwLGLPA,False,,,,,,,
+Monagroulli,Μοναγρούλλι,Monagroulli,536,260,276,Λεμεσού,True,34.7482813,33.2120933,ChIJE7LtXS224BQRQrCkx8NMSUo,False,,,,,,,
+Moni,Μονή,Moni,622,321,301,Λεμεσού,True,34.7390692,33.2012827,ChIJYdHsmN3J4BQRkMN-vHIylZ0,False,,,,,,,
+Pyrgos ,Πύργος ,Pyrgos,2363,1172,1191,Λεμεσού,True,34.7417862,33.1832043,ChIJOSIKiOTJ4BQR63b6XZ-HRVE,False,,,,,,,
+Asgata,Ασγάτα,Asgata,417,208,209,Λεμεσού,True,34.7792675,33.255693,ChIJRUQO_mO34BQRXLsKlltNO_I,False,,,,,,,
+Vasa Kellakiou,Βάσα Κελλακίου,Vasa,73,33,40,Λεμεσού,True,34.8039688,33.2158763,ChIJByB1fCe34BQRiC-mB_V0Vzw,False,,,,,,,
+Sanida,Σανίδα,Sanida,42,21,21,Λεμεσού,True,34.8072135,33.1899321,ChIJ7VhiOL-24BQRpusi6vOAEVM,False,,,,,,,
+Prastio Kellakiou,Πραστιό Κελλακίου,Prastio,103,51,52,Λεμεσού,True,34.8118472,33.142338,ChIJr7Yy-ka04BQRSVyGOVD8sLU,False,,,,,,,
+Klonari,Κλωνάρι,Klonari,18,6,12,Λεμεσού,True,34.8264806,33.1813508,ChIJk4uFRa224BQRW-Wnt_1Tw9s,False,,,,,,,
+Vikla,Βίκλα,Vikla,1,0,1,Λεμεσού,True,34.8272657,33.1957503,ChIJ75paljax4BQR9T39VGOtn1M,False,,,,,,,
+Kellaki,Κελλάκι,Kellaki,299,148,151,Λεμεσού,True,34.8158446,33.1575597,ChIJ1TPCyBm04BQRnUc--8BIdco,False,,,,,,,
+Akapnou,Ακαπνού,Akapnou,20,10,10,Λεμεσού,True,34.8393982,33.1863636,ChIJR59iTkGx4BQRLkiJ2LiT7mc,False,,,,,,,
+Eptagoneia,Επταγώνεια,Eptagonia,353,172,181,Λεμεσού,True,34.8464289,33.1579238,ChIJKdSoYe-z4BQRpxrb4GGW2Ec,False,,,,,,,
+Dierona,Διερώνα,Dierona,192,103,89,Λεμεσού,True,34.8296739,33.1117782,ChIJBYyHX5K04BQRC66P5waAW-A,False,,,,,,,
+Arakapas,Αρακαπάς,Arakapas,307,146,161,Λεμεσού,True,34.8440054,33.1141272,ChIJtV6QLIO04BQRfoQJjN4JXAE,False,,,,,,,
+Agios Pavlos,Άγιος Παύλος,Agios Pavlos,135,68,67,Λεμεσού,True,34.8626574,33.0455842,ChIJ52fmpWRL5xQRk-_-heDUo-s,False,,,,,,,
+Agios Konstantinos,Άγιος Κωνσταντίνος,Agios Konstantinos,137,69,68,Λεμεσού,True,34.8674197,33.0650055,ChIJu4iywaVM5xQRKIlQa0so93I,False,,,,,,,
+Sykopetra,Συκόπετρα,Sykopetra,120,60,60,Λεμεσού,True,34.8786689,33.1112506,ChIJvyJgzhqz4BQR4852_OjmwH8,False,,,,,,,
+Louvaras,Λουβαράς,Louvaras,363,185,178,Λεμεσού,True,34.8348747,33.0381446,ChIJqeu4xBtL5xQRExO3ej4mtmU,False,,,,,,,
+Kalo Chorio ,Καλό Χωριό ,Kalo Chorio,497,242,255,Λεμεσού,True,34.849626,33.0242499,ChIJ5aBOYqNL5xQRclvf88t9prY,False,,,,,,,
+Zoopigi,Ζωοπηγή,Zoopigi,140,69,71,Λεμεσού,True,34.862776,33.0152868,ChIJa5s8l5NL5xQROW57-SErCwo,False,,,,,,,
+Akrotiri,Ακρωτήρι,Akrotiri,870,427,443,Λεμεσού,True,34.6016136,32.9557945,ChIJ6eWZxecu5xQRLFt15nCJmh8,False,,,,,,,
+Asomatos ,Ασώματος ,Gözügüzel,726,361,365,Λεμεσού,True,34.6379699,32.9573383,ChIJqUh6V0cu5xQR1YyC7mF1Onw,False,,,,,,,
+Tserkezoi,Τσερκέζοι,Çerkez Çiflik,50,29,21,Λεμεσού,True,34.6530262,32.9904151,ChIJJyNCuAEy5xQRg51IQBoM9eo,False,,,,,,,
+Trachoni ,Τραχώνι ,Kayakale,3952,1961,1991,Λεμεσού,True,34.6563694,32.9626282,ChIJ-f1kR98x5xQROXFUgSEezm0,False,,,,,,,
+Kolossi,Κολόσσι,Yunus,5651,2789,2862,Λεμεσού,True,34.670786,32.9338168,ChIJueG5bSgw5xQRNslktqKIprs,False,,,,,,,
+Erimi,Ερήμη,Erimi,2432,1178,1254,Λεμεσού,True,34.6818602,32.9202321,ChIJ_698wxYw5xQRu7PG16zdX6c,False,,,,,,,
+Episkopi ,Επισκοπή ,Episkopi,3681,1779,1902,Λεμεσού,True,34.6704716,32.9021979,ChIJ1ygD_Ckl5xQRUZLuOB_DQZw,False,,,,,,,
+Kantou,Καντού,Çanakkale,349,166,183,Λεμεσού,True,34.6906882,32.9074609,ChIJQe_OVgww5xQRuJYJAqBKZB8,False,,,,,,,
+Sotira ,Σωτήρα ,Sotira,143,72,71,Λεμεσού,True,34.7112765,32.8621753,ChIJvRDXxuU65xQR4EjH7_5-Kno,False,,,,,,,
+Prastio,Πραστιό,Çeliktaş,245,106,139,Λεμεσού,True,34.729241,32.7788665,ChIJF5mNbsI85xQRJyTbO7PZC08,False,,,,,,,
+Paramali,Παραμάλι,Çayönü,220,110,110,Λεμεσού,True,34.6763581,32.7926458,ChIJe0mFHlsj5xQRm5OdfaDLKoM,False,,,,,,,
+Aydimou,Αυδήμου,Düzkaya,535,259,276,Λεμεσού,True,34.6926313,32.7631264,ChIJpR48uR4j5xQRyWISjhtSmfs,False,,,,,,,
+Platanisteia,Πλατανίστεια,Çamlıca,45,22,23,Λεμεσού,True,34.7121681,32.7102032,ChIJYbRXPHMY5xQRpz2K5kvehLg,False,,,,,,,
+Agios Thomas,Άγιος Θωμάς,Mersinlik,50,23,27,Λεμεσού,True,34.7158993,32.7256983,ChIJdXY5zKUi5xQRI6gnoftDLfg,False,,,,,,,
+Alektora,Αλέκτορα,Gökağaç,64,36,28,Λεμεσού,True,34.7089706,32.683038,ChIJ6eLiVlAY5xQR7pYj8N5HG7Y,False,,,,,,,
+Anogyra,Ανώγυρα,Taşlıca,301,141,160,Λεμεσού,True,34.7392189,32.7335508,ChIJ_28yy0U95xQRFxogS2Jr2NQ,False,,,,,,,
+Pissouri,Πισσούρι,Pissouri,1819,922,897,Λεμεσού,True,34.6767071,32.6992551,ChIJkeMF4bkY5xQRVGlhXfJXzkI,False,,,,,,,
+Souni-Zanakia,Σούνι-Ζανακιά,Souni-Zanakia,837,420,417,Λεμεσού,True,34.7382364,32.8821021,ChIJVWGyTBM65xQRnYXWfrtfAT8,False,,,,,,,
+Alassa,Άλασσα,Alassa,282,132,150,Λεμεσού,True,34.7625613,32.9290054,ChIJzzIN3D035xQR8GNXMHyn6hM,False,,,,,,,
+Kato Kivides,Κάτω Κιβίδες,Yukarı Alsandık,5,3,2,Λεμεσού,True,34.7645768,32.8632719,ChIJvWabGig65xQRdemPdxYfsVE,False,,,,,,,
+Pano Kivides,Πάνω Κιβίδες,Pano Kivides,707,352,355,Λεμεσού,True,34.7586387,32.8527046,ChIJfXCnXTI65xQRquu0BWh9nes,False,,,,,,,
+Agios Amvrosios ,Άγιος Αμβρόσιος ,Agios Amvrosios,323,149,174,Λεμεσού,True,34.7809352,32.8266361,ChIJq0vTJlw55xQRM2VfaLpJJ_8,False,,,,,,,
+Agios Therapon,Άγιος Θεράπων,Agios Therapon,125,57,68,Λεμεσού,True,34.7976533,32.8400793,ChIJ45thnxE55xQRIvG0UVoEbO4,False,,,,,,,
+Lofou,Λόφου,Lofou,46,25,21,Λεμεσού,True,34.8141177,32.8749029,ChIJw5UYTUc45xQRVhfme_rI6E0,False,,,,,,,
+Pachna,Πάχνα,Pahna,865,420,445,Λεμεσού,True,34.7781308,32.79443850000001,ChIJ5xLz3hs85xQRprjI-h6Pr1U,False,,,,,,,
+Agios Georgios ,Άγιος Γεώργιος ,Agios Georgios,111,54,57,Λεμεσού,True,34.8151304,32.8984644,ChIJ39dqlvU35xQRheUT2ASw99s,False,,,,,,,
+Doros,Δωρός,Dhoros,135,56,79,Λεμεσού,True,34.816113,32.9101584,ChIJ4_Ixau435xQRWPV1gwR47j4,False,,,,,,,
+Laneia,Λάνεια,Laneia,281,142,139,Λεμεσού,True,34.8242267,32.9208191,ChIJQT0ufOA35xQRR1w6MISIWIE,False,,,,,,,
+Silikou,Σιλίκου,Silifke,137,61,76,Λεμεσού,True,34.8324613,32.8901075,ChIJDcY8bQY45xQRVqbE1wh3l0E,False,,,,,,,
+Monagri,Μονάγρι,Monagri,175,72,103,Λεμεσού,True,34.8092578,32.9109593,ChIJZWZpo5I35xQRrLnRX5hBgEM,False,,,,,,,
+Trimiklini,Τριμήκληνη,Trimiklini,307,142,165,Λεμεσού,True,34.8484869,32.911182,ChIJWcI69BJI5xQRaYWbowhmvYU,False,,,,,,,
+Agios Mamas,Άγιος Μάμας,Agios Mamas,114,40,74,Λεμεσού,True,34.8511033,32.9487543,ChIJVcK2h65J5xQRQ7WIyzbr2lw,False,,,,,,,
+Kouka,Κουκά,Kouka,27,14,13,Λεμεσού,True,34.8516033,32.8870972,ChIJ5R2KXe9H5xQR-wcv5GLgllY,False,,,,,,,
+Moniatis,Μονιάτης,Moniatis,275,126,149,Λεμεσού,True,34.868825,32.897145,ChIJ94_W3tVH5xQR2klKftimnYI,False,,,,,,,
+Dora,Δωρά,Dora,145,68,77,Λεμεσού,True,34.7816186,32.7378222,ChIJkTkZB5U95xQRbrcooqyNUVY,False,,,,,,,
+Arsos ,Άρσος ,Arsos,202,86,116,Λεμεσού,True,34.8410556,32.7692686,ChIJJylx4QU_5xQRRI8m6gAyZlk,False,,,,,,,
+Kissousa,Κισσούσα,Kissousa,6,3,3,Λεμεσού,True,34.8101445,32.7935055,ChIJq8Arw8U-5xQRmT9HyViUIls,False,,,,,,,
+Malia,Μαλιά,Bağlarbaşı,64,32,32,Λεμεσού,True,34.8168712,32.78317090000001,ChIJq7CVBuk-5xQRANPn0t2s0ko,False,,,,,,,
+Vasa Koilaniou,Βάσα Κοιλανίου,Vasa,163,82,81,Λεμεσού,True,34.8331824,32.7925858,ChIJbf6siSM_5xQRmwZG3WfNJOw,False,,,,,,,
+Vouni,Βουνί,Vouni,149,72,77,Λεμεσού,True,34.8230959,32.83388360000001,ChIJbeyEgug45xQRfYtVxp6mXBg,False,,,,,,,
+Pera Pedi,Πέρα Πεδί,Pera Pedi,120,59,61,Λεμεσού,True,34.8591819,32.8786132,ChIJ8dK1UpVH5xQRgVCzGGjYKNg,False,,,,,,,
+Mandria ,Μανδριά ,Mandria,107,50,57,Λεμεσού,True,34.8700469,32.8326114,ChIJsczvEGpH5xQRsciiwD-fDzQ,False,,,,,,,
+Potamiou,Ποταμιού,Potamiou,36,14,22,Λεμεσού,True,34.8236864,32.8067249,ChIJeQbo5io_5xQRyjP-Im3WwFQ,False,,,,,,,
+Omodos,Όμοδος,Omodos,322,148,174,Λεμεσού,True,34.8489219,32.8077875,ChIJB0OIhbY45xQRE293wO2Hwf4,False,,,,,,,
+Koilani,Κοιλάνι,Ceylan,216,91,125,Λεμεσού,True,34.8437635,32.8609064,ChIJhd31o3g45xQRE_4SN_PzuCQ,False,,,,,,,
+Agios Dimitrios,Άγιος Δημήτριος,Agios Dimitrios,54,15,39,Λεμεσού,True,34.9255557,32.8093553,ChIJz5f9BLNG5xQRXjdT6alLsgc,False,,,,,,,
+Palaiomylos,Παλαιόμυλος,Palaiomylos,20,7,13,Λεμεσού,True,34.9346806,32.8208957,ChIJid3UiadG5xQR-al7SsUWBR8,False,,,,,,,
+Prodromos,Πρόδρομος,Prodromos,123,53,70,Λεμεσού,True,34.949966,32.8326008,ChIJNy2YCD5E5xQRTvdLWFnP_Hw,False,,,,,,,
+Kaminaria,Καμινάρια,Kaminaria,44,19,25,Λεμεσού,True,34.9279581,32.7837628,ChIJc0za3WpB5xQRMkSc9nmRX8Y,False,,,,,,,
+Treis Elies,Τρεις Ελιές,Treis Elies,25,11,14,Λεμεσού,True,34.9328386,32.793992,ChIJRcJv9kRB5xQRWVsHL0aBO28,False,,,,,,,
+Lemithou,Λεμίθου,Lemithou,88,38,50,Λεμεσού,True,34.9510501,32.8138436,ChIJO9l4_ghE5xQRChbfMTkv9I0,False,,,,,,,
+Kato Platres ,Κάτω Πλάτρες ,Kato Platres,148,68,80,Λεμεσού,True,34.8797205,32.8420213,ChIJ1ex5RVJG5xQR3HwwGL-Vmr8,False,,,,,,,
+Pano Platres,Πάνω Πλάτρες,Pano Platres,239,109,130,Λεμεσού,True,34.8880353,32.8643444,ChIJd91UiFNG5xQR6uDkdxHwdfw,False,,,,,,,
+Foini,Φοινί,Foini,391,173,218,Λεμεσού,True,34.8938825,32.8365745,ChIJ-ZRJLhhH5xQRrZEXVSNhXf8,False,,,,,,,
+Amiantos,Αμίαντος,Kato Amiantos,228,114,114,Λεμεσού,True,34.9173137,32.9370119,ChIJZUQhuyNP5xQRDapaPe7QmAo,False,,,,,,,
+Agios Theodoros ,Άγιος Θεόδωρος ,Agios Theodoros,65,31,34,Λεμεσού,True,34.8937915,33.0331615,ChIJ98ixdF9M5xQRbWAG0WLJjHM,False,,,,,,,
+Agios Ioannis ,Άγιος Ιωάννης ,Agios Ioannis,339,166,173,Λεμεσού,True,34.6776126,33.0183948,ChIJ9cBYJLMz5xQREOPo955awT8,False,,,,,,,
+Kato Mylos,Κάτω Μύλος,Kato Milos,50,23,27,Λεμεσού,True,34.8946913,33.006335,ChIJp6J9rBZM5xQRiwj3c8qZRo4,False,,,,,,,
+Potamitissa,Ποταμίτισσα,Potamitissa,62,28,34,Λεμεσού,True,34.9075123,32.9897087,ChIJ-ab0miBM5xQRXb7aqDTD3cw,False,,,,,,,
+Dymes,Δύμες,Dimes,165,81,84,Λεμεσού,True,34.91693410000001,32.9843429,ChIJ421DY4NO5xQRNzqfnMovpHQ,False,,,,,,,
+Pelendri,Πελένδρι,Pelentri,1074,528,546,Λεμεσού,True,34.8959786,32.96608,ChIJ22ArU7ZO5xQRZWUnLXI-Zrk,False,,,,,,,
+Agros,Αγρός,Agros,806,403,403,Λεμεσού,True,34.9173092,33.0177292,ChIJl1i6aLNN5xQRXSMdn60B0XM,False,,,,,,,
+Agridia,Αγρίδια,Agridia,104,48,56,Λεμεσού,True,34.9300599,33.0029056,ChIJH1hYNdFN5xQRoOptQYRxT1A,False,,,,,,,
+Chandria,Χανδριά,Chandria,162,75,87,Λεμεσού,True,34.9443393,32.9943517,ChIJVRe0suBN5xQRyI2W6ijfpbI,False,,,,,,,
+Kyperounta,Κυπερούντα,Kyperounta,1516,737,779,Λεμεσού,True,34.9413934,32.9680834,ChIJp76a9WhO5xQRwJxKh7-B0zA,False,,,,,,,
+Pafos,Πάφος,Baf,32892,16204,16688,Πάφου,True,34.77539489999999,32.4217786,ChIJyeIt9GMG5xQR57X0UP_9BWw,True,,,,,,,
+Geroskipou,Γεροσκήπου,Yeroskipou,7878,3904,3974,Πάφου,True,34.7600248,32.4533949,ChIJbzlG2MoF5xQR9O7Y185u2jk,True,,,,,,,
+Konia,Κονιά,Konya,2209,1094,1115,Πάφου,True,34.7851789,32.4588099,ChIJtRwKUsMF5xQRDpzhGp8A9E8,False,,,,,,,
+Agia Marinouda,Αγία Μαρινούδα,Agia Marinouda,266,139,127,Πάφου,True,34.7599385,32.475741,ChIJtYyTBEsE5xQRMnTU5zh96no,False,,,,,,,
+Acheleia,Αχέλεια,Akhelia,145,78,67,Πάφου,True,34.7385788,32.4851825,ChIJnRRCMmcE5xQRAsNZOxTU8BA,False,,,,,,,
+Chlorakas,Χλώρακας,Chloraka,5356,2673,2683,Πάφου,True,34.7988017,32.4084312,ChIJvwDEokkG5xQRSkeJ6_AmTIA,False,,,,,,,
+Lempa,Λέμπα,Lempa,506,235,271,Πάφου,True,34.8085959,32.4084564,ChIJwz8OHjMG5xQRPEnzDRUH8ZQ,False,,,,,,,
+Empa,Έμπα,Emba,4855,2454,2401,Πάφου,True,34.8099351,32.4230508,ChIJTZqpaEcG5xQRMn3unzGrtOs,False,,,,,,,
+Tremithousa,Τρεμιθούσα,Tremithousa,1041,528,513,Πάφου,True,34.8170284,32.4460164,ChIJ5eKHTVMP5xQRUmm-VKdtRBo,False,,,,,,,
+Mesa Chorio,Μέσα Χωριό,Mesa Chorio,586,297,289,Πάφου,True,34.8090289,32.4616974,ChIJy1Aa91gP5xQRokyWZuXRyuE,False,,,,,,,
+Mesogi,Μεσόγη,Mesogi,1689,834,855,Πάφου,True,34.8153325,32.4543097,ChIJ-bbs31AP5xQRHcHUbW7GcBY,False,,,,,,,
+Tala,Τάλα,Tala,2695,1315,1380,Πάφου,True,34.8388506,32.4348263,ChIJW6TwGZEI5xQRlcBdsQ5fTKE,False,,,,,,,
+Kissonerga,Κισσόνεργα,Kissonerga,2004,993,1011,Πάφου,True,34.8232973,32.4019769,ChIJSxBYldIH5xQRpoZgyX847k4,False,,,,,,,
+Kouklia ,Κούκλια ,Sakarya,892,432,460,Πάφου,True,34.7085717,32.5767309,ChIJk20cuJ0b5xQRMFs9Wnn01T8,False,,,,,,,
+Mandria ,Μανδριά ,Yeşilova,893,456,437,Πάφου,True,34.7154419,32.5323996,ChIJK5MBRa8E5xQRUfERenhNlqc,False,,,,,,,
+Nikokleia,Νικόκλεια,Nikokleia,121,52,69,Πάφου,True,34.7301801,32.5758216,ChIJC-93fgQb5xQRfyUy_MzKxbM,False,,,,,,,
+Souskiou,Σουσκιού,Susuz,10,7,3,Πάφου,True,34.7332478,32.6024302,ChIJ60MyVEga5xQRyGEhDmES0pI,False,,,,,,,
+Timi,Τίμη,Ovalık,1220,603,617,Πάφου,True,34.731714,32.5165011,ChIJ83FqBcAE5xQRaUnN7QIKy4A,False,,,,,,,
+Agia Varvara ,Αγία Βαρβάρα ,Engindere,172,86,86,Πάφου,True,34.7520911,32.5105131,ChIJ1YF8V-AE5xQRdzv0vUQXHVM,False,,,,,,,
+Anarita,Αναρίτα,Anarita,876,423,453,Πάφου,True,34.7404252,32.5335875,ChIJWXcqntME5xQRbEdonUVRVmw,False,,,,,,,
+Marathounta,Μαραθούντα,Marathounta,309,154,155,Πάφου,True,34.7911516,32.4879837,ChIJw9Ird4MF5xQRXScC52eENXo,False,,,,,,,
+Armou,Άρμου,Armou,600,291,309,Πάφου,True,34.7993207,32.4800409,ChIJLcvk94gF5xQRiTZHtDboeCE,False,,,,,,,
+Episkopi ,Επισκοπή ,Piskobu,220,103,117,Πάφου,True,34.7913403,32.5224084,ChIJdzAt4e0P5xQR7pJM7WQZunE,False,,,,,,,
+Nata,Νατά,Nata,181,90,91,Πάφου,True,34.781723,32.5664662,ChIJbQn3E5oa5xQRU-Ys7i3FVHc,False,,,,,,,
+Choletria,Χολέτρια,Choletria,264,129,135,Πάφου,True,34.7637137,32.5989955,ChIJ689YJnQa5xQRZFCJcbCoCZo,False,,,,,,,
+Axylou,Αξύλου,Aksulu,61,31,30,Πάφου,True,34.8057785,32.563136,ChIJ6XJuHkYQ5xQR8RXEsx3gSDw,False,,,,,,,
+Eledio,Ελεδιό,Eledio,44,21,23,Πάφου,True,34.8092298,32.568433,ChIJudT3mk4Q5xQRKVuk167MSt8,False,,,,,,,
+Tsada,Τσάδα,Tsada,1043,500,543,Πάφου,True,34.8386369,32.4748826,ChIJeY9izQMP5xQROCzzUaPchWc,False,,,,,,,
+Koili,Κοίλη,Koili,466,235,231,Πάφου,True,34.8602383,32.4547343,ChIJ1cpnTM4O5xQRMi1P3Uvb0rk,False,,,,,,,
+Stroumpi,Στρουμπί,Stroumpi,540,269,271,Πάφου,True,34.8839902,32.4825424,ChIJRQI13igM5xQRSZWIkuTg6Lg,False,,,,,,,
+Polemi,Πολέμι,Polemi,848,408,440,Πάφου,True,34.8857342,32.5076477,ChIJDxA4-sMN5xQR3SoT4DATcpk,False,,,,,,,
+Kallepeia,Καλλέπεια,Kallepia,326,152,174,Πάφου,True,34.8461805,32.5006167,ChIJ4a2pZloO5xQRquJIbzTeAmk,False,,,,,,,
+Letymvou,Λετύμβου,Letymvou,249,120,129,Πάφου,True,34.856678,32.5134516,ChIJ90LWWGsO5xQR4uG9i4BNJRg,False,,,,,,,
+Kourdaka,Κούρδακα,Kurtağa,7,4,3,Πάφου,True,34.8508634,32.532419,ChIJT6gGPhwO5xQR9-Rpd12Opyw,False,,,,,,,
+Lemona,Λεμώνα,Lemona,51,25,26,Πάφου,True,34.861236,32.5580041,ChIJ8Rsu2BgS5xQRlgQfQvbR-Sg,False,,,,,,,
+Choulou,Χούλου,Choulou,147,59,88,Πάφου,True,34.8718331,32.5573602,ChIJHXvfZhYS5xQRKauPEPwFt58,False,,,,,,,
+Akoursos,Ακουρσός,Akarsu,22,14,8,Πάφου,True,34.8869001,32.4214343,ChIJ_7gnTGgJ5xQRUQ-eUemddKs,False,,,,,,,
+Kathikas,Κάθικας,Kathikas,438,222,216,Πάφου,True,34.9127034,32.4255259,ChIJxf1xV-4L5xQRVBf1HXh0pvg,False,,,,,,,
+Pegeia,Πέγεια,Peyia,3953,1969,1984,Πάφου,True,34.8833497,32.3874598,ChIJ43dQmoOn5xQRPJ9JRPjv-8s,True,,,,,,,
+Pano Archimandrita,Πάνω Aρχιμανδρίτα,Archimandrita,43,19,24,Πάφου,True,34.7508805,32.678098,ChIJu1Dba4MX5xQR9aLrIfiRheU,False,,,,,,,
+Fasoula ,Φασούλα ,Fasoula,56,31,25,Πάφου,True,34.7605476,32.6261529,ChIJwSBvpKsQ5xQRxNBde6URxnc,False,,,,,,,
+Mousere,Μούσερε,Musere,2,1,1,Πάφου,True,34.7706678,32.7153863,ChIJQR7wLisW5xQRmlZUm1L6qEI,False,,,,,,,
+Mamonia,Μαμώνια,Mamonia,51,23,28,Πάφου,True,34.7707116,32.637913,ChIJw9fiKk8X5xQRYgr96FRmGU8,False,,,,,,,
+Agios Georgios ,Άγιος Γεώργιος ,Kavaklı,101,57,44,Πάφου,True,34.7785071,32.6506835,ChIJV7HvzxcX5xQRJMoYKsfk5Lo,False,,,,,,,
+Stavrokonnou,Σταυροκόννου,Aydoğan,56,28,28,Πάφου,True,34.7851907,32.6205557,ChIJi96-Kc8Q5xQRbhm7CZPyqLE,False,,,,,,,
+Prastio ,Πραστιό ,Yuvalı,8,3,5,Πάφου,True,34.7864199,32.6975277,ChIJEeI5PjgW5xQRGQpzlIxmEes,False,,,,,,,
+Trachypedoula,Τραχυπέδουλα,Trachypedoula,64,27,37,Πάφου,True,34.8005436,32.67903,ChIJCxo-CV4W5xQRKb2XiNVC38s,False,,,,,,,
+Kelokedara,Κελοκέδαρα,Kelokedara,193,78,115,Πάφου,True,34.812669,32.651683,ChIJRRJohJUW5xQRp7J7y7dez_Y,False,,,,,,,
+Salamiou,Σαλαμιού,Salamiou,265,131,134,Πάφου,True,34.8402408,32.68935340000001,ChIJWWaNWLAV5xQRTSG0zu3fdVI,False,,,,,,,
+Kidasi,Κιδάσι,Ceyhan,11,6,5,Πάφου,True,34.8074659,32.7129631,ChIJ9Q0jNwEW5xQRZ8ZyQTgbgck,False,,,,,,,
+Kedares,Κέδαρες,Çığır,80,35,45,Πάφου,True,34.8363418,32.7363927,ChIJKYObJDc-5xQRxlGUfM1M5Lw,False,,,,,,,
+Mesana,Μέσανα,Mesana,31,12,19,Πάφου,True,34.8486304,32.7065946,ChIJqQRe0ZwV5xQRIAknJL03eLQ,False,,,,,,,
+Praitori,Πραιτώρι,Praitori,23,10,13,Πάφου,True,34.8484702,32.7450064,ChIJI6F7PLc_5xQRVNUU4Fnaby0,False,,,,,,,
+Filousa ,Φιλούσα ,Philousa Kelokedharon,17,7,10,Πάφου,True,34.8519845,32.7429059,ChIJ89hDN7g_5xQRHvC1Zd1cJ84,False,,,,,,,
+Arminou,Αρμίνου,Arminou,24,7,17,Πάφου,True,34.8618628,32.7205644,ChIJ9RiOwdg_5xQROLkt-VkQK_o,False,,,,,,,
+Agios Nikolaos ,Άγιος Νικόλαος ,Esentepe,61,30,31,Πάφου,True,34.8610893,32.7538382,ChIJJ_NNz5k_5xQR3nvpc8xSx1M,False,,,,,,,
+Agios Ioannis ,Άγιος Ιωάννης ,Aydın,29,12,17,Πάφου,True,34.8680543,32.6913444,ChIJzyEZORIV5xQRCZMLuk8q3nA,False,,,,,,,
+Amargeti,Αμαργέτη,Amargeti,209,83,126,Πάφου,True,34.8243445,32.5819849,ChIJ7VUdgaER5xQRp92UkMfzT1s,False,,,,,,,
+Agia Marina ,Αγία Μαρίνα ,Agia Marina,37,15,22,Πάφου,True,34.8286879,32.6143271,ChIJBeVoF0UR5xQR0Fg4DxRXyLY,False,,,,,,,
+Pentalia,Πενταλιά,Pentalia,63,31,32,Πάφου,True,34.8557334,32.6205763,ChIJkQpYp_MT5xQRMfBBMZ-ttyU,False,,,,,,,
+Faleia,Φάλεια,Gökçebel,2,2,0,Πάφου,True,34.8598345,32.5892388,ChIJj37GZc4T5xQR3Wcb0rOIyQA,False,,,,,,,
+Galataria,Γαλαταριά,Yoğurtçular,56,26,30,Πάφου,True,34.8767607,32.6315142,ChIJv_x8HoEU5xQRlQLAe8yfaP8,False,,,,,,,
+Koilineia,Κοιλίνεια,Koilineia,39,17,22,Πάφου,True,34.8838038,32.6311071,ChIJE5gvFIMU5xQROW-KrTBrlN0,False,,,,,,,
+Vretsia,Βρέτσια,Dağaşan,1,1,0,Πάφου,True,34.8919505,32.6584646,ChIJi-GPksMU5xQRQAxPJLdfSl4,False,,,,,,,
+Statos-Agios Fotios,Στατός-Άγιος Φώτιος,Statos,243,106,137,Πάφου,True,34.8908714,32.6100276,ChIJb_gB9m0T5xQRBUiMwyox43s,False,,,,,,,
+Mamountali,Μαμούνταλη,Soğucak,18,10,8,Πάφου,True,34.9182126,32.6185085,ChIJh4DYu1IT5xQRshEWw5AhtHk,False,,,,,,,
+Pano Panagia,Πάνω Παναγιά,Pano Panagia,481,234,247,Πάφου,True,34.9183849,32.6312675,ChIJf9rKwU1r5xQRyU-Ox8F7sxE,False,,,,,,,
+Asprogia,Ασπρογιά,Aktepe,60,31,29,Πάφου,True,34.9234331,32.6146158,ChIJgVGdZbJs5xQRcZ2fCcOPj_A,False,,,,,,,
+Psathi,Ψάθι,Psathi,110,55,55,Πάφου,True,34.8991387,32.5319407,ChIJR3HTRoQN5xQRacgN5RQQev8,False,,,,,,,
+Agios Dimitrianos,Άγιος Δημητριανός,Agios Dimitrianos,91,42,49,Πάφου,True,34.9059984,32.5491193,ChIJnV8KDI8S5xQR2BS5dzoY-OI,False,,,,,,,
+Kannaviou,Κανναβιού,Kannaviou,175,87,88,Πάφου,True,34.9143807,32.5736517,ChIJ8f4S4twS5xQRp6lhuuvb368,False,,,,,,,
+Thrinia,Θρινιά,Thrinia,55,27,28,Πάφου,True,34.9155537,32.5292338,ChIJTU8OJWUN5xQRxqPxal6ZthY,False,,,,,,,
+Milia ,Μηλιά ,Milia,14,7,7,Πάφου,True,34.9199155,32.5406498,ChIJyZlJr58S5xQRJtX1Dd71t7k,False,,,,,,,
+Kritou Marottou,Κρίτου Μαρόττου,Kritou Marottou,85,46,39,Πάφου,True,34.9264302,32.5627575,ChIJ90imWcgS5xQRM_YxAlrtldY,False,,,,,,,
+Fyti,Φύτη,Fyti,150,74,76,Πάφου,True,34.9287321,32.5437806,ChIJVbGq9LES5xQRO6msXd1mRSk,False,,,,,,,
+Lasa,Λάσα,Lasa,67,22,45,Πάφου,True,34.9247093,32.5264217,ChIJQWFljWcN5xQRwVSi8jpgL7A,False,,,,,,,
+Drymou,Δρύμου,Drymou,110,52,58,Πάφου,True,34.9249699,32.5138505,ChIJQSFGoBQN5xQRigiQCA3XB_c,False,,,,,,,
+Simou,Σίμου,Simou,185,90,95,Πάφου,True,34.9413377,32.5043632,ChIJo8j2vToN5xQRaRikXzmbvTI,False,,,,,,,
+Anadiou,Αναδιού,Görmeli,17,9,8,Πάφου,True,34.9441646,32.5655461,ChIJ96o4Jzpt5xQRLt2jTjPcLEs,False,,,,,,,
+Sarama,Σαραμά,Kuşluca,2,2,0,Πάφου,True,34.9564109,32.5293492,ChIJPf0Jd6Vy5xQRp1LucKssDoE,False,,,,,,,
+Eyretou,Ευρέτου,Dereboyu,3,1,2,Πάφου,True,34.9608642,32.4851742,ChIJt23K4ixz5xQRYVdiqtNAKaQ,False,,,,,,,
+Filousa ,Φιλούσα ,Filousa,31,12,19,Πάφου,True,34.9736336,32.5039406,ChIJj_nQYOhy5xQR6-XABiwIfYU,False,,,,,,,
+Meladeia,Μελάδεια,Malatya,17,9,8,Πάφου,True,34.9882599,32.5059663,ChIJCRuV8PZy5xQRPtHDBTy1Jsc,False,,,,,,,
+Melandra,Μελάνδρα,Beşiktepe,2,2,0,Πάφου,True,34.9891662,32.5252841,ChIJ89aZOGNy5xQRn5pWUfjFWZ0,False,,,,,,,
+Lysos,Λυσός,Lysos,205,95,110,Πάφου,True,34.9950847,32.5118457,ChIJSRkPNVxy5xQR6nPsiq1GRVM,False,,,,,,,
+Peristerona ,Περιστερώνα ,Peristerona,302,151,151,Πάφου,True,34.9903928,32.4894814,ChIJh2MszQNz5xQRwiUss6zz4Ps,False,,,,,,,
+Theletra,Θελέτρα,Theletra,269,130,139,Πάφου,True,34.9097587,32.4506238,ChIJnQdyb3UM5xQREWoBx9hxa_w,False,,,,,,,
+Giolou,Γιόλου,Giolou,762,371,391,Πάφου,True,34.9220437,32.4773453,ChIJXeES2_UM5xQRdlM9Zse4O3U,False,,,,,,,
+Pano Akourdaleia,Πάνω Ακουρδάλεια,Yukarı Kardali,44,18,26,Πάφου,True,34.9418405,32.4442421,ChIJAdgmTqEM5xQR7drKQFX2_sM,False,,,,,,,
+Miliou,Μηλιού,Milia,89,41,48,Πάφου,True,34.9199155,32.5406498,ChIJyZlJr58S5xQRJtX1Dd71t7k,False,,,,,,,
+Kato Akourdaleia,Κάτω Ακουρδάλεια,Aşağı Kardali,65,29,36,Πάφου,True,34.9525454,32.4510228,ChIJAdgmTqEM5xQRKye1GFrMOjk,False,,,,,,,
+Tera,Τέρα,Çakırlar,36,16,20,Πάφου,True,34.9665212,32.4252917,ChIJy74U_0cL5xQR4vgrxQbKHFo,False,,,,,,,
+Kritou Tera,Κρίτου Τέρα,Kritou Tera,86,36,50,Πάφου,True,34.9563636,32.4221575,ChIJradWFhUL5xQRdO494BYHcRY,False,,,,,,,
+Skoulli,Σκούλλη,Skoulli,65,29,36,Πάφου,True,34.9805895,32.4511485,ChIJvYg4015z5xQRs9hM8NBQo1c,False,,,,,,,
+Choli,Χόλη,Choli,83,42,41,Πάφου,True,34.9798091,32.4432561,ChIJQxX9Dqh05xQRE-ZA787HjjI,False,,,,,,,
+Loukrounou,Λουκρούνου,Olukönü,4,2,2,Πάφου,True,34.9525261,32.4643859,ChIJOyE2m7kM5xQR7Zz06XYIf6g,False,,,,,,,
+Karamoullides,Καραμούλληδες,Karamulla,33,17,16,Πάφου,True,34.9974219,32.4460161,ChIJ48bvnZ105xQRVTqRxje6KG4,False,,,,,,,
+Chrysochou,Χρυσοχού,Altıncık,132,61,71,Πάφου,True,35.0028267,32.4415719,ChIJ1eJGl4R05xQRO5RlngWFrjo,False,,,,,,,
+Polis ,Πόλις ,Polis Crysochous,2018,1028,990,Πάφου,True,35.0339441,32.4253751,ChIJG4zmlxR05xQR7lc0vj1h-YQ,True,,,,,,,
+Neo Chorio ,Νέο Χωριό ,Neo Chorio,519,248,271,Πάφου,True,35.0262351,32.3649403,ChIJea2hkHl15xQRUNiWWiso9y4,False,,,,,,,
+Goudi,Γουδί,Goudi,204,96,108,Πάφου,True,34.9917688,32.4422174,ChIJl1_l_6F05xQRPeYa8V0qi6U,False,,,,,,,
+Kato Arodes,Κάτω Αρόδες,Aşağı Kalkanlı,39,18,21,Πάφου,True,34.9402845,32.402483,ChIJ-XNtIKsL5xQRcNp9NnY3k4Y,False,,,,,,,
+Pano Arodes,Πάνω Αρόδες,Yukarı Kalkanlı,135,63,72,Πάφου,True,34.9365816,32.4084331,ChIJOXmOpa4L5xQRz8u8YCVxJuI,False,,,,,,,
+'Ineia,'Ινεια,Ineia,385,204,181,Πάφου,True,34.9560179,32.3929482,ChIJqXomLvsK5xQR5cJF_z1rsus,False,,,,,,,
+Drouseia,Δρούσεια,Drouseia,405,205,200,Πάφου,True,34.9627965,32.3975751,ChIJ-7zq4-AK5xQR2vKa6C0aBNo,False,,,,,,,
+Androlikou,Ανδρολίκου,Gündoğdu,34,23,11,Πάφου,True,34.9986703,32.3816437,ChIJBQr6njd15xQRjubkMrKBafM,False,,,,,,,
+Pelathousa,Πελαθούσα,Karaağaç,57,29,28,Πάφου,True,35.0274576,32.4755946,ChIJBcAgfsRz5xQRvTz55AITJ5Q,False,,,,,,,
+Kynousa,Κυνούσα,Kynousa,71,33,38,Πάφου,True,35.0322713,32.5072741,ChIJ7TLMHIlx5xQRHYZZF9C0fvU,False,,,,,,,
+Makounta,Μακούντα,Yakacık,116,68,48,Πάφου,True,35.050278,32.4862995,ChIJD-_WTnFx5xQRKOc-Jl7jBzo,False,,,,,,,
+Argaka,Αργάκα,Argaka,1078,556,522,Πάφου,True,35.0656694,32.4890747,ChIJ6dyG7gdx5xQRGTa8bXJr5_Y,False,,,,,,,
+Gialia,Γιαλιά,Yayla,202,103,99,Πάφου,True,35.0959515,32.532579,ChIJI9tyTRBw5xQR108fBLVy6pI,False,,,,,,,
+Agia Marina ,Αγία Μαρίνα ,Agia Marina Chrysochous,647,312,335,Πάφου,True,35.119776,32.5132347,ChIJuUSLnLx65xQRhYWEs0TSmAI,False,,,,,,,
+Nea Dimmata,Νέα Δήμματα,Nea Dimmata,50,26,24,Πάφου,True,35.1352796,32.5216363,ChIJz_RAJdt65xQRoe5ziti3GrU,False,,,,,,,
+Pomos,Πομός,Pomos,448,233,215,Πάφου,True,35.1611706,32.5455055,ChIJ6SZ72sVk5xQR4oQyXLzAHi8,False,,,,,,,
+Steni,Στενή,Steni,173,79,94,Πάφου,True,34.9982246,32.4718991,ChIJZ9pLEAtz5xQRKbn9mOItHS8,False,,,,,,,
+Rizokarpaso,Ριζοκάρπασο,Di̇pkarpaz,2016,1007,1009,İskele,False,35.5977395,34.3806708,ChIJFdx3t2tn3xQRInHdNFtCOCg,False,1935.0,968.0,967.0,Yeni,Dipkarpaz,35.6176824,34.4087307
+Karavostasi,Καραβοστάσι,Gemi̇konağı,2075,1318,757,Güzelyurt,False,35.1388366,32.8346117,ChIJw1gDZOdY5xQRzgnyO-yf0b4,False,1498.0,854.0,644.0,Lefke,Lefke,35.142762,32.8112705
+Morfou,Μόρφου,Güzelyurt,7251,3619,3632,Güzelyurt,False,35.1985518,32.9934993,ChIJfz7P_1H53RQRmbROZQ0T7bg,False,7627.0,3885.0,3742.0,Güzelyurt,Güzelyurt,35.2123165,32.9775675
+Lapithos,Λάπηθος,Lapta,5748,2959,2789,Girne,False,35.3409121,33.175342,ChIJSfTuTocM3hQRNbYv5mkqRUM,False,5658.0,3151.0,2507.0,Girne,Lapta,35.3364082,33.1632665
+Dikomo,Δίκωμο,Di̇kmen,3969,2131,1838,Girne,False,35.2677,33.3252,ChIJf0s8-cAT3hQRY6tDs7XxiJg,False,2605.0,1464.0,1141.0,Girne,Dikmen,35.266918,33.3277003
+Karavas,Καραβάς,Alsancak,5595,2948,2647,Girne,False,35.3431715,33.1956124,ChIJfZOGfvIM3hQRkYt4GUYmTbo,False,4638.0,2577.0,2061.0,Girne,Alsancak,35.3420796,33.2082318
+Keryneia,Κερύνεια,Gi̇rne,21319,11403,9916,Girne,False,35.3351,33.3193,ChIJKS2WH74N3hQRjxHlC6st0tM,False,18744.0,10594.0,8150.0,Girne,Girne,35.299194,33.2363246
+Akanthou,Ακανθού,Tatlısu,1120,579,541,Gazimağusa,False,35.3732414,33.7535628,ChIJR2udT_RS3hQRsTyTpE9AY8M,False,903.0,461.0,442.0,Geçitkale,Tatlısu,35.3785077,33.7629465
+Ammochostos,Αμμόχωστος,Gazi̇mağusa,37642,20301,17341,Gazimağusa,False,35.1245436,33.9325419,ChIJPRZM2kLI3xQRh87TpcUD2yk,False,33001.0,17897.0,15104.0,Gazimağusa,Gazimağusa,35.1149116,33.919245
+Kythrea,Κυθρέα,Deği̇rmenli̇k,3284,1778,1506,Lefkoşa,False,35.2475348,33.4812843,ChIJlaSb_gc_3hQR-DikEPtnxRA,False,3128.0,1685.0,1443.0,Değirmenlik,Değimenlik,35.2553647,33.4719832
+Kioneli,Κιόνελι,Gönyeli̇,17045,8966,8079,Lefkoşa,False,35.2145138,33.302562,ChIJ-QldKQAR3hQR8jvZU1MIRRg,False,12186.0,6519.0,5667.0,Lefkoşa,Gönyeli,35.2133871,33.2924859
+Lefkosia,Λευκωσία,Lefkoşa,51836,27102,24734,Lefkoşa,False,35.1783,33.3628,ChIJVU1JymcX3hQRpcARA5ykXls,False,49868.0,26848.0,23020.0,Lefkoşa,Lefkoşa,35.1855659,33.38227639999999
+Trikomo,Τρίκωμο,İskele,3058,1537,1521,İskele,False,35.2863679,33.8919192,ChIJtbgLUJGx3xQRsvnB1Roi2nw,False,2610.0,1405.0,1205.0,İskele,İskele,35.297229,33.8969328
+Mandres,Μάνδρες,Hami̇tköy,5338,2773,2565,Lefkoşa,False,35.2151704,33.3786657,ChIJC26FTOsW3hQRKlGoqkbKgVU,False,2898.0,1567.0,1331.0,Lefkoşa,Lefkoşa,35.2215191,33.3766669
+Mia Milia,Μιά Μηλιά,Haspolat,4204,2385,1819,Lefkoşa,False,35.2063724,33.4200196,ChIJ0WZmiRQW3hQRWJCZ8IphTlo,False,3380.0,2168.0,1212.0,Lefkoşa,Lefkoşa,35.2107245,33.4271403
+Louroukina,Λουρουκίνα,Akıncılar,390,199,191,Lefkoşa,False,35.011537,33.4643102,ChIJ2yNfV0sg3hQR4PG_cIx5amI,False,462.0,231.0,231.0,Lefkoşa,Akıncılar,35.0175999,33.466379
+Gerolakkos,Γερόλακκος,Alayköy,2777,1445,1332,Lefkoşa,False,35.1806595,33.2533088,ChIJWxGOiUsF3hQR8FDvFXTwInM,False,2539.0,1348.0,1191.0,Lefkoşa,Alayköy,35.2010828,33.2531764
+Agios Vasileios,Άγιος Βασίλειος,Türkeli̇,154,96,58,Lefkoşa,False,35.2190573,33.1844303,ChIJN1DKMl8P3hQRyX7AxwWQ9Gc,False,154.0,98.0,56.0,Lefkoşa,Alayköy,35.2120962,33.1857517
+Skylloura,Σκυλλούρα,Yılmazköy,953,533,420,Lefkoşa,False,35.2304802,33.1652475,ChIJiVnxGq0I3hQR6mQTC1bmECs,False,785.0,435.0,350.0,Lefkoşa,Alayköy,35.2288098,33.1632665
+Kanli,Κανλί,Kanlıköy,232,129,103,Lefkoşa,False,35.2184284,33.2614926,ChIJcXiUhikQ3hQRf7Poo-iccJ8,False,207.0,123.0,84.0,Lefkoşa,Gönyeli,35.2171783,33.2644093
+Palaikythro,Παλαίκυθρο,Balıkesi̇r,860,429,431,Lefkoşa,False,35.2084883,33.4934366,ChIJfW_bJoU-3hQRpOWN0-hwhMg,False,1074.0,625.0,449.0,Değirmenlik,Değimenlik,35.17687950000001,33.4887939
+Mpeikioi,Μπέϊκιοϊ,Beyköy,105,42,63,Lefkoşa,False,35.2365979,33.5010085,ChIJM-HbHR4_3hQRAY3JKrBLboU,False,88.0,35.0,53.0,Değirmenlik,Değimenlik,35.23991,33.509803
+Epicho,Επιχό,Ci̇hangi̇r,961,475,486,Lefkoşa,False,35.2274826,33.5134937,ChIJ59NDwcQ-3hQR8t_KdN9VwyM,False,929.0,495.0,434.0,Değirmenlik,Değimenlik,35.2283093,33.5196057
+Kourou Monastiri,Κουρού Μοναστήρι,Çukurova,208,100,108,Lefkoşa,False,35.2245314,33.5557493,ChIJt0_-qOY43hQR8zS--ctKZNw,False,187.0,94.0,93.0,Değirmenlik,Değimenlik,35.217816,33.5532073
+Trachoni,Τραχώνι,Demi̇rhan,530,267,263,Lefkoşa,False,35.2233822,33.4793482,ChIJ07rLVGc-3hQRLlt4hMisB50,False,454.0,220.0,234.0,Değirmenlik,Değimenlik,35.20636200000001,33.48038890000001
+Agia,Αγιά,Di̇lekkaya,619,305,314,Lefkoşa,False,35.1108692,33.5662154,ChIJ5yl9NyQ73hQRbXSiiUU8kII,False,590.0,290.0,300.0,Değirmenlik,Değimenlik,35.1133417,33.5672045
+Exo Metochi,Έξω Μετόχι,Düzova,661,332,329,Lefkoşa,False,35.2149111,33.5266241,ChIJd5SzWcw-3hQRZNO7S2SFftY,False,624.0,319.0,305.0,Değirmenlik,Değimenlik,35.2019719,33.5336078
+Tremetousia,Τρεμετουσιά,Erdemli̇,169,86,83,Lefkoşa,False,35.084553,33.6085847,ChIJU_02NFMl3hQRREaPEMujC_A,False,207.0,120.0,87.0,Değirmenlik,Değimenlik,35.0798093,33.6119814
+Afanteia,Αφάντεια,Gazi̇köy,713,357,356,Lefkoşa,False,35.1581193,33.5863515,ChIJ2-w-uzA63hQR74hNpr9M35Q,False,679.0,342.0,337.0,Değirmenlik,Değimenlik,35.1489203,33.5784007
+Voni,Βώνη,Gökhan,202,117,85,Lefkoşa,False,35.2313682,33.4955565,ChIJ-aMg1uQ-3hQR_evJEFjldp4,False,229.0,128.0,101.0,Değirmenlik,Değimenlik,35.2073956,33.5084026
+Kalyvakia,Καλυβάκια,Kalavaç,255,122,133,Lefkoşa,False,35.2577589,33.5486665,ChIJw9LwmqE43hQRVCDyyfoiWvY,False,248.0,119.0,129.0,Değirmenlik,Değimenlik,35.2570367,33.544808
+Melouseia,Μελούσεια,Kırıkkale,390,184,206,Lefkoşa,False,35.0773102,33.5840897,ChIJQ7t3sDwl3hQRa0Wi8RX92a8,False,398.0,189.0,209.0,Değirmenlik,Değimenlik,35.0770318,33.5895956
+Tymvou,Τύμβου,Kırklar,384,246,138,Lefkoşa,False,35.1345211,33.5124917,ChIJa0xaksk83hQR8sIIifpLULE,False,335.0,200.0,135.0,Değirmenlik,Değimenlik,35.13081,33.5112035
+Mora,Μόρα,Meri̇ç,494,246,248,Lefkoşa,False,35.1730011,33.5441836,ChIJr3Wloeg73hQRYgQ9kB1WbOs,False,522.0,271.0,251.0,Değirmenlik,Değimenlik,35.1691793,33.544808
+Neo Chorio,Νέο Χωριό,Mi̇nareli̇köy,1334,755,579,Lefkoşa,False,35.2346275,33.4766108,ChIJ28mhJVo-3hQRTqPXqS3FK4A,False,1766.0,1255.0,511.0,Değirmenlik,Değimenlik,35.2164823,33.4635768
+Tashocaklari,,Taşocakları,0,0,0,Lefkoşa,False,,,,False,128.0,91.0,37.0,Değirmenlik,Değimenlik,,
+Petra Digeni,Πέτρα Διγενή,Yeni̇ceköy,399,201,198,Lefkoşa,False,35.2385523,33.54679,ChIJv890F-o43hQR6OX22CGhtiM,False,401.0,208.0,193.0,Değirmenlik,Değimenlik,35.232456,33.5532073
+Arsos,Άρσος,Yi̇ği̇tler,327,168,159,Lefkoşa,False,35.0899187,33.627897,ChIJwxQz5A8w3hQRoV5TxQSKKtk,False,310.0,164.0,146.0,Değirmenlik,Değimenlik,35.07281,33.63436190000001
+Varosia,Βαρώσια,Maraş,226,125,101,Gazimağusa,False,35.1004657,33.9590274,ChIJFbxuNW_I3xQRXL-W8cUUcHc,False,503.0,317.0,186.0,Gazimağusa,Gazimağusa,35.105872,33.9554907
+Stylloi,Στύλλοι,Mutluyaka,407,205,202,Gazimağusa,False,35.1724218,33.834864,ChIJgzObm3213xQRhcNFZ3Y4wgU,False,404.0,218.0,186.0,Gazimağusa,Gazimağusa,35.1626143,33.8299639
+Egkomi,Εγκωμη,Tuzla,2645,1394,1251,Gazimağusa,False,35.1611026,33.8830887,ChIJTyk1qP213xQRe2YltPw6dIE,False,1877.0,1012.0,865.0,Gazimağusa,Gazimağusa,35.1613671,33.8801952
+Agios Sergios,Άγιος Σέργιος,Yeni̇ Boğazi̇çi̇,3347,1712,1635,Gazimağusa,False,35.1858,33.8926,ChIJX5JkU8213xQRzoBtqIJxpqA,False,2802.0,1524.0,1278.0,Gazimağusa,Yeni,35.1968015,33.8913539
+Gypsou,Γύψου,Akova,704,353,351,Gazimağusa,False,35.2601669,33.7861636,ChIJU-OytVBL3hQRMc_Wi2P7kCI,False,662.0,319.0,343.0,Gazimağusa,Yeni,35.27723720000001,33.7908763
+Pigi Peristerona,Πηγή Περιστερώνα,Alani̇çi̇,860,436,424,Gazimağusa,False,35.2201529,33.7599435,ChIJ3_fervFK3hQRMBvuklWgwE0,False,863.0,461.0,402.0,Gazimağusa,Yeni,35.2063472,33.7685332
+Aloda,Αλόδα,Atlılar,46,22,24,Gazimağusa,False,35.2100603,33.8264904,ChIJxxEush213xQRzCvoaesLzJA,False,24.0,14.0,10.0,Gazimağusa,Yeni,35.2128887,33.8327552
+Limnia,Λίμνια,Mormenekşe,1033,512,521,Gazimağusa,False,35.2018399,33.8596954,ChIJAyL-5LS13xQR5RLkEv9LvT4,False,923.0,472.0,451.0,Gazimağusa,Yeni,35.1976484,33.8578735
+Maratha,Μαράθα,Muratağa,51,27,24,Gazimağusa,False,35.2105353,33.7764211,ChIJb1bHoMFK3hQRkS8msBE0yO8,False,34.0,18.0,16.0,Gazimağusa,Yeni,35.2092566,33.7824983
+Santalaris,Σανταλάρης,Sandallar,28,16,12,Gazimağusa,False,35.2120574,33.7991837,ChIJiVvYky213xQRLpghZSqQR0Q,False,28.0,15.0,13.0,Gazimağusa,Yeni,35.2191608,33.80902620000001
+Milia,Μηλιά,Yıldırım,549,288,261,Gazimağusa,False,35.2395041,33.7808514,ChIJVZiJvjtL3hQRyAHzEUei13I,False,542.0,280.0,262.0,Gazimağusa,Yeni,35.2347575,33.8020459
+Sinta,Σίντα,İnönü,911,456,455,Gazimağusa,False,35.1576104,33.7005485,ChIJ23CAl5k23hQRqSVMCHJkHeE,False,933.0,461.0,472.0,Gazimağusa,İnönü,35.1591768,33.7014716
+Prastio,Πραστιό,Dörtyol,1349,691,658,Gazimağusa,False,35.1755782,33.7568549,ChIJWS2nt6k13hQRU0DCwffkzjo,False,1385.0,727.0,658.0,Gazimağusa,İnönü,35.1642359,33.7629465
+Gaidouras,Γαϊδουράς,Korkuteli̇,611,320,291,Gazimağusa,False,35.1673022,33.7889157,ChIJCSuPp0k13hQRiN0Zm3g8dXA,False,510.0,254.0,256.0,Gazimağusa,İnönü,35.1470463,33.8020459
+Pyrga,Πυργά,Pi̇rhan,56,33,23,Gazimağusa,False,35.1841366,33.7259042,ChIJLcSlBsE13hQRP8-F4qiLBBc,False,65.0,43.0,22.0,Gazimağusa,İnönü,35.1814156,33.7238308
+Lysi,Λύση,Akdoğan,2471,1284,1187,Gazimağusa,False,35.105865,33.6822674,ChIJA8dfLUYw3hQR_xGfkMe5K7g,False,2581.0,1326.0,1255.0,Akdoğan,Akdoğan,35.1072538,33.6958809
+Pergamos,Πέργαμος,Beyarmudu,1196,618,578,Gazimağusa,False,35.0431635,33.708323,ChIJg1TRneIt3hQR8NVvavMgv4s,False,1270.0,648.0,622.0,Akdoğan,Beyarmudu,35.0486587,33.6958809
+Çayönü,,Çayönü,660,341,319,Gazimağusa,False,35.0959841,33.7945153,,False,652.0,349.0,303.0,Akdoğan,Beyarmudu,35.0963631,33.7936146
+Acheritou,Αχερίτου,Güverci̇nli̇k,911,453,458,Gazimağusa,False,35.100633,33.8614166,ChIJDbkfx5TL3xQR_buM4Nn1d4w,False,887.0,445.0,442.0,Akdoğan,Beyarmudu,35.0970715,33.8522923
+Makrasyka,Μακράσυκα,İnci̇rli̇,384,185,199,Gazimağusa,False,35.0738889,33.7624405,ChIJwaHU1-Iy3hQRbQRoPDGgLv4,False,432.0,211.0,221.0,Akdoğan,Beyarmudu,35.0795529,33.7685332
+Kouklia,Κούκλια,Köprülü,192,98,94,Gazimağusa,False,35.1086164,33.7504572,ChIJ_ZaSPp0z3hQR3M2gtEPsjGQ,False,215.0,119.0,96.0,Akdoğan,Beyarmudu,35.1123437,33.7573596
+Kontea,Κοντέα,Türkmenköy,782,388,394,Gazimağusa,False,35.1035974,33.7169544,ChIJ1TLrHNsz3hQR7JLKiFS6h5w,False,834.0,412.0,422.0,Akdoğan,Beyarmudu,35.1033617,33.7238308
+Askeia,Άσκεια,Paşaköy,1883,1029,854,Gazimağusa,False,35.1581388,33.6090186,ChIJqbkYhwQ63hQRzd97gRoxA8U,False,1929.0,1027.0,902.0,Akdoğan,Paşaköy,35.1481853,33.6119814
+Aggastina,Αγγαστίνα,Aslanköy,439,235,204,Gazimağusa,False,35.2043581,33.5892324,ChIJg9Z_PJY53hQRZ3xc1Ig97vQ,False,409.0,216.0,193.0,Akdoğan,Paşaköy,35.2008698,33.5839983
+Mousoulita,Μουσουλίτα,Kurudere,403,210,193,Gazimağusa,False,35.1927809,33.6408025,ChIJw29psAo33hQRtm1283EgZJY,False,86.0,47.0,39.0,Akdoğan,Paşaköy,35.18804,33.6483471
+Marathovounos,Μαραθόβουνος,Ulukışla,836,455,381,Gazimağusa,False,35.222767,33.6168368,ChIJWXbKMR443hQRsD8nK7y1Cw4,False,876.0,467.0,409.0,Akdoğan,Paşaköy,35.2094973,33.63436190000001
+Pyla,Πύλα,Pi̇le,479,255,224,Gazimağusa,False,35.0136,33.6919,ChIJPZiA7ZEu3hQRWvpMYkNkR4o,False,462.0,239.0,223.0,Akdoğan,Paşaköy,35.0134077,33.6922186
+Vatyli,Βατυλή,Vadi̇li̇,2129,1045,1084,Gazimağusa,False,35.1337935,33.6557314,ChIJWd0rCtww3hQR2QZNitRroNA,False,2117.0,1068.0,1049.0,Akdoğan,Vadili,35.1408048,33.6511438
+Stroggylos,Στρογγυλός,Turunçlu,261,132,129,Gazimağusa,False,35.1666524,33.6390995,ChIJEWTnjUc33hQRg1nJjH_Xyy0,False,245.0,124.0,121.0,Akdoğan,Vadili,35.1685234,33.6483471
+Levkonoiko,Λευκόνοικο,Geçi̇tkale,1253,635,618,Gazimağusa,False,35.2605334,33.7321988,ChIJzyALMLpL3hQRN2dyl-_Omes,False,1269.0,622.0,647.0,Geçitkale,Geçitkale,35.2687373,33.7405967
+Goufes,Γούφες,Çamlıca,100,50,50,Gazimağusa,False,35.2826438,33.6879107,ChIJs_o8XkZJ3hQR6jIyWSux4y4,False,95.0,47.0,48.0,Geçitkale,Geçitkale,35.2796929,33.69029
+Platani,Πλατάνι,Çınarlı,183,90,93,Gazimağusa,False,35.3334464,33.7515081,ChIJS2khqQpN3hQR0eDHZNaY1vM,False,185.0,91.0,94.0,Geçitkale,Geçitkale,35.3329597,33.7685332
+Melounta,Μελούντα,Mallıdağ,182,93,89,Gazimağusa,False,35.3327387,33.6890575,ChIJpSAkQYpO3hQR_mw-aZlPcyU,False,189.0,96.0,93.0,Geçitkale,Geçitkale,35.3346195,33.7014716
+Genagra,Γέναγρα,Nergi̇sli̇,279,148,131,Gazimağusa,False,35.2179,33.6982,ChIJY8VhkfxJ3hQR3TtQUo1M-Y8,False,293.0,150.0,143.0,Geçitkale,Geçitkale,35.2114584,33.69029
+Psyllatos,Ψυλλάτος,Sütlüce,291,143,148,Gazimağusa,False,35.253814,33.6869593,ChIJX8-_p59J3hQRTt4P10BII_U,False,349.0,173.0,176.0,Geçitkale,Geçitkale,35.2407082,33.69029
+Agios Nikolaos,Άγιος Νικόλαος,Yamaçköy,92,39,53,Gazimağusa,False,35.3287957,33.6780386,ChIJI2lXk_FO3hQRe_DeHtHqp8E,False,80.0,33.0,47.0,Geçitkale,Geçitkale,35.3221764,33.679107
+Kiados,Κίαδος,Serdarlı,1055,511,544,Gazimağusa,False,35.2559205,33.6016675,ChIJ-1FV-PBH3hQR3ig5I4IhXBw,False,1041.0,496.0,545.0,Geçitkale,Serdarlı,35.2555267,33.6119814
+Agios Chariton,Άγιος Χαρίτων,Ergenekon,96,54,42,Gazimağusa,False,35.3051173,33.6041113,ChIJo-bEGxdG3hQRCtb46LGO9zA,False,96.0,52.0,44.0,Geçitkale,Serdarlı,35.2980352,33.6007892
+Knodara,Κνώδαρα,Gönendere,389,187,202,Gazimağusa,False,35.2640771,33.6614828,ChIJUbtao_9I3hQRGQZYKPBGAHQ,False,394.0,193.0,201.0,Geçitkale,Serdarlı,35.2707409,33.6567371
+Kornokipos,Κορνόκηπος,Görneç,507,234,273,Gazimağusa,False,35.2827073,33.5730768,ChIJyYc73gdH3hQRfmMT5CinGZM,False,515.0,243.0,272.0,Geçitkale,Serdarlı,35.275795,33.5784007
+Vitsada,Βιτσάδα,Pınarlı,167,86,81,Gazimağusa,False,35.2442596,33.6465368,ChIJOy2AVzlI3hQRAjxOiqnAn5s,False,202.0,101.0,101.0,Geçitkale,Serdarlı,35.2317425,33.6567371
+Trypimeni,Τρυπημένη,Ti̇rmen,197,106,91,Gazimağusa,False,35.3100676,33.6341154,ChIJ5-lxn7NI3hQRAPfDuw7QuFI,False,184.0,106.0,78.0,Geçitkale,Serdarlı,35.3034905,33.6455502
+Küçükerenköy,Küçükerenköy,Küçükerenköy,339,168,171,Gazimağusa,False,,,ChIJASOqhDZO3hQRLBc-qDsiiEI,False,257.0,187.0,70.0,Geçitkale,Tatlısu,35.3630139,33.6682723
+Ashagi Karaman,,Aşağı Karaman,675,346,329,Girne,False,,,,False,565.0,312.0,253.0,Girne,Girne,,
+Mpelapais,Μπέλαπαϊς,Beylerbeyi̇,918,476,442,Girne,False,35.3065054,33.353218,ChIJFRSYOaEU3hQRgym5F_XZnto,False,934.0,503.0,431.0,Girne,Girne,35.2968734,33.3542258
+Thermia,Θέρμια,Doğanköy,868,429,439,Girne,False,35.3256596,33.3344148,ChIJ2_cKfkwT3hQRPMWDanLRPCQ,False,457.0,245.0,212.0,Girne,Girne,35.3241561,33.3331825
+Trimithi,Τριμίθι,Edremi̇t,1268,794,474,Girne,False,35.3325405,33.2620671,ChIJZ09DMp4S3hQRd0ZOf_1ilTc,False,651.0,362.0,289.0,Girne,Girne,35.3346453,33.2559847
+Karakoumi,Καράκουμι,Karakum,722,390,332,Girne,False,35.3326865,33.3420667,ChIJjWF1a69s3hQRq9ClskzK_00,False,299.0,184.0,115.0,Girne,Girne,35.3337487,33.3416004
+Agios Georgios,Άγιος Γεώργιος,Karaoğlanoğlu,3745,1963,1782,Girne,False,35.3424212,33.2716623,ChIJFTeHhbES3hQRDSlhDo94ZNo,False,2610.0,1551.0,1059.0,Girne,Girne,35.3391989,33.2728331
+Kazafani,Καζάφανι,Ozanköy,3070,1615,1455,Girne,False,35.3188533,33.3544245,ChIJWQgBAqsU3hQRDGnebBrZxSQ,False,2584.0,1441.0,1143.0,Girne,Girne,35.3261677,33.3542258
+Templos,Τέμπλος,Zeyti̇nli̇k Köy,622,296,326,Girne,False,35.333,33.2915,ChIJwVvTLdAS3hQREGDVCh7-Py4,False,513.0,265.0,248.0,Girne,Girne,35.3290981,33.2896786
+Ftericha,Φτεριχα,Ilgaz,72,36,36,Girne,False,35.3232543,33.2210123,ChIJwfPO3qkN3hQRRA7HzvR1NmY,False,75.0,48.0,27.0,Girne,Alsancak,35.3140157,33.2278976
+Motides,Μότιδες,İncesu,180,103,77,Girne,False,35.3351157,33.2073533,ChIJ2-_tevsM3hQRxLzz2YPxzAI,False,150.0,86.0,64.0,Girne,Alsancak,35.3306518,33.2096366
+Elia,Ελια,Yeşi̇ltepe,750,454,296,Girne,False,35.3357308,33.2169914,ChIJQ37m3RwN3hQRXX8CJYlWe_0,False,290.0,147.0,143.0,Girne,Alsancak,35.3442807,33.2208745
+Klepini,Κλεπίνη,Arapköy,542,302,240,Girne,False,35.3066986,33.4334742,ChIJ99aDMKZq3hQRBu8Ksl2TwCw,False,380.0,228.0,152.0,Girne,Çatalköy,35.2982601,33.4439588
+Agios Epiktitos,Άγιος Επίκτητος,Çatalköy,5110,2756,2354,Girne,False,35.3213447,33.3906576,ChIJA34q5CVr3hQRg5Hfzht5-RY,False,3803.0,2147.0,1656.0,Girne,Çatalköy,35.3153575,33.4047109
+Agirda,Αγίρδα,Ağırdağ,745,376,369,Girne,False,35.2970651,33.2666775,ChIJ67JSUnAS3hQRLQG8XhnW1cY,False,454.0,250.0,204.0,Girne,Dikmen,35.2871985,33.2672173
+Sysklipos,Σύσκληπος,Akçi̇çek,79,45,34,Girne,False,35.2997562,33.1722989,ChIJq-MB6AEM3hQR-l97Vmwy_A4,False,87.0,45.0,42.0,Girne,Dikmen,35.2938313,33.1745097
+Sichari,Σιχαρί,Aşağı Taşkent,290,148,142,Girne,False,35.2787133,33.3769904,ChIJ-9GNM_QU3hQRWfij39XCSdc,False,264.0,134.0,130.0,Girne,Dikmen,35.2738554,33.365447
+Mpogazi,Μπογάζι,Boğazköy,1943,1116,827,Girne,False,35.2860748,33.2799058,ChIJX0_u6GkS3hQR-1XLGVP2Udo,False,1297.0,782.0,515.0,Girne,Dikmen,35.291758,33.2840638
+Fotta,Φώττα,Dağyolu,525,258,267,Girne,False,35.2645645,33.2220905,ChIJyyZGv2cO3hQRMTIGUf-gq2E,False,525.0,267.0,258.0,Girne,Dikmen,35.250621,33.2194699
+Pileri,Πιλέρι,Göçeri̇,228,119,109,Girne,False,35.2896806,33.216143,ChIJh1pYrtUN3hQRacUjOhilL48,False,155.0,83.0,72.0,Girne,Dikmen,35.2834291,33.2082318
+Koutsoventis,Κουτσοβέντης,Güngör,124,68,56,Girne,False,35.2658497,33.4208571,ChIJ03YxSXQV3hQR4xFQB-gI_Ow,False,140.0,100.0,40.0,Girne,Dikmen,35.2661915,33.4215334
+Kiomourtziou,Κιόμουρτζιου,Kömürcü,67,27,40,Girne,False,35.2931726,33.2566052,ChIJTQMTPfEN3hQRJTxZ743D5oQ,False,34.0,16.0,18.0,Girne,Dikmen,35.2857855,33.2559847
+Krini,Κρηνί,Pınarbaşı,483,236,247,Girne,False,35.2871477,33.2374567,ChIJSQMEM-YN3hQRS4wByo5E5SU,False,484.0,237.0,247.0,Girne,Dikmen,35.2730184,33.2419422
+Agios Ermolaos,Άγιος Ερμόλαος,Şi̇ri̇nevler,368,201,167,Girne,False,35.2784517,33.1727025,ChIJAy0Ii7UO3hQRJ_TtF_VdPxA,False,427.0,228.0,199.0,Girne,Dikmen,35.2644875,33.1745097
+Vouno,Βουνό,Yukarı Taşkent,299,145,154,Girne,False,35.2785,33.377,ChIJz9U6E_8U3hQRanxew9hlx0U,False,289.0,145.0,144.0,Girne,Dikmen,35.2569465,33.3962986
+Agios Amvrosios,Άγιος Αμβρόσιος,Esentepe,1754,920,834,Girne,False,35.3394007,33.5831724,,False,1575.0,949.0,626.0,Girne,Esentepe,35.3403306,33.5817749
+Kalograia,Καλογραία,Bahçeli̇,388,193,195,Girne,False,35.3383116,33.6302703,ChIJ8Qe9QW9P3hQR9NaEanZcrvI,False,393.0,204.0,189.0,Girne,Esentepe,35.3428587,33.6287673
+Trapeza,Τράπεζα,Beşparmak,30,16,14,Girne,False,35.3086601,33.469027,ChIJ5YwrdUNA3hQR5J9wzYWE44s,False,42.0,23.0,19.0,Girne,Esentepe,35.2975375,33.4775871
+Charkeia,Χάρκεια,Karaağaç,242,116,126,Girne,False,35.3193306,33.5559197,ChIJ7VYHdJRG3hQRvc06gOS-wAA,False,264.0,133.0,131.0,Girne,Esentepe,35.3124353,33.5392081
+Karmi,Καρμι,Karaman,55,29,26,Girne,False,35.3204117,33.2589627,ChIJc0Z0on0N3hQRzLJNY-kkK-4,False,85.0,43.0,42.0,Girne,Esentepe,35.3149411,33.2644093
+Vasileia,Βασιλεια,Karşıyaka,2091,1057,1034,Girne,False,35.3519956,33.1200771,ChIJI23ralMK3hQRmSYUL86bEWI,False,2110.0,1185.0,925.0,Girne,Lapta,35.3439517,33.1070309
+Agia Eirini,Αγια Ειρηνη,Akdeni̇z,522,276,246,Girne,False,35.2986814,32.9635543,ChIJwfPNebbk3RQRQ4wY82BrkXg,False,597.0,317.0,280.0,Çamlıbel,Lapta,35.2907038,32.9775675
+Agridaki,Αγριδάκι,Alemdağ,86,45,41,Girne,False,35.3080892,33.1516551,ChIJr2BEl-EL3hQRuxRFrugXaDI,False,87.0,45.0,42.0,Çamlıbel,Lapta,35.2974502,33.1548332
+Myrtou,Μύρτου,Çamlıbel,872,466,406,Girne,False,35.3072059,33.0751473,ChIJKUqtUgji3RQRspS_34LLa1s,False,1037.0,561.0,476.0,Çamlıbel,Lapta,35.3152032,33.0732741
+Panagra,Πάναγρα,Geçi̇tköy,220,126,94,Girne,False,35.336326,33.0681663,ChIJ4xP-0fnh3RQR8AxYXLsvyzE,False,213.0,139.0,74.0,Çamlıbel,Lapta,35.3446997,33.0648331
+Kampyli,Καμπυλή,Hi̇sarköy,194,89,105,Girne,False,35.301416,33.1078601,ChIJAbvlJ5QJ3hQRTtLtonn2DKU,False,194.0,95.0,99.0,Çamlıbel,Lapta,35.3032467,33.1042183
+Karpasia,Καρπάσια,Karpaşa,256,150,106,Girne,False,35.297798,33.0704157,ChIJ4dnRB3vi3RQR-lNp5vJPO8A,False,89.0,44.0,45.0,Çamlıbel,Lapta,35.2858449,33.0732741
+Orga,Όργα,Kayalar,234,136,98,Girne,False,35.3597382,33.0336704,ChIJ4UZrwHXh3RQR2PaE3-Wo7uw,False,181.0,97.0,84.0,Çamlıbel,Lapta,35.35837739999999,33.0282472
+Kontemenos,Κοντεμένος,Kılıçarslan,194,102,92,Girne,False,35.2687,33.1259,ChIJD2LWg_gI3hQRPkQCNEuxAgw,False,218.0,128.0,90.0,Çamlıbel,Lapta,35.2619306,33.1351527
+Kormakitis,Κορμακίτης,Koruçam,309,147,162,Girne,False,35.3428446,33.0097099,ChIJx4wIQefj3RQR954Nruf_HOE,False,195.0,91.0,104.0,Çamlıbel,Lapta,35.3425478,33.000095
+Larnakas tis Lapithou,Λάρνακας της Λαπήθου,Kozan,375,175,200,Girne,False,35.3107054,33.140665,ChIJZSJJD2MJ3hQRrXqQjWK3sFg,False,464.0,230.0,234.0,Çamlıbel,Lapta,35.3076877,33.12952900000001
+Asomatos,Ασωματος,Özhan,73,38,35,Girne,False,35.2753281,33.1077234,ChIJf0DUGkwI3hQRtzbRpmnmEnE,False,82.0,45.0,37.0,Çamlıbel,Lapta,35.2628117,33.0845277
+Livera,Λιβερα,Sadrazamköy,170,80,90,Girne,False,35.3832534,32.9529962,ChIJ17BMu43m3RQRUulnzLeP1Gk,False,166.0,85.0,81.0,Çamlıbel,Lapta,35.382536,32.9494009
+Diorios,Διόριος,Tepebaşı,774,417,357,Girne,False,35.306,33.054,ChIJh89DvULi3RQRdBBYCLBD6JM,False,798.0,427.0,371.0,Çamlıbel,Lapta,35.2964917,33.0226174
+Atsagi,Ατσάγι,Akçay,1008,511,497,Güzelyurt,False,35.1799595,33.0353237,ChIJgTNn8n3-3RQRjdbMqU27XTk,False,1033.0,522.0,511.0,Güzelyurt,Güzelyurt,35.188463,33.0395058
+Kato Zodeia,Κάτω Ζώδεια,Aşağı Bostancı,1822,872,950,Güzelyurt,False,35.1685572,33.0066204,ChIJjbYq_sD-3RQRRBwt-tCPH7k,False,2024.0,1010.0,1014.0,Güzelyurt,Güzelyurt,35.156664,32.9831998
+Prasteio,Πραστειό,Aydınköy,1164,563,601,Güzelyurt,False,35.1754257,32.9396556,ChIJ8XZ5q1T43RQRzV60qnMopDY,False,1154.0,577.0,577.0,Güzelyurt,Güzelyurt,35.1704228,32.9381321
+Aylona,Αυλώνα,Gayretköy,367,179,188,Güzelyurt,False,35.1616976,33.1060206,ChIJK62DccsA3hQRAGla_VKsatc,False,367.0,188.0,179.0,Güzelyurt,Güzelyurt,35.1693415,33.1098434
+Nikitas,Νικήτας,Güneşköy,505,252,253,Güzelyurt,False,35.1765353,32.9567145,ChIJwRmoGRv53RQRTTcfmvPxpBo,False,546.0,277.0,269.0,Güzelyurt,Güzelyurt,35.1783861,32.9522179
+Kapouti,Καπούτι,Kalkanlı,2305,1423,882,Güzelyurt,False,35.2465,33.0379,ChIJQyuQ1iP93RQRg1qfNPTRskI,False,1338.0,811.0,527.0,Güzelyurt,Güzelyurt,35.2377309,33.0226174
+Kyra,Κυρά,Mevlevi̇,386,207,179,Güzelyurt,False,35.2032499,33.060546,ChIJ6WxWC5b93RQR_5--axMMlfw,False,370.0,217.0,153.0,Güzelyurt,Güzelyurt,35.2109599,33.0620193
+Fyllia,Φυλλιά,Serhatköy,573,280,293,Güzelyurt,False,35.1882752,33.0922433,ChIJS4_MUl0H3hQRcIMqx8tFKPE,False,595.0,300.0,295.0,Güzelyurt,Güzelyurt,35.1905207,33.1126559
+Masari,Μάσαρη,Şahi̇nler,189,89,100,Güzelyurt,False,35.1866597,33.0756714,ChIJcbZPcfb93RQRkUJAV1mCgxU,False,179.0,82.0,97.0,Güzelyurt,Güzelyurt,35.1797005,33.0760876
+Syrianochori,Συριανοχώρι,Yayla,850,424,426,Güzelyurt,False,35.2251052,32.940156,ChIJMfmr19L73RQRh0aCJUR2yxg,False,775.0,390.0,385.0,Güzelyurt,Güzelyurt,35.2194604,32.9381321
+Pano Zodeia,Πάνω Ζώδεια,Yukarı Bostancı,1495,788,707,Güzelyurt,False,35.1621325,33.0159382,ChIJMyeRpuj-3RQRDNZiowoWvBo,False,1419.0,746.0,673.0,Güzelyurt,Güzelyurt,35.1386371,32.9860159
+Chrysiliou,Χρυσηλιου,Yuvacık,214,113,101,Güzelyurt,False,35.2146574,33.0189154,ChIJby8zJkT83RQRld-NRrT-uYE,False,214.0,112.0,102.0,Güzelyurt,Güzelyurt,35.2116477,33.0198024
+Katokopia,Κατωκοπιά,Zümrütköy,817,389,428,Güzelyurt,False,35.1747025,33.0517775,ChIJCb4haHH-3RQRGM3vjRR4u1E,False,921.0,457.0,464.0,Güzelyurt,Güzelyurt,35.1750763,33.0592054
+Levka,Λεύκα,Lefke,3009,1600,1409,Güzelyurt,False,35.1132003,32.8499935,ChIJJcwU6qVZ5xQRkcCTmSDRNms,False,2908.0,1571.0,1337.0,Lefke,Lefke,35.0965045,32.8422959
+Loutros,Λουτρός,Bademli̇köy,93,47,46,Güzelyurt,False,35.1588297,32.763247,ChIJgSNU9gdf5xQRiKQhw6eXsLo,False,106.0,53.0,53.0,Lefke,Lefke,35.1565604,32.7576589
+Ampelikou,Αμπελικού,Bağlıköy,200,99,101,Güzelyurt,False,35.1203185,32.8040567,ChIJufDGSspe5xQRti6m1cYJ7cY,False,222.0,100.0,122.0,Lefke,Lefke,35.1198031,32.8140914
+Peristeronari,Περιστερωνάρι,Cengi̇zköy,217,106,111,Güzelyurt,False,35.132526,32.8646386,ChIJQezCzERY5xQRDAbxW8MZjdE,False,180.0,97.0,83.0,Lefke,Lefke,35.1355653,32.8592148
+Kalo Chorio,Καλό Χωριό,Çamlıköy,170,79,91,Güzelyurt,False,35.1156597,32.8769913,ChIJAzmtTDVY5xQRUIkSXcYjHX8,False,255.0,124.0,131.0,Lefke,Lefke,35.1140935,32.8733117
+Xeros,Ξερός,Deni̇zli̇,460,238,222,Güzelyurt,False,35.1474,32.8499,ChIJW2dQ9YxY5xQR7UjsWMVoXM0,False,573.0,313.0,260.0,Lefke,Lefke,35.1471499,32.8498745
+Elia,Ελιά,Doğancı,1299,662,637,Güzelyurt,False,35.1331227,32.913372,ChIJe0vMruVX5xQRdlKV_XZjxnU,False,1291.0,654.0,637.0,Lefke,Lefke,35.1380434,32.9155906
+Kazivera,Καζιβερά,Gazi̇veren,1042,518,524,Güzelyurt,False,35.1724843,32.9164496,ChIJEXCaWzf43RQR7zTW95TGTfo,False,1002.0,508.0,494.0,Lefke,Lefke,35.1674849,32.9155906
+Agkolem,Αγκολέμ,Taşpınar,181,92,89,Güzelyurt,False,35.118146,32.948238,ChIJSytdCzRW5xQRJUyZzLdv1n4,False,212.0,115.0,97.0,Lefke,Lefke,35.1179217,32.9494009
+Potamos,Ποταμός,Yedi̇dalga,669,329,340,Güzelyurt,False,35.1462068,32.8036484,ChIJcb1P3tJY5xQRmfZXUDXRy0s,False,767.0,397.0,370.0,Lefke,Lefke,35.144474,32.8056285
+Limnitis,Λιμνίτης,Yeşi̇lırmak,458,227,231,Güzelyurt,False,35.1675235,32.7394894,ChIJ7fWEp8df5xQR6HUUmDmX6gk,False,410.0,210.0,200.0,Lefke,Lefke,35.1667086,32.732254
+Pentageia,Πεντάγεια,Yeşi̇lyurt,1218,637,581,Güzelyurt,False,35.1531147,32.8844033,ChIJpSgobwpY5xQRwtSdyBiNSQU,False,1278.0,701.0,577.0,Lefke,Lefke,35.1483418,32.8817689
+Mantres,Μάντρες,Ağıllar,188,91,97,İskele,False,35.3467225,33.799342,ChIJUSNwLkyt3xQRSomsft-WRec,False,176.0,87.0,89.0,İskele,İskele,35.3480408,33.8132141
+Agios Iakovos,Άγιος Ιάκωβος,Altınova,229,115,114,İskele,False,35.3267871,33.8143125,ChIJY7u8o6Oy3xQRg_sVkgyCKqo,False,250.0,115.0,135.0,İskele,İskele,35.3153248,33.824381
+Ardana,Άρδανα,Ardahan,330,170,160,İskele,False,35.3568042,33.8860095,ChIJK0xTfYKu3xQRkpKVIOf3KIA,False,350.0,178.0,172.0,İskele,İskele,35.3555716,33.8969328
+Agios Georgios,Άγιος Γεώργιος,Aygün,414,209,205,İskele,False,35.2561997,33.8627363,ChIJz0sKlpSz3xQRfqCrh0TGdtE,False,380.0,187.0,193.0,İskele,İskele,35.2587458,33.8801952
+Mpogazi,Μπογάζι,Boğaz,157,86,71,İskele,False,35.3150486,33.9505828,ChIJUasau5ev3xQRzJkaQJUAR-A,False,295.0,186.0,109.0,İskele,İskele,35.316774,33.9540969
+Lapathos,Λάπαθος,Boğazi̇çi̇,514,252,262,İskele,False,35.2693567,33.8256878,ChIJZSUjjWyz3xQRNs6Qsmp39nA,False,475.0,234.0,241.0,İskele,İskele,35.272867,33.8355465
+Monarga,Μόναργα,Boğaztepe,312,151,161,İskele,False,35.320503,33.9455111,ChIJpZeEvrmv3xQRkQn98z8idbo,False,444.0,280.0,164.0,İskele,İskele,35.3169997,33.9457337
+Ovgoros,Όβγορος,Ergazi̇,202,94,108,İskele,False,35.3656835,33.9378592,ChIJQ1UAPi-v3xQR1V4TY1l3_68,False,207.0,92.0,115.0,İskele,İskele,35.3771934,33.9359756
+Gastria,Γαστριά,Kaleci̇k,435,225,210,İskele,False,35.3424739,33.9998073,ChIJ8Ue0K8Ol3xQRBAocAhcv6Ys,False,308.0,171.0,137.0,İskele,İskele,35.3338704,33.9805756
+Aygolida,Αυγολίδα,Kurtuluş,106,55,51,İskele,False,35.355337,33.9624173,ChIJh8Yz8E-v3xQRvTvUBpX0qFs,False,86.0,44.0,42.0,İskele,İskele,35.3522187,33.9610657
+Arnadi,Αρναδί,Kuzucuk,344,183,161,İskele,False,35.2374507,33.8594461,ChIJ_ZP9CnS03xQRzYR6mME076Y,False,283.0,149.0,134.0,İskele,İskele,35.2366033,33.8578735
+Spathariko,Σπαθαρικό,Ötüken,550,267,283,İskele,False,35.2346419,33.8723517,ChIJ57M9VAi03xQRtd2YBqUErx4,False,386.0,192.0,194.0,İskele,İskele,35.2359621,33.882985
+Sygkrasi,Σύγκραση,Sınırüstü,186,99,87,İskele,False,35.2723811,33.8520394,ChIJJwpkVKWz3xQRkigOcbpOlh8,False,154.0,85.0,69.0,İskele,İskele,35.2852727,33.8578735
+Agios Andronikos,Άγιος Ανδρόνικος,Topçuköy,310,150,160,İskele,False,35.3397904,33.8734104,ChIJffxtwMSt3xQRk3m4vey4iDQ,False,336.0,169.0,167.0,İskele,İskele,35.3339151,33.8578735
+Gerani,Γεράνι,Turnalar,142,75,67,İskele,False,35.3598968,33.9219379,ChIJSzXsUtyu3xQR1VXj5GR6kdU,False,134.0,72.0,62.0,İskele,İskele,35.3515836,33.9248222
+Agios Ilias,Άγιος Ηλίας,Yarköy,429,208,221,İskele,False,35.3284553,33.9289152,ChIJrdCyc1Ou3xQRxHhmQxG1Cfk,False,348.0,177.0,171.0,İskele,İskele,35.3286036,33.9359756
+Komi Kepir,Κώμη Κεπήρ,Büyükkonuk,812,435,377,İskele,False,35.4104388,33.9935574,ChIJNXgAoeqn3xQRQyZwR32q9Bc,False,775.0,399.0,376.0,Mehmetçik,Büyükkonuk,35.4243568,33.986149
+Davlos,Δαυλός,Kaplıca,389,197,192,İskele,False,35.4214136,33.904832,ChIJfR7-IQip3xQRY1J_oXkCTf4,False,408.0,205.0,203.0,Mehmetçik,Büyükkonuk,35.4134201,33.9136675
+Krideia,Κρίδεια,Ki̇li̇tkaya,172,82,90,İskele,False,35.3944713,33.9734023,ChIJKaLbloGo3xQRiI0jnDWioi0,False,177.0,87.0,90.0,Mehmetçik,Büyükkonuk,35.3895332,33.9582783
+Flamoudi,Φλαμούδι,Mersi̇nli̇k,158,80,78,İskele,False,35.3965417,33.8571123,ChIJj1VTB3as3xQRMg9DvvjtqCs,False,169.0,87.0,82.0,Mehmetçik,Büyükkonuk,35.3922503,33.8578735
+Livadia,Λιβάδια,Sazlıköy,44,23,21,İskele,False,35.3991,34.0257,ChIJTeADeQyn3xQRXkzFnnGoJEk,False,96.0,46.0,50.0,Mehmetçik,Büyükkonuk,35.3938178,34.036295
+Patriki,Πατρίκι,Tuzluca,389,216,173,İskele,False,35.3629784,33.9970998,ChIJEW9CzxKm3xQRo5ptbTi1y_0,False,334.0,165.0,169.0,Mehmetçik,Büyükkonuk,35.3594694,33.9917222
+Eptakomi,Επτακώμη,Yedi̇konuk,860,436,424,İskele,False,35.4459392,34.0312656,ChIJD8EXgbAJ3xQRV86efYs1Lyg,False,859.0,450.0,409.0,Mehmetçik,Büyükkonuk,35.4489622,34.0307246
+Agios Eystathios,Άγιος Ευστάθιος,Zeybekköy,36,18,18,İskele,False,35.389416,34.0143602,ChIJWxKL7aun3xQRGTaHKC59KNg,False,31.0,16.0,15.0,Mehmetçik,Büyükkonuk,35.386124,34.0223683
+Galateia,Γαλάτεια,Mehmetçi̇k,1249,633,616,İskele,False,35.4221242,34.0693265,ChIJz4xBRhkK3xQRmThc7yJ3-xA,False,1196.0,621.0,575.0,Mehmetçik,Mehmetçik,35.415337,34.0752783
+Vokolida,Βοκολίδα,Bafra,1019,706,313,İskele,False,35.379518,34.0712539,ChIJo133OM6g3xQR4lp7rm3fOrY,False,514.0,344.0,170.0,Mehmetçik,Mehmetçik,35.3734501,34.0697103
+Platanissos,Πλατανισσός,Balalan,89,43,46,İskele,False,35.4783568,34.1069526,ChIJX5IB3X0M3xQRnOGYt_iti0I,False,97.0,47.0,50.0,Mehmetçik,Mehmetçik,35.4827208,34.0919803
+Agios Theodoros,Άγιος Θεόδωρος,Çayırova,406,210,196,İskele,False,35.3660363,34.0297851,ChIJISBzmemm3xQRbHjlmIap3DY,False,430.0,221.0,209.0,Mehmetçik,Mehmetçik,35.3519049,34.0307246
+Koma Gialou,Κώμα Γιαλού,Kumyalı,686,342,344,İskele,False,35.4276576,34.1316404,ChIJYXp-AiAL3xQRtoMhux70cfw,False,666.0,344.0,322.0,Mehmetçik,Mehmetçik,35.4235636,34.1253751
+Tavros,Ταύρος,Pamuklu,280,141,139,İskele,False,35.3977953,34.0765548,ChIJc-oXFqWg3xQRFdJRKq-xF_U,False,256.0,129.0,127.0,Mehmetçik,Mehmetçik,35.3926183,34.0780622
+Kantara,Καντάρα,Kantara,21,19,2,İskele,False,35.387272,33.8984756,ChIJjZyEuU2p3xQROD6uAAxEHCg,False,3.0,2.0,1.0,Mehmetçik,Mehmetçik,35.3871012,33.8990248
+Galinoporni,Γαληνόπορνη,Kaleburnu,333,158,175,İskele,False,35.5224385,34.3026647,ChIJO9rzvaZv3xQR3bJFs5MUGq8,False,351.0,157.0,194.0,Yeni,Dipkarpaz,35.521343,34.3032719
+Gialousa,Γιαλούσα,Yeni̇ Erenköy,1774,874,900,İskele,False,35.5352105,34.1896124,ChIJx9sAZHNt3xQR7rlOtL4guiY,False,1640.0,816.0,824.0,Yeni,Yeni,35.5347254,34.1865669
+Melanagra,Μελάναγρα,Adaçay,100,51,49,İskele,False,35.5143199,34.1990045,ChIJLdStg31y3xQRDkjvMJyd_oA,False,88.0,44.0,44.0,Yeni,Yeni,35.5066918,34.2060283
+Agios Symeon,Αγιος Συμεών,Avtepe,119,56,63,İskele,False,35.4911828,34.2184691,ChIJL1aTzkZy3xQR9fXfZJVqp48,False,151.0,67.0,84.0,Yeni,Yeni,35.4847601,34.236602
+Lythragkomi,Λυθράγκωμη,Boltaşlı,228,118,110,İskele,False,35.4780938,34.1674017,ChIJq2tM1Dtz3xQRio98UMYlW4o,False,266.0,143.0,123.0,Yeni,Yeni,35.4674542,34.1698823
+Vathylakas,Βαθύλακας,Deri̇nce,488,250,238,İskele,False,35.4837899,34.1876376,ChIJx0LR8_By3xQRQM3NU_m4cio,False,524.0,264.0,260.0,Yeni,Yeni,35.4700019,34.1921277
+Koilanemos,Κοιλάνεμος,Esenköy,58,26,32,İskele,False,35.4928658,34.1433772,ChIJ61ThRtEM3xQRkPeCY9yZEm8,False,58.0,28.0,30.0,Yeni,Yeni,35.4893751,34.13928600000001
+Vasili,Βασίλι,Geli̇nci̇k,496,245,251,İskele,False,35.4729595,34.150295,ChIJadCyZLMM3xQRTTqTp9vMMA8,False,458.0,233.0,225.0,Yeni,Yeni,35.4516433,34.1587576
+Koroveia,Κοροβεία,Kuruova,132,58,74,İskele,False,35.5108618,34.2741346,ChIJneqaDzpu3xQRNuMuM_dsljA,False,145.0,64.0,81.0,Yeni,Yeni,35.5030642,34.2699432
+Agia Trias,Αγία Τριάς,Si̇pahi̇,614,295,319,İskele,False,35.5426055,34.2245714,ChIJRe5YJrdt3xQRNMiDadjI280,False,659.0,322.0,337.0,Yeni,Yeni,35.5331526,34.236602
+Neta,Νέτα,Taşlıca,80,40,40,İskele,False,35.4697834,34.2140289,ChIJKVz5NrZz3xQRC0ySgw6qt50,False,99.0,53.0,46.0,Yeni,Yeni,35.4643867,34.2171472
+Agios Andronikos,Άγιος Ανδρόνικος,Yeşi̇lköy,799,411,388,İskele,False,35.5050355,34.1624713,ChIJ_bg3-89y3xQRWY8WMwdxxjA,False,777.0,386.0,391.0,Yeni,Yeni,35.5031406,34.1643201
+Leonariso,Λεωνάρισο,Zi̇yamet,739,387,352,İskele,False,35.4685128,34.1382889,ChIJv1L4zExz3xQRlKeaoS9biFo,False,715.0,365.0,350.0,Yeni,Yeni,35.4623398,34.1253751
+Kokkina,Κόκκινα,Erenköy,0,0,0,Lefke,False,35.1790022,32.6097115,ChIJ_Sn_GWVh5xQRezW4HeaNPhE,False,0.0,0.0,0.0,Lefke,Lefke,35.179457,32.610868

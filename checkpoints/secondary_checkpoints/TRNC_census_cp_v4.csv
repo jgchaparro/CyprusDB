@@ -1,194 +1,195 @@
-town,population,male_population,female_population,population_2006,male_population_2006,female_population_2006,district,subdistrict,municipality,lat,lon,gm_id,greek_name
-Di̇pkarpaz,2016,1007,1009,1935,968,967,İskele,Yeni,Dipkarpaz,35.6176824,34.4087307,ChIJFdx3t2tn3xQRInHdNFtCOCg,Ριζοκάρπασο
-Gemi̇konağı,2075,1318,757,1498,854,644,Güzelyurt,Lefke,Lefke,35.142762,32.8112705,ChIJw1gDZOdY5xQRzgnyO-yf0b4,Καραβοστάσι
-Güzelyurt,7251,3619,3632,7627,3885,3742,Güzelyurt,Güzelyurt,Güzelyurt,35.2123165,32.9775675,ChIJfz7P_1H53RQRmbROZQ0T7bg,Μόρφου
-Lapta,5748,2959,2789,5658,3151,2507,Girne,Girne,Lapta,35.3364082,33.1632665,ChIJSfTuTocM3hQRNbYv5mkqRUM,Λάπηθος
-Di̇kmen,3969,2131,1838,2605,1464,1141,Girne,Girne,Dikmen,35.266918,33.3277003,ChIJf0s8-cAT3hQRY6tDs7XxiJg,Δίκωμο
-Alsancak,5595,2948,2647,4638,2577,2061,Girne,Girne,Alsancak,35.3420796,33.2082318,ChIJfZOGfvIM3hQRkYt4GUYmTbo,Καραβάς
-Gi̇rne,21319,11403,9916,18744,10594,8150,Girne,Girne,Girne,35.299194,33.2363246,ChIJKS2WH74N3hQRjxHlC6st0tM,Πόλη Χρυσοχούς
-Tatlısu,1120,579,541,903,461,442,Gazimağusa,Geçitkale,Tatlısu,35.3785077,33.7629465,ChIJR2udT_RS3hQRsTyTpE9AY8M,Ακανθού
-Gazi̇mağusa,37642,20301,17341,33001,17897,15104,Gazimağusa,Gazimağusa,Gazimağusa,35.1149116,33.919245,ChIJPRZM2kLI3xQRh87TpcUD2yk,Αμμόχωστος
-Deği̇rmenli̇k,3284,1778,1506,3128,1685,1443,Lefkoşa,Değirmenlik,Değimenlik,35.2553647,33.4719832,ChIJlaSb_gc_3hQR-DikEPtnxRA,Κυθρέα
-Gönyeli̇,17045,8966,8079,12186,6519,5667,Lefkoşa,Lefkoşa,Gönyeli,35.2133871,33.2924859,ChIJ-QldKQAR3hQR8jvZU1MIRRg,Κιόνελι
-Lefkoşa,51836,27102,24734,49868,26848,23020,Lefkoşa,Lefkoşa,Lefkoşa,35.1855659,33.38227639999999,ChIJVU1JymcX3hQRpcARA5ykXls,Λευκωσία
-İskele,3058,1537,1521,2610,1405,1205,İskele,İskele,İskele,35.297229,33.8969328,ChIJtbgLUJGx3xQRsvnB1Roi2nw,Τρίκωμο
-Hami̇tköy,5338,2773,2565,2898,1567,1331,Lefkoşa,Lefkoşa,Lefkoşa,35.2215191,33.3766669,ChIJC26FTOsW3hQRKlGoqkbKgVU,Μάνδρες
-Haspolat,4204,2385,1819,3380,2168,1212,Lefkoşa,Lefkoşa,Lefkoşa,35.2107245,33.4271403,ChIJ0WZmiRQW3hQRWJCZ8IphTlo,Μιά Μηλιά
-Akıncılar,390,199,191,462,231,231,Lefkoşa,Lefkoşa,Akıncılar,35.0175999,33.466379,ChIJ2yNfV0sg3hQR4PG_cIx5amI,Λουρουκίνα
-Alayköy,2777,1445,1332,2539,1348,1191,Lefkoşa,Lefkoşa,Alayköy,35.2010828,33.2531764,ChIJWxGOiUsF3hQR8FDvFXTwInM,Γερόλακκος
-Türkeli̇,154,96,58,154,98,56,Lefkoşa,Lefkoşa,Alayköy,35.2120962,33.1857517,ChIJN1DKMl8P3hQRyX7AxwWQ9Gc,'Αγιος Βασίλειος
-Yılmazköy,953,533,420,785,435,350,Lefkoşa,Lefkoşa,Alayköy,35.2288098,33.1632665,ChIJiVnxGq0I3hQR6mQTC1bmECs,Σκυλλούρα
-Kanlıköy,232,129,103,207,123,84,Lefkoşa,Lefkoşa,Gönyeli,35.2171783,33.2644093,ChIJcXiUhikQ3hQRf7Poo-iccJ8,Κανλί
-Balıkesi̇r,860,429,431,1074,625,449,Lefkoşa,Değirmenlik,Değimenlik,35.17687950000001,33.4887939,ChIJfW_bJoU-3hQRpOWN0-hwhMg,Παλαίκυθρο
-Beyköy,105,42,63,88,35,53,Lefkoşa,Değirmenlik,Değimenlik,35.23991,33.509803,ChIJM-HbHR4_3hQRAY3JKrBLboU,Μπέϊκιοϊ
-Ci̇hangi̇r,961,475,486,929,495,434,Lefkoşa,Değirmenlik,Değimenlik,35.2283093,33.5196057,ChIJ59NDwcQ-3hQR8t_KdN9VwyM,Επιχό
-Çukurova,208,100,108,187,94,93,Lefkoşa,Değirmenlik,Değimenlik,35.217816,33.5532073,ChIJt0_-qOY43hQR8zS--ctKZNw,Κουρού Μοναστήρι
-Demi̇rhan,530,267,263,454,220,234,Lefkoşa,Değirmenlik,Değimenlik,35.20636200000001,33.48038890000001,ChIJ07rLVGc-3hQRLlt4hMisB50,Τραχώνι
-Di̇lekkaya,619,305,314,590,290,300,Lefkoşa,Değirmenlik,Değimenlik,35.1133417,33.5672045,ChIJ5yl9NyQ73hQRbXSiiUU8kII,Αγιά
-Düzova,661,332,329,624,319,305,Lefkoşa,Değirmenlik,Değimenlik,35.2019719,33.5336078,ChIJd5SzWcw-3hQRZNO7S2SFftY,'Εξω Μετόχι
-Erdemli̇,169,86,83,207,120,87,Lefkoşa,Değirmenlik,Değimenlik,35.0798093,33.6119814,ChIJU_02NFMl3hQRREaPEMujC_A,Τρεμετουσιά
-Gazi̇köy,713,357,356,679,342,337,Lefkoşa,Değirmenlik,Değimenlik,35.1489203,33.5784007,ChIJ2-w-uzA63hQR74hNpr9M35Q,Αφάντεια
-Gökhan,202,117,85,229,128,101,Lefkoşa,Değirmenlik,Değimenlik,35.2073956,33.5084026,ChIJ-aMg1uQ-3hQR_evJEFjldp4,Βώνη
-Kalavaç,255,122,133,248,119,129,Lefkoşa,Değirmenlik,Değimenlik,35.2570367,33.544808,ChIJw9LwmqE43hQRVCDyyfoiWvY,Καλυβάκια
-Kırıkkale,390,184,206,398,189,209,Lefkoşa,Değirmenlik,Değimenlik,35.0770318,33.5895956,ChIJQ7t3sDwl3hQRa0Wi8RX92a8,Μελούσεια
-Kırklar,384,246,138,335,200,135,Lefkoşa,Değirmenlik,Değimenlik,35.13081,33.5112035,ChIJa0xaksk83hQR8sIIifpLULE,Τύμβου
-Meri̇ç,494,246,248,522,271,251,Lefkoşa,Değirmenlik,Değimenlik,35.1691793,33.544808,ChIJr3Wloeg73hQRYgQ9kB1WbOs,Μόρα
-Mi̇nareli̇köy,1334,755,579,1766,1255,511,Lefkoşa,Değirmenlik,Değimenlik,35.2164823,33.4635768,ChIJ28mhJVo-3hQRTqPXqS3FK4A,Νέο Χωριό
-Taşocakları,0,0,0,128,91,37,Lefkoşa,Değirmenlik,Değimenlik,,,,
-Yeni̇ceköy,399,201,198,401,208,193,Lefkoşa,Değirmenlik,Değimenlik,35.232456,33.5532073,ChIJv890F-o43hQR6OX22CGhtiM,Πέτρα Διγενή
-Yi̇ği̇tler,327,168,159,310,164,146,Lefkoşa,Değirmenlik,Değimenlik,35.07281,33.63436190000001,ChIJwxQz5A8w3hQRoV5TxQSKKtk,Άρσος
-Maraş,226,125,101,503,317,186,Gazimağusa,Gazimağusa,Gazimağusa,35.105872,33.9554907,ChIJFbxuNW_I3xQRXL-W8cUUcHc,Βαρώσια
-Mutluyaka,407,205,202,404,218,186,Gazimağusa,Gazimağusa,Gazimağusa,35.1626143,33.8299639,ChIJgzObm3213xQRhcNFZ3Y4wgU,Στύλλοι
-Tuzla,2645,1394,1251,1877,1012,865,Gazimağusa,Gazimağusa,Gazimağusa,35.1613671,33.8801952,ChIJTyk1qP213xQRe2YltPw6dIE,Εγκωμη
-Yeni̇ Boğazi̇çi̇,3347,1712,1635,2802,1524,1278,Gazimağusa,Gazimağusa,Yeni,35.1968015,33.8913539,ChIJX5JkU8213xQRzoBtqIJxpqA,Άγιος Σέργιος
-Akova,704,353,351,662,319,343,Gazimağusa,Gazimağusa,Yeni,35.27723720000001,33.7908763,ChIJU-OytVBL3hQRMc_Wi2P7kCI,Γύψου
-Alani̇çi̇,860,436,424,863,461,402,Gazimağusa,Gazimağusa,Yeni,35.2063472,33.7685332,ChIJ3_fervFK3hQRMBvuklWgwE0,Πηγή Περιστερώνα
-Atlılar,46,22,24,24,14,10,Gazimağusa,Gazimağusa,Yeni,35.2128887,33.8327552,ChIJxxEush213xQRzCvoaesLzJA,Αλόδα
-Mormenekşe,1033,512,521,923,472,451,Gazimağusa,Gazimağusa,Yeni,35.1976484,33.8578735,ChIJAyL-5LS13xQR5RLkEv9LvT4,Λίμνια
-Muratağa,51,27,24,34,18,16,Gazimağusa,Gazimağusa,Yeni,35.2092566,33.7824983,ChIJb1bHoMFK3hQRkS8msBE0yO8,Μαράθα
-Sandallar,28,16,12,28,15,13,Gazimağusa,Gazimağusa,Yeni,35.2191608,33.80902620000001,ChIJiVvYky213xQRLpghZSqQR0Q,Σανταλάρης
-Yıldırım,549,288,261,542,280,262,Gazimağusa,Gazimağusa,Yeni,35.2347575,33.8020459,ChIJVZiJvjtL3hQRyAHzEUei13I,Μηλιά
-İnönü,911,456,455,933,461,472,Gazimağusa,Gazimağusa,İnönü,35.1591768,33.7014716,ChIJ23CAl5k23hQRqSVMCHJkHeE,Σίντα
-Dörtyol,1349,691,658,1385,727,658,Gazimağusa,Gazimağusa,İnönü,35.1642359,33.7629465,ChIJWS2nt6k13hQRU0DCwffkzjo,Πραστιό
-Korkuteli̇,611,320,291,510,254,256,Gazimağusa,Gazimağusa,İnönü,35.1470463,33.8020459,ChIJCSuPp0k13hQRiN0Zm3g8dXA,Γαϊδουράς
-Pi̇rhan,56,33,23,65,43,22,Gazimağusa,Gazimağusa,İnönü,35.1814156,33.7238308,ChIJLcSlBsE13hQRP8-F4qiLBBc,Πυργά
-Akdoğan,2471,1284,1187,2581,1326,1255,Gazimağusa,Akdoğan,Akdoğan,35.1072538,33.6958809,ChIJA8dfLUYw3hQR_xGfkMe5K7g,Λύση
-Beyarmudu,1196,618,578,1270,648,622,Gazimağusa,Akdoğan,Beyarmudu,35.0486587,33.6958809,ChIJg1TRneIt3hQR8NVvavMgv4s,Πέργαμος
-Çayönü,660,341,319,652,349,303,Gazimağusa,Akdoğan,Beyarmudu,35.1111537,33.8076302,ChIJg3_HplIz3hQRAUTYNVwTPuI,Καλοψίδα
-Güverci̇nli̇k,911,453,458,887,445,442,Gazimağusa,Akdoğan,Beyarmudu,35.0970715,33.8522923,ChIJDbkfx5TL3xQR_buM4Nn1d4w,Αχερίτου
-İnci̇rli̇,384,185,199,432,211,221,Gazimağusa,Akdoğan,Beyarmudu,35.0795529,33.7685332,ChIJwaHU1-Iy3hQRbQRoPDGgLv4,Μακράσυκα
-Köprülü,192,98,94,215,119,96,Gazimağusa,Akdoğan,Beyarmudu,35.1123437,33.7573596,ChIJ_ZaSPp0z3hQR3M2gtEPsjGQ,Κούκλια
-Türkmenköy,782,388,394,834,412,422,Gazimağusa,Akdoğan,Beyarmudu,35.1033617,33.7238308,ChIJ1TLrHNsz3hQR7JLKiFS6h5w,Κοντέα
-Paşaköy,1883,1029,854,1929,1027,902,Gazimağusa,Akdoğan,Paşaköy,35.1481853,33.6119814,ChIJqbkYhwQ63hQRzd97gRoxA8U,'Ασκεια
-Aslanköy,439,235,204,409,216,193,Gazimağusa,Akdoğan,Paşaköy,35.2008698,33.5839983,ChIJg9Z_PJY53hQRZ3xc1Ig97vQ,Αγγαστίνα
-Kurudere,403,210,193,86,47,39,Gazimağusa,Akdoğan,Paşaköy,35.18804,33.6483471,ChIJw29psAo33hQRtm1283EgZJY,Μουσουλίτα
-Ulukışla,836,455,381,876,467,409,Gazimağusa,Akdoğan,Paşaköy,35.2094973,33.63436190000001,ChIJWXbKMR443hQRsD8nK7y1Cw4,Μαραθόβουνος
-Pi̇le,479,255,224,462,239,223,Gazimağusa,Akdoğan,Paşaköy,35.0134077,33.6922186,ChIJPZiA7ZEu3hQRWvpMYkNkR4o,Πύλα
-Vadi̇li̇,2129,1045,1084,2117,1068,1049,Gazimağusa,Akdoğan,Vadili,35.1408048,33.6511438,ChIJWd0rCtww3hQR2QZNitRroNA,Βατυλή
-Turunçlu,261,132,129,245,124,121,Gazimağusa,Akdoğan,Vadili,35.1685234,33.6483471,ChIJEWTnjUc33hQRg1nJjH_Xyy0,Στρογγυλός
-Geçi̇tkale,1253,635,618,1269,622,647,Gazimağusa,Geçitkale,Geçitkale,35.2687373,33.7405967,ChIJzyALMLpL3hQRN2dyl-_Omes,Λευκόνοικο
-Çamlıca,100,50,50,95,47,48,Gazimağusa,Geçitkale,Geçitkale,35.2796929,33.69029,ChIJs_o8XkZJ3hQR6jIyWSux4y4,Γούφες
-Çınarlı,183,90,93,185,91,94,Gazimağusa,Geçitkale,Geçitkale,35.3329597,33.7685332,ChIJS2khqQpN3hQR0eDHZNaY1vM,Πλατάνι
-Mallıdağ,182,93,89,189,96,93,Gazimağusa,Geçitkale,Geçitkale,35.3346195,33.7014716,ChIJpSAkQYpO3hQR_mw-aZlPcyU,Μελούντα
-Nergi̇sli̇,279,148,131,293,150,143,Gazimağusa,Geçitkale,Geçitkale,35.2114584,33.69029,ChIJY8VhkfxJ3hQR3TtQUo1M-Y8,Γέναγρα
-Sütlüce,291,143,148,349,173,176,Gazimağusa,Geçitkale,Geçitkale,35.2407082,33.69029,ChIJX8-_p59J3hQRTt4P10BII_U,Ψυλλάτος
-Yamaçköy,92,39,53,80,33,47,Gazimağusa,Geçitkale,Geçitkale,35.3221764,33.679107,ChIJI2lXk_FO3hQRe_DeHtHqp8E,Άγιος Νικόλαος
-Serdarlı,1055,511,544,1041,496,545,Gazimağusa,Geçitkale,Serdarlı,35.2555267,33.6119814,ChIJ-1FV-PBH3hQR3ig5I4IhXBw,Κίαδος
-Ergenekon,96,54,42,96,52,44,Gazimağusa,Geçitkale,Serdarlı,35.2980352,33.6007892,ChIJo-bEGxdG3hQRCtb46LGO9zA,Άγιος Χαρίτων
-Gönendere,389,187,202,394,193,201,Gazimağusa,Geçitkale,Serdarlı,35.2707409,33.6567371,ChIJUbtao_9I3hQRGQZYKPBGAHQ,Κνώδαρα
-Görneç,507,234,273,515,243,272,Gazimağusa,Geçitkale,Serdarlı,35.275795,33.5784007,ChIJyYc73gdH3hQRfmMT5CinGZM,Κορνόκηπος
-Pınarlı,167,86,81,202,101,101,Gazimağusa,Geçitkale,Serdarlı,35.2317425,33.6567371,ChIJOy2AVzlI3hQRAjxOiqnAn5s,Βιτσάδα
-Ti̇rmen,197,106,91,184,106,78,Gazimağusa,Geçitkale,Serdarlı,35.3034905,33.6455502,ChIJ5-lxn7NI3hQRAPfDuw7QuFI,Τρυπημένη
-Küçükerenköy,339,168,171,257,187,70,Gazimağusa,Geçitkale,Tatlısu,35.3630139,33.6682723,ChIJASOqhDZO3hQRLBc-qDsiiEI,Küçükerenköy
-Aşağı Karaman,675,346,329,565,312,253,Girne,Girne,Girne,,,,
-Beylerbeyi̇,918,476,442,934,503,431,Girne,Girne,Girne,35.2968734,33.3542258,ChIJFRSYOaEU3hQRgym5F_XZnto,Μπέλαπαϊς
-Doğanköy,868,429,439,457,245,212,Girne,Girne,Girne,35.3241561,33.3331825,ChIJ2_cKfkwT3hQRPMWDanLRPCQ,Θέρμια
-Edremi̇t,1268,794,474,651,362,289,Girne,Girne,Girne,35.3346453,33.2559847,ChIJZ09DMp4S3hQRd0ZOf_1ilTc,Τριμίθι
-Karakum,722,390,332,299,184,115,Girne,Girne,Girne,35.3337487,33.3416004,ChIJjWF1a69s3hQRq9ClskzK_00,Καράκουμι
-Karaoğlanoğlu,3745,1963,1782,2610,1551,1059,Girne,Girne,Girne,35.3391989,33.2728331,ChIJFTeHhbES3hQRDSlhDo94ZNo,'Αγιος Γεώργιος
-Ozanköy,3070,1615,1455,2584,1441,1143,Girne,Girne,Girne,35.3261677,33.3542258,ChIJWQgBAqsU3hQRDGnebBrZxSQ,Καζάφανι
-Zeyti̇nli̇k Köy,622,296,326,513,265,248,Girne,Girne,Girne,35.3290981,33.2896786,ChIJwVvTLdAS3hQREGDVCh7-Py4,Τέμπλος
-Ilgaz,72,36,36,75,48,27,Girne,Girne,Alsancak,35.3140157,33.2278976,ChIJwfPO3qkN3hQRRA7HzvR1NmY,Φτεριχα
-İncesu,180,103,77,150,86,64,Girne,Girne,Alsancak,35.3306518,33.2096366,ChIJ2-_tevsM3hQRxLzz2YPxzAI,Μότιδες
-Yeşi̇ltepe,750,454,296,290,147,143,Girne,Girne,Alsancak,35.3442807,33.2208745,ChIJQ37m3RwN3hQRXX8CJYlWe_0,Ελια
-Arapköy,542,302,240,380,228,152,Girne,Girne,Çatalköy,35.2982601,33.4439588,ChIJ99aDMKZq3hQRBu8Ksl2TwCw,Κλεπίνη
-Çatalköy,5110,2756,2354,3803,2147,1656,Girne,Girne,Çatalköy,35.3153575,33.4047109,ChIJA34q5CVr3hQRg5Hfzht5-RY,'Αγιος Επίκτητος
-Ağırdağ,745,376,369,454,250,204,Girne,Girne,Dikmen,35.2871985,33.2672173,ChIJ67JSUnAS3hQRLQG8XhnW1cY,Αγίρδα
-Akçi̇çek,79,45,34,87,45,42,Girne,Girne,Dikmen,35.2938313,33.1745097,ChIJq-MB6AEM3hQR-l97Vmwy_A4,Σύσκληπος
-Aşağı Taşkent,290,148,142,264,134,130,Girne,Girne,Dikmen,35.2738554,33.365447,ChIJ-9GNM_QU3hQRWfij39XCSdc,Σιχαρί
-Boğazköy,1943,1116,827,1297,782,515,Girne,Girne,Dikmen,35.291758,33.2840638,ChIJX0_u6GkS3hQR-1XLGVP2Udo,Μπογάζι
-Dağyolu,525,258,267,525,267,258,Girne,Girne,Dikmen,35.250621,33.2194699,ChIJyyZGv2cO3hQRMTIGUf-gq2E,Φώττα
-Göçeri̇,228,119,109,155,83,72,Girne,Girne,Dikmen,35.2834291,33.2082318,ChIJh1pYrtUN3hQRacUjOhilL48,Πιλέρι
-Güngör,124,68,56,140,100,40,Girne,Girne,Dikmen,35.2661915,33.4215334,ChIJ03YxSXQV3hQR4xFQB-gI_Ow,Κουτσοβέντης
-Kömürcü,67,27,40,34,16,18,Girne,Girne,Dikmen,35.2857855,33.2559847,ChIJTQMTPfEN3hQRJTxZ743D5oQ,Κιόμουρτζιου
-Pınarbaşı,483,236,247,484,237,247,Girne,Girne,Dikmen,35.2730184,33.2419422,ChIJSQMEM-YN3hQRS4wByo5E5SU,Κρηνί
-Şi̇ri̇nevler,368,201,167,427,228,199,Girne,Girne,Dikmen,35.2644875,33.1745097,ChIJAy0Ii7UO3hQRJ_TtF_VdPxA,'Αγιος Ερμόλαος
-Yukarı Taşkent,299,145,154,289,145,144,Girne,Girne,Dikmen,35.2569465,33.3962986,ChIJz9U6E_8U3hQRanxew9hlx0U,Βουνό
-Esentepe,1754,920,834,1575,949,626,Girne,Girne,Esentepe,35.3403306,33.5817749,,Άγιος Αμβρόσιος
-Bahçeli̇,388,193,195,393,204,189,Girne,Girne,Esentepe,35.3428587,33.6287673,ChIJ8Qe9QW9P3hQR9NaEanZcrvI,Καλογραία
-Beşparmak,30,16,14,42,23,19,Girne,Girne,Esentepe,35.2975375,33.4775871,ChIJ5YwrdUNA3hQR5J9wzYWE44s,Τράπεζα
-Karaağaç,242,116,126,264,133,131,Girne,Girne,Esentepe,35.3124353,33.5392081,ChIJ7VYHdJRG3hQRvc06gOS-wAA,Χάρκεια
-Karaman,55,29,26,85,43,42,Girne,Girne,Esentepe,35.3149411,33.2644093,ChIJc0Z0on0N3hQRzLJNY-kkK-4,Καρμι
-Karşıyaka,2091,1057,1034,2110,1185,925,Girne,Girne,Lapta,35.3439517,33.1070309,ChIJI23ralMK3hQRmSYUL86bEWI,Βασιλεια
-Akdeni̇z,522,276,246,597,317,280,Girne,Çamlıbel,Lapta,35.2907038,32.9775675,ChIJwfPNebbk3RQRQ4wY82BrkXg,Αγια Ειρηνη
-Alemdağ,86,45,41,87,45,42,Girne,Çamlıbel,Lapta,35.2974502,33.1548332,ChIJr2BEl-EL3hQRuxRFrugXaDI,Αγριδάκι
-Çamlıbel,872,466,406,1037,561,476,Girne,Çamlıbel,Lapta,35.3152032,33.0732741,ChIJKUqtUgji3RQRspS_34LLa1s,Μύρτου
-Geçi̇tköy,220,126,94,213,139,74,Girne,Çamlıbel,Lapta,35.3446997,33.0648331,ChIJ4xP-0fnh3RQR8AxYXLsvyzE,Πάναγρα
-Hi̇sarköy,194,89,105,194,95,99,Girne,Çamlıbel,Lapta,35.3032467,33.1042183,ChIJAbvlJ5QJ3hQRTtLtonn2DKU,Καμπυλή
-Karpaşa,256,150,106,89,44,45,Girne,Çamlıbel,Lapta,35.2858449,33.0732741,ChIJ4dnRB3vi3RQR-lNp5vJPO8A,Καρπάσια
-Kayalar,234,136,98,181,97,84,Girne,Çamlıbel,Lapta,35.35837739999999,33.0282472,ChIJ4UZrwHXh3RQR2PaE3-Wo7uw,Όργα
-Kılıçarslan,194,102,92,218,128,90,Girne,Çamlıbel,Lapta,35.2619306,33.1351527,ChIJD2LWg_gI3hQRPkQCNEuxAgw,Κοντεμένος
-Koruçam,309,147,162,195,91,104,Girne,Çamlıbel,Lapta,35.3425478,33.000095,ChIJx4wIQefj3RQR954Nruf_HOE,Κορμακίτης
-Kozan,375,175,200,464,230,234,Girne,Çamlıbel,Lapta,35.3076877,33.12952900000001,ChIJZSJJD2MJ3hQRrXqQjWK3sFg,Λάρνακας της Λαπήθου
-Özhan,73,38,35,82,45,37,Girne,Çamlıbel,Lapta,35.2628117,33.0845277,ChIJf0DUGkwI3hQRtzbRpmnmEnE,Ασωματος
-Sadrazamköy,170,80,90,166,85,81,Girne,Çamlıbel,Lapta,35.382536,32.9494009,ChIJ17BMu43m3RQRUulnzLeP1Gk,Λιβερα
-Tepebaşı,774,417,357,798,427,371,Girne,Çamlıbel,Lapta,35.2964917,33.0226174,ChIJh89DvULi3RQRdBBYCLBD6JM,Διόριος
-Akçay,1008,511,497,1033,522,511,Güzelyurt,Güzelyurt,Güzelyurt,35.188463,33.0395058,ChIJgTNn8n3-3RQRjdbMqU27XTk,Ατσάγι
-Aşağı Bostancı,1822,872,950,2024,1010,1014,Güzelyurt,Güzelyurt,Güzelyurt,35.156664,32.9831998,ChIJjbYq_sD-3RQRRBwt-tCPH7k,Κάτω Ζώδεια
-Aydınköy,1164,563,601,1154,577,577,Güzelyurt,Güzelyurt,Güzelyurt,35.1704228,32.9381321,ChIJ8XZ5q1T43RQRzV60qnMopDY,Πραστειό
-Gayretköy,367,179,188,367,188,179,Güzelyurt,Güzelyurt,Güzelyurt,35.1693415,33.1098434,ChIJK62DccsA3hQRAGla_VKsatc,Αυλώνα
-Güneşköy,505,252,253,546,277,269,Güzelyurt,Güzelyurt,Güzelyurt,35.1783861,32.9522179,ChIJwRmoGRv53RQRTTcfmvPxpBo,Νικήτας
-Kalkanlı,2305,1423,882,1338,811,527,Güzelyurt,Güzelyurt,Güzelyurt,35.2377309,33.0226174,ChIJQyuQ1iP93RQRg1qfNPTRskI,Καπούτι
-Mevlevi̇,386,207,179,370,217,153,Güzelyurt,Güzelyurt,Güzelyurt,35.2109599,33.0620193,ChIJ6WxWC5b93RQR_5--axMMlfw,Κυρά
-Serhatköy,573,280,293,595,300,295,Güzelyurt,Güzelyurt,Güzelyurt,35.1905207,33.1126559,ChIJS4_MUl0H3hQRcIMqx8tFKPE,Φυλλιά
-Şahi̇nler,189,89,100,179,82,97,Güzelyurt,Güzelyurt,Güzelyurt,35.1797005,33.0760876,ChIJcbZPcfb93RQRkUJAV1mCgxU,Μάσαρη
-Yayla,850,424,426,775,390,385,Güzelyurt,Güzelyurt,Güzelyurt,35.2194604,32.9381321,ChIJMfmr19L73RQRh0aCJUR2yxg,Συριανοχώρι
-Yukarı Bostancı,1495,788,707,1419,746,673,Güzelyurt,Güzelyurt,Güzelyurt,35.1386371,32.9860159,ChIJMyeRpuj-3RQRDNZiowoWvBo,Πάνω Ζώδεια
-Yuvacık,214,113,101,214,112,102,Güzelyurt,Güzelyurt,Güzelyurt,35.2116477,33.0198024,ChIJby8zJkT83RQRld-NRrT-uYE,Χρυσηλιου
-Zümrütköy,817,389,428,921,457,464,Güzelyurt,Güzelyurt,Güzelyurt,35.1750763,33.0592054,ChIJCb4haHH-3RQRGM3vjRR4u1E,Κατωκοπιά
-Lefke,3009,1600,1409,2908,1571,1337,Güzelyurt,Lefke,Lefke,35.0965045,32.8422959,ChIJJcwU6qVZ5xQRkcCTmSDRNms,Λεύκα
-Bademli̇köy,93,47,46,106,53,53,Güzelyurt,Lefke,Lefke,35.1565604,32.7576589,ChIJgSNU9gdf5xQRiKQhw6eXsLo,Λουτρός
-Bağlıköy,200,99,101,222,100,122,Güzelyurt,Lefke,Lefke,35.1198031,32.8140914,ChIJufDGSspe5xQRti6m1cYJ7cY,Αμπελικού
-Cengi̇zköy,217,106,111,180,97,83,Güzelyurt,Lefke,Lefke,35.1355653,32.8592148,ChIJQezCzERY5xQRDAbxW8MZjdE,Περιστερωνάρι
-Çamlıköy,170,79,91,255,124,131,Güzelyurt,Lefke,Lefke,35.1140935,32.8733117,ChIJAzmtTDVY5xQRUIkSXcYjHX8,Καλό Χωριό
-Deni̇zli̇,460,238,222,573,313,260,Güzelyurt,Lefke,Lefke,35.1471499,32.8498745,ChIJW2dQ9YxY5xQR7UjsWMVoXM0,Ξερός
-Doğancı,1299,662,637,1291,654,637,Güzelyurt,Lefke,Lefke,35.1380434,32.9155906,ChIJe0vMruVX5xQRdlKV_XZjxnU,Ελιά
-Gazi̇veren,1042,518,524,1002,508,494,Güzelyurt,Lefke,Lefke,35.1674849,32.9155906,ChIJEXCaWzf43RQR7zTW95TGTfo,Καζιβερά
-Taşpınar,181,92,89,212,115,97,Güzelyurt,Lefke,Lefke,35.1179217,32.9494009,ChIJSytdCzRW5xQRJUyZzLdv1n4,Αγκολέμ
-Yedi̇dalga,669,329,340,767,397,370,Güzelyurt,Lefke,Lefke,35.144474,32.8056285,ChIJcb1P3tJY5xQRmfZXUDXRy0s,Ποταμός
-Yeşi̇lırmak,458,227,231,410,210,200,Güzelyurt,Lefke,Lefke,35.1667086,32.732254,ChIJ7fWEp8df5xQR6HUUmDmX6gk,Λιμνίτης
-Yeşi̇lyurt,1218,637,581,1278,701,577,Güzelyurt,Lefke,Lefke,35.1483418,32.8817689,ChIJpSgobwpY5xQRwtSdyBiNSQU,Πεντάγεια
-Ağıllar,188,91,97,176,87,89,İskele,İskele,İskele,35.3480408,33.8132141,ChIJUSNwLkyt3xQRSomsft-WRec,Μάντρες
-Altınova,229,115,114,250,115,135,İskele,İskele,İskele,35.3153248,33.824381,ChIJY7u8o6Oy3xQRg_sVkgyCKqo,'Αγιος Ιάκωβος
-Ardahan,330,170,160,350,178,172,İskele,İskele,İskele,35.3555716,33.8969328,ChIJK0xTfYKu3xQRkpKVIOf3KIA,Άρδανα
-Aygün,414,209,205,380,187,193,İskele,İskele,İskele,35.2587458,33.8801952,ChIJz0sKlpSz3xQRfqCrh0TGdtE,Άγιος Γεώργιος
-Boğaz,157,86,71,295,186,109,İskele,İskele,İskele,35.316774,33.9540969,ChIJUasau5ev3xQRzJkaQJUAR-A,Μπογάζι
-Boğazi̇çi̇,514,252,262,475,234,241,İskele,İskele,İskele,35.272867,33.8355465,ChIJZSUjjWyz3xQRNs6Qsmp39nA,Άγιος Σέργιος
-Boğaztepe,312,151,161,444,280,164,İskele,İskele,İskele,35.3169997,33.9457337,ChIJpZeEvrmv3xQRkQn98z8idbo,Μόναργα
-Ergazi̇,202,94,108,207,92,115,İskele,İskele,İskele,35.3771934,33.9359756,ChIJQ1UAPi-v3xQR1V4TY1l3_68,Όβγορος
-Kaleci̇k,435,225,210,308,171,137,İskele,İskele,İskele,35.3338704,33.9805756,ChIJ8Ue0K8Ol3xQRBAocAhcv6Ys,Γαστριά
-Kurtuluş,106,55,51,86,44,42,İskele,İskele,İskele,35.3522187,33.9610657,ChIJh8Yz8E-v3xQRvTvUBpX0qFs,Αυγολίδα
-Kuzucuk,344,183,161,283,149,134,İskele,İskele,İskele,35.2366033,33.8578735,ChIJ_ZP9CnS03xQRzYR6mME076Y,Αρναδί
-Ötüken,550,267,283,386,192,194,İskele,İskele,İskele,35.2359621,33.882985,ChIJ57M9VAi03xQRtd2YBqUErx4,Σπαθαρικό
-Sınırüstü,186,99,87,154,85,69,İskele,İskele,İskele,35.2852727,33.8578735,ChIJJwpkVKWz3xQRkigOcbpOlh8,Σύγκραση
-Topçuköy,310,150,160,336,169,167,İskele,İskele,İskele,35.3339151,33.8578735,ChIJffxtwMSt3xQRk3m4vey4iDQ,Άγιος Ανδρόνικος
-Turnalar,142,75,67,134,72,62,İskele,İskele,İskele,35.3515836,33.9248222,ChIJSzXsUtyu3xQR1VXj5GR6kdU,Γεράνι
-Yarköy,429,208,221,348,177,171,İskele,İskele,İskele,35.3286036,33.9359756,ChIJrdCyc1Ou3xQRxHhmQxG1Cfk,Άγιος Ηλίας
-Büyükkonuk,812,435,377,775,399,376,İskele,Mehmetçik,Büyükkonuk,35.4243568,33.986149,ChIJNXgAoeqn3xQRQyZwR32q9Bc,Κώμη Κεπήρ
-Kaplıca,389,197,192,408,205,203,İskele,Mehmetçik,Büyükkonuk,35.4134201,33.9136675,ChIJfR7-IQip3xQRY1J_oXkCTf4,Δαυλός
-Ki̇li̇tkaya,172,82,90,177,87,90,İskele,Mehmetçik,Büyükkonuk,35.3895332,33.9582783,ChIJKaLbloGo3xQRiI0jnDWioi0,Κρίδεια
-Mersi̇nli̇k,158,80,78,169,87,82,İskele,Mehmetçik,Büyükkonuk,35.3922503,33.8578735,ChIJj1VTB3as3xQRMg9DvvjtqCs,Φλαμούδι
-Sazlıköy,44,23,21,96,46,50,İskele,Mehmetçik,Büyükkonuk,35.3938178,34.036295,ChIJTeADeQyn3xQRXkzFnnGoJEk,Λιβάδια
-Tuzluca,389,216,173,334,165,169,İskele,Mehmetçik,Büyükkonuk,35.3594694,33.9917222,ChIJEW9CzxKm3xQRo5ptbTi1y_0,Πατρίκι
-Yedi̇konuk,860,436,424,859,450,409,İskele,Mehmetçik,Büyükkonuk,35.4489622,34.0307246,ChIJD8EXgbAJ3xQRV86efYs1Lyg,Επτακώμη
-Zeybekköy,36,18,18,31,16,15,İskele,Mehmetçik,Büyükkonuk,35.386124,34.0223683,ChIJWxKL7aun3xQRGTaHKC59KNg,Άγιος Ευστάθιος
-Mehmetçi̇k,1249,633,616,1196,621,575,İskele,Mehmetçik,Mehmetçik,35.415337,34.0752783,ChIJz4xBRhkK3xQRmThc7yJ3-xA,Γαλάτεια
-Bafra,1019,706,313,514,344,170,İskele,Mehmetçik,Mehmetçik,35.3734501,34.0697103,ChIJo133OM6g3xQR4lp7rm3fOrY,Βοκολίδα
-Balalan,89,43,46,97,47,50,İskele,Mehmetçik,Mehmetçik,35.4827208,34.0919803,ChIJX5IB3X0M3xQRnOGYt_iti0I,Πλατανισσός
-Çayırova,406,210,196,430,221,209,İskele,Mehmetçik,Mehmetçik,35.3519049,34.0307246,ChIJISBzmemm3xQRbHjlmIap3DY,Άγιος Θεόδωρος
-Kumyalı,686,342,344,666,344,322,İskele,Mehmetçik,Mehmetçik,35.4235636,34.1253751,ChIJYXp-AiAL3xQRtoMhux70cfw,Κώμα Γιαλού
-Pamuklu,280,141,139,256,129,127,İskele,Mehmetçik,Mehmetçik,35.3926183,34.0780622,ChIJc-oXFqWg3xQRFdJRKq-xF_U,Ταύρος
-Kantara,21,19,2,3,2,1,İskele,Mehmetçik,Mehmetçik,35.3871012,33.8990248,ChIJjZyEuU2p3xQROD6uAAxEHCg,Καντάρα
-Kaleburnu,333,158,175,351,157,194,İskele,Yeni,Dipkarpaz,35.521343,34.3032719,ChIJO9rzvaZv3xQR3bJFs5MUGq8,Γαληνόπορνη
-Yeni̇ Erenköy,1774,874,900,1640,816,824,İskele,Yeni,Yeni,35.5347254,34.1865669,ChIJx9sAZHNt3xQR7rlOtL4guiY,Γιαλούσα
-Adaçay,100,51,49,88,44,44,İskele,Yeni,Yeni,35.5066918,34.2060283,ChIJLdStg31y3xQRDkjvMJyd_oA,Μελάναγρα
-Avtepe,119,56,63,151,67,84,İskele,Yeni,Yeni,35.4847601,34.236602,ChIJL1aTzkZy3xQR9fXfZJVqp48,Αγιος Συμεών
-Boltaşlı,228,118,110,266,143,123,İskele,Yeni,Yeni,35.4674542,34.1698823,ChIJq2tM1Dtz3xQRio98UMYlW4o,Λυθράγκωμη
-Deri̇nce,488,250,238,524,264,260,İskele,Yeni,Yeni,35.4700019,34.1921277,ChIJx0LR8_By3xQRQM3NU_m4cio,Βαθύλακας
-Esenköy,58,26,32,58,28,30,İskele,Yeni,Yeni,35.4893751,34.13928600000001,ChIJ61ThRtEM3xQRkPeCY9yZEm8,Κοιλάνεμος
-Geli̇nci̇k,496,245,251,458,233,225,İskele,Yeni,Yeni,35.4516433,34.1587576,ChIJadCyZLMM3xQRTTqTp9vMMA8,Βασίλι
-Kuruova,132,58,74,145,64,81,İskele,Yeni,Yeni,35.5030642,34.2699432,ChIJneqaDzpu3xQRNuMuM_dsljA,Κοροβεία
-Si̇pahi̇,614,295,319,659,322,337,İskele,Yeni,Yeni,35.5331526,34.236602,ChIJRe5YJrdt3xQRNMiDadjI280,Αγία Τριάς
-Taşlıca,80,40,40,99,53,46,İskele,Yeni,Yeni,35.4643867,34.2171472,ChIJKVz5NrZz3xQRC0ySgw6qt50,Νέτα
-Yeşi̇lköy,799,411,388,777,386,391,İskele,Yeni,Yeni,35.5031406,34.1643201,ChIJ_bg3-89y3xQRWY8WMwdxxjA,Άγιος Ανδρόνικος
-Zi̇yamet,739,387,352,715,365,350,İskele,Yeni,Yeni,35.4623398,34.1253751,ChIJv1L4zExz3xQRlKeaoS9biFo,Λεωνάρισο
+town,population,male_population,female_population,population_2006,male_population_2006,female_population_2006,district,subdistrict,municipality,lat,lon,gm_id
+Di̇pkarpaz,2016,1007,1009,1935,968,967,İskele,Yeni,Dipkarpaz,35.6176824,34.4087307,ChIJFdx3t2tn3xQRInHdNFtCOCg
+Gemi̇konağı,2075,1318,757,1498,854,644,Güzelyurt,Lefke,Lefke,35.142762,32.8112705,ChIJw1gDZOdY5xQRzgnyO-yf0b4
+Güzelyurt,7251,3619,3632,7627,3885,3742,Güzelyurt,Güzelyurt,Güzelyurt,35.2123165,32.9775675,ChIJfz7P_1H53RQRmbROZQ0T7bg
+Lapta,5748,2959,2789,5658,3151,2507,Girne,Girne,Lapta,35.3364082,33.1632665,ChIJSfTuTocM3hQRNbYv5mkqRUM
+Di̇kmen,3969,2131,1838,2605,1464,1141,Girne,Girne,Dikmen,35.266918,33.3277003,ChIJf0s8-cAT3hQRY6tDs7XxiJg
+Alsancak,5595,2948,2647,4638,2577,2061,Girne,Girne,Alsancak,35.3420796,33.2082318,ChIJfZOGfvIM3hQRkYt4GUYmTbo
+Gi̇rne,21319,11403,9916,18744,10594,8150,Girne,Girne,Girne,35.299194,33.2363246,ChIJKS2WH74N3hQRjxHlC6st0tM
+Tatlısu,1120,579,541,903,461,442,Gazimağusa,Geçitkale,Tatlısu,35.3785077,33.7629465,ChIJR2udT_RS3hQRsTyTpE9AY8M
+Gazi̇mağusa,37642,20301,17341,33001,17897,15104,Gazimağusa,Gazimağusa,Gazimağusa,35.1149116,33.919245,ChIJPRZM2kLI3xQRh87TpcUD2yk
+Deği̇rmenli̇k,3284,1778,1506,3128,1685,1443,Lefkoşa,Değirmenlik,Değimenlik,35.2553647,33.4719832,ChIJlaSb_gc_3hQR-DikEPtnxRA
+Gönyeli̇,17045,8966,8079,12186,6519,5667,Lefkoşa,Lefkoşa,Gönyeli,35.2133871,33.2924859,ChIJ-QldKQAR3hQR8jvZU1MIRRg
+Lefkoşa,51836,27102,24734,49868,26848,23020,Lefkoşa,Lefkoşa,Lefkoşa,35.1855659,33.38227639999999,ChIJVU1JymcX3hQRpcARA5ykXls
+İskele,3058,1537,1521,2610,1405,1205,İskele,İskele,İskele,35.297229,33.8969328,ChIJtbgLUJGx3xQRsvnB1Roi2nw
+Hami̇tköy,5338,2773,2565,2898,1567,1331,Lefkoşa,Lefkoşa,Lefkoşa,35.2215191,33.3766669,ChIJC26FTOsW3hQRKlGoqkbKgVU
+Haspolat,4204,2385,1819,3380,2168,1212,Lefkoşa,Lefkoşa,Lefkoşa,35.2107245,33.4271403,ChIJ0WZmiRQW3hQRWJCZ8IphTlo
+Akıncılar,390,199,191,462,231,231,Lefkoşa,Lefkoşa,Akıncılar,35.0175999,33.466379,ChIJ2yNfV0sg3hQR4PG_cIx5amI
+Alayköy,2777,1445,1332,2539,1348,1191,Lefkoşa,Lefkoşa,Alayköy,35.2010828,33.2531764,ChIJWxGOiUsF3hQR8FDvFXTwInM
+Türkeli̇,154,96,58,154,98,56,Lefkoşa,Lefkoşa,Alayköy,35.2120962,33.1857517,ChIJN1DKMl8P3hQRyX7AxwWQ9Gc
+Yılmazköy,953,533,420,785,435,350,Lefkoşa,Lefkoşa,Alayköy,35.2288098,33.1632665,ChIJiVnxGq0I3hQR6mQTC1bmECs
+Kanlıköy,232,129,103,207,123,84,Lefkoşa,Lefkoşa,Gönyeli,35.2171783,33.2644093,ChIJcXiUhikQ3hQRf7Poo-iccJ8
+Balıkesi̇r,860,429,431,1074,625,449,Lefkoşa,Değirmenlik,Değimenlik,35.17687950000001,33.4887939,ChIJfW_bJoU-3hQRpOWN0-hwhMg
+Beyköy,105,42,63,88,35,53,Lefkoşa,Değirmenlik,Değimenlik,35.23991,33.509803,ChIJM-HbHR4_3hQRAY3JKrBLboU
+Ci̇hangi̇r,961,475,486,929,495,434,Lefkoşa,Değirmenlik,Değimenlik,35.2283093,33.5196057,ChIJ59NDwcQ-3hQR8t_KdN9VwyM
+Çukurova,208,100,108,187,94,93,Lefkoşa,Değirmenlik,Değimenlik,35.217816,33.5532073,ChIJt0_-qOY43hQR8zS--ctKZNw
+Demi̇rhan,530,267,263,454,220,234,Lefkoşa,Değirmenlik,Değimenlik,35.20636200000001,33.48038890000001,ChIJ07rLVGc-3hQRLlt4hMisB50
+Di̇lekkaya,619,305,314,590,290,300,Lefkoşa,Değirmenlik,Değimenlik,35.1133417,33.5672045,ChIJ5yl9NyQ73hQRbXSiiUU8kII
+Düzova,661,332,329,624,319,305,Lefkoşa,Değirmenlik,Değimenlik,35.2019719,33.5336078,ChIJd5SzWcw-3hQRZNO7S2SFftY
+Erdemli̇,169,86,83,207,120,87,Lefkoşa,Değirmenlik,Değimenlik,35.0798093,33.6119814,ChIJU_02NFMl3hQRREaPEMujC_A
+Gazi̇köy,713,357,356,679,342,337,Lefkoşa,Değirmenlik,Değimenlik,35.1489203,33.5784007,ChIJ2-w-uzA63hQR74hNpr9M35Q
+Gökhan,202,117,85,229,128,101,Lefkoşa,Değirmenlik,Değimenlik,35.2073956,33.5084026,ChIJ-aMg1uQ-3hQR_evJEFjldp4
+Kalavaç,255,122,133,248,119,129,Lefkoşa,Değirmenlik,Değimenlik,35.2570367,33.544808,ChIJw9LwmqE43hQRVCDyyfoiWvY
+Kırıkkale,390,184,206,398,189,209,Lefkoşa,Değirmenlik,Değimenlik,35.0770318,33.5895956,ChIJQ7t3sDwl3hQRa0Wi8RX92a8
+Kırklar,384,246,138,335,200,135,Lefkoşa,Değirmenlik,Değimenlik,35.13081,33.5112035,ChIJa0xaksk83hQR8sIIifpLULE
+Meri̇ç,494,246,248,522,271,251,Lefkoşa,Değirmenlik,Değimenlik,35.1691793,33.544808,ChIJr3Wloeg73hQRYgQ9kB1WbOs
+Mi̇nareli̇köy,1334,755,579,1766,1255,511,Lefkoşa,Değirmenlik,Değimenlik,35.2164823,33.4635768,ChIJ28mhJVo-3hQRTqPXqS3FK4A
+Taşocakları,0,0,0,128,91,37,Lefkoşa,Değirmenlik,Değimenlik,,,
+Yeni̇ceköy,399,201,198,401,208,193,Lefkoşa,Değirmenlik,Değimenlik,35.232456,33.5532073,ChIJv890F-o43hQR6OX22CGhtiM
+Yi̇ği̇tler,327,168,159,310,164,146,Lefkoşa,Değirmenlik,Değimenlik,35.07281,33.63436190000001,ChIJwxQz5A8w3hQRoV5TxQSKKtk
+Maraş,226,125,101,503,317,186,Gazimağusa,Gazimağusa,Gazimağusa,35.105872,33.9554907,ChIJFbxuNW_I3xQRXL-W8cUUcHc
+Mutluyaka,407,205,202,404,218,186,Gazimağusa,Gazimağusa,Gazimağusa,35.1626143,33.8299639,ChIJgzObm3213xQRhcNFZ3Y4wgU
+Tuzla,2645,1394,1251,1877,1012,865,Gazimağusa,Gazimağusa,Gazimağusa,35.1613671,33.8801952,ChIJTyk1qP213xQRe2YltPw6dIE
+Yeni̇ Boğazi̇çi̇,3347,1712,1635,2802,1524,1278,Gazimağusa,Gazimağusa,Yeni,35.1968015,33.8913539,ChIJX5JkU8213xQRzoBtqIJxpqA
+Akova,704,353,351,662,319,343,Gazimağusa,Gazimağusa,Yeni,35.27723720000001,33.7908763,ChIJU-OytVBL3hQRMc_Wi2P7kCI
+Alani̇çi̇,860,436,424,863,461,402,Gazimağusa,Gazimağusa,Yeni,35.2063472,33.7685332,ChIJ3_fervFK3hQRMBvuklWgwE0
+Atlılar,46,22,24,24,14,10,Gazimağusa,Gazimağusa,Yeni,35.2128887,33.8327552,ChIJxxEush213xQRzCvoaesLzJA
+Mormenekşe,1033,512,521,923,472,451,Gazimağusa,Gazimağusa,Yeni,35.1976484,33.8578735,ChIJAyL-5LS13xQR5RLkEv9LvT4
+Muratağa,51,27,24,34,18,16,Gazimağusa,Gazimağusa,Yeni,35.2092566,33.7824983,ChIJb1bHoMFK3hQRkS8msBE0yO8
+Sandallar,28,16,12,28,15,13,Gazimağusa,Gazimağusa,Yeni,35.2191608,33.80902620000001,ChIJiVvYky213xQRLpghZSqQR0Q
+Yıldırım,549,288,261,542,280,262,Gazimağusa,Gazimağusa,Yeni,35.2347575,33.8020459,ChIJVZiJvjtL3hQRyAHzEUei13I
+İnönü,911,456,455,933,461,472,Gazimağusa,Gazimağusa,İnönü,35.1591768,33.7014716,ChIJ23CAl5k23hQRqSVMCHJkHeE
+Dörtyol,1349,691,658,1385,727,658,Gazimağusa,Gazimağusa,İnönü,35.1642359,33.7629465,ChIJWS2nt6k13hQRU0DCwffkzjo
+Korkuteli̇,611,320,291,510,254,256,Gazimağusa,Gazimağusa,İnönü,35.1470463,33.8020459,ChIJCSuPp0k13hQRiN0Zm3g8dXA
+Pi̇rhan,56,33,23,65,43,22,Gazimağusa,Gazimağusa,İnönü,35.1814156,33.7238308,ChIJLcSlBsE13hQRP8-F4qiLBBc
+Akdoğan,2471,1284,1187,2581,1326,1255,Gazimağusa,Akdoğan,Akdoğan,35.1072538,33.6958809,ChIJA8dfLUYw3hQR_xGfkMe5K7g
+Beyarmudu,1196,618,578,1270,648,622,Gazimağusa,Akdoğan,Beyarmudu,35.0486587,33.6958809,ChIJg1TRneIt3hQR8NVvavMgv4s
+Çayönü,660,341,319,652,349,303,Gazimağusa,Akdoğan,Beyarmudu,35.0963631,33.7936146,
+Güverci̇nli̇k,911,453,458,887,445,442,Gazimağusa,Akdoğan,Beyarmudu,35.0970715,33.8522923,ChIJDbkfx5TL3xQR_buM4Nn1d4w
+İnci̇rli̇,384,185,199,432,211,221,Gazimağusa,Akdoğan,Beyarmudu,35.0795529,33.7685332,ChIJwaHU1-Iy3hQRbQRoPDGgLv4
+Köprülü,192,98,94,215,119,96,Gazimağusa,Akdoğan,Beyarmudu,35.1123437,33.7573596,ChIJ_ZaSPp0z3hQR3M2gtEPsjGQ
+Türkmenköy,782,388,394,834,412,422,Gazimağusa,Akdoğan,Beyarmudu,35.1033617,33.7238308,ChIJ1TLrHNsz3hQR7JLKiFS6h5w
+Paşaköy,1883,1029,854,1929,1027,902,Gazimağusa,Akdoğan,Paşaköy,35.1481853,33.6119814,ChIJqbkYhwQ63hQRzd97gRoxA8U
+Aslanköy,439,235,204,409,216,193,Gazimağusa,Akdoğan,Paşaköy,35.2008698,33.5839983,ChIJg9Z_PJY53hQRZ3xc1Ig97vQ
+Kurudere,403,210,193,86,47,39,Gazimağusa,Akdoğan,Paşaköy,35.18804,33.6483471,ChIJw29psAo33hQRtm1283EgZJY
+Ulukışla,836,455,381,876,467,409,Gazimağusa,Akdoğan,Paşaköy,35.2094973,33.63436190000001,ChIJWXbKMR443hQRsD8nK7y1Cw4
+Pi̇le,479,255,224,462,239,223,Gazimağusa,Akdoğan,Paşaköy,35.0134077,33.6922186,ChIJPZiA7ZEu3hQRWvpMYkNkR4o
+Vadi̇li̇,2129,1045,1084,2117,1068,1049,Gazimağusa,Akdoğan,Vadili,35.1408048,33.6511438,ChIJWd0rCtww3hQR2QZNitRroNA
+Turunçlu,261,132,129,245,124,121,Gazimağusa,Akdoğan,Vadili,35.1685234,33.6483471,ChIJEWTnjUc33hQRg1nJjH_Xyy0
+Geçi̇tkale,1253,635,618,1269,622,647,Gazimağusa,Geçitkale,Geçitkale,35.2687373,33.7405967,ChIJzyALMLpL3hQRN2dyl-_Omes
+Çamlıca,100,50,50,95,47,48,Gazimağusa,Geçitkale,Geçitkale,35.2796929,33.69029,ChIJs_o8XkZJ3hQR6jIyWSux4y4
+Çınarlı,183,90,93,185,91,94,Gazimağusa,Geçitkale,Geçitkale,35.3329597,33.7685332,ChIJS2khqQpN3hQR0eDHZNaY1vM
+Mallıdağ,182,93,89,189,96,93,Gazimağusa,Geçitkale,Geçitkale,35.3346195,33.7014716,ChIJpSAkQYpO3hQR_mw-aZlPcyU
+Nergi̇sli̇,279,148,131,293,150,143,Gazimağusa,Geçitkale,Geçitkale,35.2114584,33.69029,ChIJY8VhkfxJ3hQR3TtQUo1M-Y8
+Sütlüce,291,143,148,349,173,176,Gazimağusa,Geçitkale,Geçitkale,35.2407082,33.69029,ChIJX8-_p59J3hQRTt4P10BII_U
+Yamaçköy,92,39,53,80,33,47,Gazimağusa,Geçitkale,Geçitkale,35.3221764,33.679107,ChIJI2lXk_FO3hQRe_DeHtHqp8E
+Serdarlı,1055,511,544,1041,496,545,Gazimağusa,Geçitkale,Serdarlı,35.2555267,33.6119814,ChIJ-1FV-PBH3hQR3ig5I4IhXBw
+Ergenekon,96,54,42,96,52,44,Gazimağusa,Geçitkale,Serdarlı,35.2980352,33.6007892,ChIJo-bEGxdG3hQRCtb46LGO9zA
+Gönendere,389,187,202,394,193,201,Gazimağusa,Geçitkale,Serdarlı,35.2707409,33.6567371,ChIJUbtao_9I3hQRGQZYKPBGAHQ
+Görneç,507,234,273,515,243,272,Gazimağusa,Geçitkale,Serdarlı,35.275795,33.5784007,ChIJyYc73gdH3hQRfmMT5CinGZM
+Pınarlı,167,86,81,202,101,101,Gazimağusa,Geçitkale,Serdarlı,35.2317425,33.6567371,ChIJOy2AVzlI3hQRAjxOiqnAn5s
+Ti̇rmen,197,106,91,184,106,78,Gazimağusa,Geçitkale,Serdarlı,35.3034905,33.6455502,ChIJ5-lxn7NI3hQRAPfDuw7QuFI
+Küçükerenköy,339,168,171,257,187,70,Gazimağusa,Geçitkale,Tatlısu,35.3630139,33.6682723,ChIJASOqhDZO3hQRLBc-qDsiiEI
+Aşağı Karaman,675,346,329,565,312,253,Girne,Girne,Girne,,,
+Beylerbeyi̇,918,476,442,934,503,431,Girne,Girne,Girne,35.2968734,33.3542258,ChIJFRSYOaEU3hQRgym5F_XZnto
+Doğanköy,868,429,439,457,245,212,Girne,Girne,Girne,35.3241561,33.3331825,ChIJ2_cKfkwT3hQRPMWDanLRPCQ
+Edremi̇t,1268,794,474,651,362,289,Girne,Girne,Girne,35.3346453,33.2559847,ChIJZ09DMp4S3hQRd0ZOf_1ilTc
+Karakum,722,390,332,299,184,115,Girne,Girne,Girne,35.3337487,33.3416004,ChIJjWF1a69s3hQRq9ClskzK_00
+Karaoğlanoğlu,3745,1963,1782,2610,1551,1059,Girne,Girne,Girne,35.3391989,33.2728331,ChIJFTeHhbES3hQRDSlhDo94ZNo
+Ozanköy,3070,1615,1455,2584,1441,1143,Girne,Girne,Girne,35.3261677,33.3542258,ChIJWQgBAqsU3hQRDGnebBrZxSQ
+Zeyti̇nli̇k Köy,622,296,326,513,265,248,Girne,Girne,Girne,35.3290981,33.2896786,ChIJwVvTLdAS3hQREGDVCh7-Py4
+Ilgaz,72,36,36,75,48,27,Girne,Girne,Alsancak,35.3140157,33.2278976,ChIJwfPO3qkN3hQRRA7HzvR1NmY
+İncesu,180,103,77,150,86,64,Girne,Girne,Alsancak,35.3306518,33.2096366,ChIJ2-_tevsM3hQRxLzz2YPxzAI
+Yeşi̇ltepe,750,454,296,290,147,143,Girne,Girne,Alsancak,35.3442807,33.2208745,ChIJQ37m3RwN3hQRXX8CJYlWe_0
+Arapköy,542,302,240,380,228,152,Girne,Girne,Çatalköy,35.2982601,33.4439588,ChIJ99aDMKZq3hQRBu8Ksl2TwCw
+Çatalköy,5110,2756,2354,3803,2147,1656,Girne,Girne,Çatalköy,35.3153575,33.4047109,ChIJA34q5CVr3hQRg5Hfzht5-RY
+Ağırdağ,745,376,369,454,250,204,Girne,Girne,Dikmen,35.2871985,33.2672173,ChIJ67JSUnAS3hQRLQG8XhnW1cY
+Akçi̇çek,79,45,34,87,45,42,Girne,Girne,Dikmen,35.2938313,33.1745097,ChIJq-MB6AEM3hQR-l97Vmwy_A4
+Aşağı Taşkent,290,148,142,264,134,130,Girne,Girne,Dikmen,35.2738554,33.365447,ChIJ-9GNM_QU3hQRWfij39XCSdc
+Boğazköy,1943,1116,827,1297,782,515,Girne,Girne,Dikmen,35.291758,33.2840638,ChIJX0_u6GkS3hQR-1XLGVP2Udo
+Dağyolu,525,258,267,525,267,258,Girne,Girne,Dikmen,35.250621,33.2194699,ChIJyyZGv2cO3hQRMTIGUf-gq2E
+Göçeri̇,228,119,109,155,83,72,Girne,Girne,Dikmen,35.2834291,33.2082318,ChIJh1pYrtUN3hQRacUjOhilL48
+Güngör,124,68,56,140,100,40,Girne,Girne,Dikmen,35.2661915,33.4215334,ChIJ03YxSXQV3hQR4xFQB-gI_Ow
+Kömürcü,67,27,40,34,16,18,Girne,Girne,Dikmen,35.2857855,33.2559847,ChIJTQMTPfEN3hQRJTxZ743D5oQ
+Pınarbaşı,483,236,247,484,237,247,Girne,Girne,Dikmen,35.2730184,33.2419422,ChIJSQMEM-YN3hQRS4wByo5E5SU
+Şi̇ri̇nevler,368,201,167,427,228,199,Girne,Girne,Dikmen,35.2644875,33.1745097,ChIJAy0Ii7UO3hQRJ_TtF_VdPxA
+Yukarı Taşkent,299,145,154,289,145,144,Girne,Girne,Dikmen,35.2569465,33.3962986,ChIJz9U6E_8U3hQRanxew9hlx0U
+Esentepe,1754,920,834,1575,949,626,Girne,Girne,Esentepe,35.3403306,33.5817749,
+Bahçeli̇,388,193,195,393,204,189,Girne,Girne,Esentepe,35.3428587,33.6287673,ChIJ8Qe9QW9P3hQR9NaEanZcrvI
+Beşparmak,30,16,14,42,23,19,Girne,Girne,Esentepe,35.2975375,33.4775871,ChIJ5YwrdUNA3hQR5J9wzYWE44s
+Karaağaç,242,116,126,264,133,131,Girne,Girne,Esentepe,35.3124353,33.5392081,ChIJ7VYHdJRG3hQRvc06gOS-wAA
+Karaman,55,29,26,85,43,42,Girne,Girne,Esentepe,35.3149411,33.2644093,ChIJc0Z0on0N3hQRzLJNY-kkK-4
+Karşıyaka,2091,1057,1034,2110,1185,925,Girne,Girne,Lapta,35.3439517,33.1070309,ChIJI23ralMK3hQRmSYUL86bEWI
+Akdeni̇z,522,276,246,597,317,280,Girne,Çamlıbel,Lapta,35.2907038,32.9775675,ChIJwfPNebbk3RQRQ4wY82BrkXg
+Alemdağ,86,45,41,87,45,42,Girne,Çamlıbel,Lapta,35.2974502,33.1548332,ChIJr2BEl-EL3hQRuxRFrugXaDI
+Çamlıbel,872,466,406,1037,561,476,Girne,Çamlıbel,Lapta,35.3152032,33.0732741,ChIJKUqtUgji3RQRspS_34LLa1s
+Geçi̇tköy,220,126,94,213,139,74,Girne,Çamlıbel,Lapta,35.3446997,33.0648331,ChIJ4xP-0fnh3RQR8AxYXLsvyzE
+Hi̇sarköy,194,89,105,194,95,99,Girne,Çamlıbel,Lapta,35.3032467,33.1042183,ChIJAbvlJ5QJ3hQRTtLtonn2DKU
+Karpaşa,256,150,106,89,44,45,Girne,Çamlıbel,Lapta,35.2858449,33.0732741,ChIJ4dnRB3vi3RQR-lNp5vJPO8A
+Kayalar,234,136,98,181,97,84,Girne,Çamlıbel,Lapta,35.35837739999999,33.0282472,ChIJ4UZrwHXh3RQR2PaE3-Wo7uw
+Kılıçarslan,194,102,92,218,128,90,Girne,Çamlıbel,Lapta,35.2619306,33.1351527,ChIJD2LWg_gI3hQRPkQCNEuxAgw
+Koruçam,309,147,162,195,91,104,Girne,Çamlıbel,Lapta,35.3425478,33.000095,ChIJx4wIQefj3RQR954Nruf_HOE
+Kozan,375,175,200,464,230,234,Girne,Çamlıbel,Lapta,35.3076877,33.12952900000001,ChIJZSJJD2MJ3hQRrXqQjWK3sFg
+Özhan,73,38,35,82,45,37,Girne,Çamlıbel,Lapta,35.2628117,33.0845277,ChIJf0DUGkwI3hQRtzbRpmnmEnE
+Sadrazamköy,170,80,90,166,85,81,Girne,Çamlıbel,Lapta,35.382536,32.9494009,ChIJ17BMu43m3RQRUulnzLeP1Gk
+Tepebaşı,774,417,357,798,427,371,Girne,Çamlıbel,Lapta,35.2964917,33.0226174,ChIJh89DvULi3RQRdBBYCLBD6JM
+Akçay,1008,511,497,1033,522,511,Güzelyurt,Güzelyurt,Güzelyurt,35.188463,33.0395058,ChIJgTNn8n3-3RQRjdbMqU27XTk
+Aşağı Bostancı,1822,872,950,2024,1010,1014,Güzelyurt,Güzelyurt,Güzelyurt,35.156664,32.9831998,ChIJjbYq_sD-3RQRRBwt-tCPH7k
+Aydınköy,1164,563,601,1154,577,577,Güzelyurt,Güzelyurt,Güzelyurt,35.1704228,32.9381321,ChIJ8XZ5q1T43RQRzV60qnMopDY
+Gayretköy,367,179,188,367,188,179,Güzelyurt,Güzelyurt,Güzelyurt,35.1693415,33.1098434,ChIJK62DccsA3hQRAGla_VKsatc
+Güneşköy,505,252,253,546,277,269,Güzelyurt,Güzelyurt,Güzelyurt,35.1783861,32.9522179,ChIJwRmoGRv53RQRTTcfmvPxpBo
+Kalkanlı,2305,1423,882,1338,811,527,Güzelyurt,Güzelyurt,Güzelyurt,35.2377309,33.0226174,ChIJQyuQ1iP93RQRg1qfNPTRskI
+Mevlevi̇,386,207,179,370,217,153,Güzelyurt,Güzelyurt,Güzelyurt,35.2109599,33.0620193,ChIJ6WxWC5b93RQR_5--axMMlfw
+Serhatköy,573,280,293,595,300,295,Güzelyurt,Güzelyurt,Güzelyurt,35.1905207,33.1126559,ChIJS4_MUl0H3hQRcIMqx8tFKPE
+Şahi̇nler,189,89,100,179,82,97,Güzelyurt,Güzelyurt,Güzelyurt,35.1797005,33.0760876,ChIJcbZPcfb93RQRkUJAV1mCgxU
+Yayla,850,424,426,775,390,385,Güzelyurt,Güzelyurt,Güzelyurt,35.2194604,32.9381321,ChIJMfmr19L73RQRh0aCJUR2yxg
+Yukarı Bostancı,1495,788,707,1419,746,673,Güzelyurt,Güzelyurt,Güzelyurt,35.1386371,32.9860159,ChIJMyeRpuj-3RQRDNZiowoWvBo
+Yuvacık,214,113,101,214,112,102,Güzelyurt,Güzelyurt,Güzelyurt,35.2116477,33.0198024,ChIJby8zJkT83RQRld-NRrT-uYE
+Zümrütköy,817,389,428,921,457,464,Güzelyurt,Güzelyurt,Güzelyurt,35.1750763,33.0592054,ChIJCb4haHH-3RQRGM3vjRR4u1E
+Lefke,3009,1600,1409,2908,1571,1337,Güzelyurt,Lefke,Lefke,35.0965045,32.8422959,ChIJJcwU6qVZ5xQRkcCTmSDRNms
+Bademli̇köy,93,47,46,106,53,53,Güzelyurt,Lefke,Lefke,35.1565604,32.7576589,ChIJgSNU9gdf5xQRiKQhw6eXsLo
+Bağlıköy,200,99,101,222,100,122,Güzelyurt,Lefke,Lefke,35.1198031,32.8140914,ChIJufDGSspe5xQRti6m1cYJ7cY
+Cengi̇zköy,217,106,111,180,97,83,Güzelyurt,Lefke,Lefke,35.1355653,32.8592148,ChIJQezCzERY5xQRDAbxW8MZjdE
+Çamlıköy,170,79,91,255,124,131,Güzelyurt,Lefke,Lefke,35.1140935,32.8733117,ChIJAzmtTDVY5xQRUIkSXcYjHX8
+Deni̇zli̇,460,238,222,573,313,260,Güzelyurt,Lefke,Lefke,35.1471499,32.8498745,ChIJW2dQ9YxY5xQR7UjsWMVoXM0
+Doğancı,1299,662,637,1291,654,637,Güzelyurt,Lefke,Lefke,35.1380434,32.9155906,ChIJe0vMruVX5xQRdlKV_XZjxnU
+Gazi̇veren,1042,518,524,1002,508,494,Güzelyurt,Lefke,Lefke,35.1674849,32.9155906,ChIJEXCaWzf43RQR7zTW95TGTfo
+Taşpınar,181,92,89,212,115,97,Güzelyurt,Lefke,Lefke,35.1179217,32.9494009,ChIJSytdCzRW5xQRJUyZzLdv1n4
+Yedi̇dalga,669,329,340,767,397,370,Güzelyurt,Lefke,Lefke,35.144474,32.8056285,ChIJcb1P3tJY5xQRmfZXUDXRy0s
+Yeşi̇lırmak,458,227,231,410,210,200,Güzelyurt,Lefke,Lefke,35.1667086,32.732254,ChIJ7fWEp8df5xQR6HUUmDmX6gk
+Yeşi̇lyurt,1218,637,581,1278,701,577,Güzelyurt,Lefke,Lefke,35.1483418,32.8817689,ChIJpSgobwpY5xQRwtSdyBiNSQU
+Ağıllar,188,91,97,176,87,89,İskele,İskele,İskele,35.3480408,33.8132141,ChIJUSNwLkyt3xQRSomsft-WRec
+Altınova,229,115,114,250,115,135,İskele,İskele,İskele,35.3153248,33.824381,ChIJY7u8o6Oy3xQRg_sVkgyCKqo
+Ardahan,330,170,160,350,178,172,İskele,İskele,İskele,35.3555716,33.8969328,ChIJK0xTfYKu3xQRkpKVIOf3KIA
+Aygün,414,209,205,380,187,193,İskele,İskele,İskele,35.2587458,33.8801952,ChIJz0sKlpSz3xQRfqCrh0TGdtE
+Boğaz,157,86,71,295,186,109,İskele,İskele,İskele,35.316774,33.9540969,ChIJUasau5ev3xQRzJkaQJUAR-A
+Boğazi̇çi̇,514,252,262,475,234,241,İskele,İskele,İskele,35.272867,33.8355465,ChIJZSUjjWyz3xQRNs6Qsmp39nA
+Boğaztepe,312,151,161,444,280,164,İskele,İskele,İskele,35.3169997,33.9457337,ChIJpZeEvrmv3xQRkQn98z8idbo
+Ergazi̇,202,94,108,207,92,115,İskele,İskele,İskele,35.3771934,33.9359756,ChIJQ1UAPi-v3xQR1V4TY1l3_68
+Kaleci̇k,435,225,210,308,171,137,İskele,İskele,İskele,35.3338704,33.9805756,ChIJ8Ue0K8Ol3xQRBAocAhcv6Ys
+Kurtuluş,106,55,51,86,44,42,İskele,İskele,İskele,35.3522187,33.9610657,ChIJh8Yz8E-v3xQRvTvUBpX0qFs
+Kuzucuk,344,183,161,283,149,134,İskele,İskele,İskele,35.2366033,33.8578735,ChIJ_ZP9CnS03xQRzYR6mME076Y
+Ötüken,550,267,283,386,192,194,İskele,İskele,İskele,35.2359621,33.882985,ChIJ57M9VAi03xQRtd2YBqUErx4
+Sınırüstü,186,99,87,154,85,69,İskele,İskele,İskele,35.2852727,33.8578735,ChIJJwpkVKWz3xQRkigOcbpOlh8
+Topçuköy,310,150,160,336,169,167,İskele,İskele,İskele,35.3339151,33.8578735,ChIJffxtwMSt3xQRk3m4vey4iDQ
+Turnalar,142,75,67,134,72,62,İskele,İskele,İskele,35.3515836,33.9248222,ChIJSzXsUtyu3xQR1VXj5GR6kdU
+Yarköy,429,208,221,348,177,171,İskele,İskele,İskele,35.3286036,33.9359756,ChIJrdCyc1Ou3xQRxHhmQxG1Cfk
+Büyükkonuk,812,435,377,775,399,376,İskele,Mehmetçik,Büyükkonuk,35.4243568,33.986149,ChIJNXgAoeqn3xQRQyZwR32q9Bc
+Kaplıca,389,197,192,408,205,203,İskele,Mehmetçik,Büyükkonuk,35.4134201,33.9136675,ChIJfR7-IQip3xQRY1J_oXkCTf4
+Ki̇li̇tkaya,172,82,90,177,87,90,İskele,Mehmetçik,Büyükkonuk,35.3895332,33.9582783,ChIJKaLbloGo3xQRiI0jnDWioi0
+Mersi̇nli̇k,158,80,78,169,87,82,İskele,Mehmetçik,Büyükkonuk,35.3922503,33.8578735,ChIJj1VTB3as3xQRMg9DvvjtqCs
+Sazlıköy,44,23,21,96,46,50,İskele,Mehmetçik,Büyükkonuk,35.3938178,34.036295,ChIJTeADeQyn3xQRXkzFnnGoJEk
+Tuzluca,389,216,173,334,165,169,İskele,Mehmetçik,Büyükkonuk,35.3594694,33.9917222,ChIJEW9CzxKm3xQRo5ptbTi1y_0
+Yedi̇konuk,860,436,424,859,450,409,İskele,Mehmetçik,Büyükkonuk,35.4489622,34.0307246,ChIJD8EXgbAJ3xQRV86efYs1Lyg
+Zeybekköy,36,18,18,31,16,15,İskele,Mehmetçik,Büyükkonuk,35.386124,34.0223683,ChIJWxKL7aun3xQRGTaHKC59KNg
+Mehmetçi̇k,1249,633,616,1196,621,575,İskele,Mehmetçik,Mehmetçik,35.415337,34.0752783,ChIJz4xBRhkK3xQRmThc7yJ3-xA
+Bafra,1019,706,313,514,344,170,İskele,Mehmetçik,Mehmetçik,35.3734501,34.0697103,ChIJo133OM6g3xQR4lp7rm3fOrY
+Balalan,89,43,46,97,47,50,İskele,Mehmetçik,Mehmetçik,35.4827208,34.0919803,ChIJX5IB3X0M3xQRnOGYt_iti0I
+Çayırova,406,210,196,430,221,209,İskele,Mehmetçik,Mehmetçik,35.3519049,34.0307246,ChIJISBzmemm3xQRbHjlmIap3DY
+Kumyalı,686,342,344,666,344,322,İskele,Mehmetçik,Mehmetçik,35.4235636,34.1253751,ChIJYXp-AiAL3xQRtoMhux70cfw
+Pamuklu,280,141,139,256,129,127,İskele,Mehmetçik,Mehmetçik,35.3926183,34.0780622,ChIJc-oXFqWg3xQRFdJRKq-xF_U
+Kantara,21,19,2,3,2,1,İskele,Mehmetçik,Mehmetçik,35.3871012,33.8990248,ChIJjZyEuU2p3xQROD6uAAxEHCg
+Kaleburnu,333,158,175,351,157,194,İskele,Yeni,Dipkarpaz,35.521343,34.3032719,ChIJO9rzvaZv3xQR3bJFs5MUGq8
+Yeni̇ Erenköy,1774,874,900,1640,816,824,İskele,Yeni,Yeni,35.5347254,34.1865669,ChIJx9sAZHNt3xQR7rlOtL4guiY
+Adaçay,100,51,49,88,44,44,İskele,Yeni,Yeni,35.5066918,34.2060283,ChIJLdStg31y3xQRDkjvMJyd_oA
+Avtepe,119,56,63,151,67,84,İskele,Yeni,Yeni,35.4847601,34.236602,ChIJL1aTzkZy3xQR9fXfZJVqp48
+Boltaşlı,228,118,110,266,143,123,İskele,Yeni,Yeni,35.4674542,34.1698823,ChIJq2tM1Dtz3xQRio98UMYlW4o
+Deri̇nce,488,250,238,524,264,260,İskele,Yeni,Yeni,35.4700019,34.1921277,ChIJx0LR8_By3xQRQM3NU_m4cio
+Esenköy,58,26,32,58,28,30,İskele,Yeni,Yeni,35.4893751,34.13928600000001,ChIJ61ThRtEM3xQRkPeCY9yZEm8
+Geli̇nci̇k,496,245,251,458,233,225,İskele,Yeni,Yeni,35.4516433,34.1587576,ChIJadCyZLMM3xQRTTqTp9vMMA8
+Kuruova,132,58,74,145,64,81,İskele,Yeni,Yeni,35.5030642,34.2699432,ChIJneqaDzpu3xQRNuMuM_dsljA
+Si̇pahi̇,614,295,319,659,322,337,İskele,Yeni,Yeni,35.5331526,34.236602,ChIJRe5YJrdt3xQRNMiDadjI280
+Taşlıca,80,40,40,99,53,46,İskele,Yeni,Yeni,35.4643867,34.2171472,ChIJKVz5NrZz3xQRC0ySgw6qt50
+Yeşi̇lköy,799,411,388,777,386,391,İskele,Yeni,Yeni,35.5031406,34.1643201,ChIJ_bg3-89y3xQRWY8WMwdxxjA
+Zi̇yamet,739,387,352,715,365,350,İskele,Yeni,Yeni,35.4623398,34.1253751,ChIJv1L4zExz3xQRlKeaoS9biFo
+Erenköy,0,0,0,0,0,0,Lefke,Lefke,Lefke,35.179457,32.610868,ChIJ_Sn_GWVh5xQRezW4HeaNPhE
