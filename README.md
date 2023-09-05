@@ -7,6 +7,8 @@ The CyprusDB database is a dataset compiling publicly available information on C
 
 Η βάση δεδομένων CyprusDB είναι ένα σύνολο δεδομένων που συγκεντρώνει δημόσια διαθέσιμες πληροφορίες για την Κύπρο. Είναι σχεδιασμένη να ενημερώνεται περιοδικά και να χρησιμοποιείται για ερευνητικούς σκοπούς. Η βάση δεδομένων είναι διαθέσιμη σε μορφές CSV και XLSX και μπορεί να ληφθεί απευθείας από τον ριζικό φάκελο του αποθετηρίου.
 
+[Διαδραστικός χάρτης Κύπρου με πληροφορίες από CyprusDB - Interactive map with information from CyprusDB](https://public.tableau.com/app/profile/jgchaparro/viz/ToponymmapofCyprus/Toponymdashboard)
+
 ## Contents - Περιεχόμενα
 
 * Toponyms in Greek and Turkish - Τοπωνύμια στα Ελληνικά και Τουρκικά
